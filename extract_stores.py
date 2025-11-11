@@ -54,15 +54,21 @@ def get_store_details(url):
             return None
 
         json_str = html[start_idx:end_idx]
-        data = json.loads(json_str)
+        raw_data = json.loads(json_str)
         
-        store_info = {}
+        # JSON-LD can be a single object, a list of objects, or a graph object
+        if isinstance(raw_data, dict) and '@graph' in raw_data:
+            data_list = raw_data['@graph']
+        elif isinstance(raw_data, list):
+            data_list = raw_data
+        else:
+            data_list = [raw_data]
+
+        store_info = None
         services = []
-
-        if not isinstance(data, list):
-            data = [data]
-
-        for item in data:
+        for item in data_list:
+            if not isinstance(item, dict):
+                continue
             item_type = item.get('@type')
             if item_type == 'LocalBusiness':
                 store_info = item
@@ -72,33 +78,53 @@ def get_store_details(url):
         if not store_info:
             return None
 
-        address_info = store_info.get('address', {})
-        geo_info = store_info.get('geo', {})
-        
+        # Defensively get nested properties
+        address_info = store_info.get('address')
+        street = locality = postcode = country = None
+        if isinstance(address_info, dict):
+            street = address_info.get('streetAddress')
+            locality = address_info.get('addressLocality')
+            postcode = address_info.get('postalCode')
+            country_obj = address_info.get('addressCountry')
+            if isinstance(country_obj, dict):
+                country = country_obj.get('name')
+
+        geo_info = store_info.get('geo')
+        latitude = longitude = None
+        if isinstance(geo_info, dict):
+            lat_str = geo_info.get('latitude')
+            lon_str = geo_info.get('longitude')
+            try:
+                if lat_str is not None: latitude = float(lat_str)
+                if lon_str is not None: longitude = float(lon_str)
+            except (ValueError, TypeError):
+                pass # Keep as None if conversion fails
+
         opening_hours = []
         hours_specs = store_info.get('openingHoursSpecification', [])
         if not isinstance(hours_specs, list):
             hours_specs = [hours_specs]
             
         for spec in hours_specs:
-            day = spec.get('dayOfWeek', '').split('/')[-1]
-            opening_hours.append({
-                'dayOfWeek': day,
-                'opens': spec.get('opens'),
-                'closes': spec.get('closes')
-            })
+            if isinstance(spec, dict):
+                day = spec.get('dayOfWeek', '').split('/')[-1]
+                opening_hours.append({
+                    'dayOfWeek': day,
+                    'opens': spec.get('opens'),
+                    'closes': spec.get('closes')
+                })
 
         store_data = {
             'ref': store_info.get('@id'),
             'name': store_info.get('name'),
             'url': store_info.get('url'),
             'phone': store_info.get('telephone'),
-            'address': address_info.get('streetAddress'),
-            'locality': address_info.get('addressLocality'),
-            'postcode': address_info.get('postalCode'),
-            'country': address_info.get('addressCountry', {}).get('name'),
-            'latitude': float(geo_info.get('latitude')) if geo_info.get('latitude') else None,
-            'longitude': float(geo_info.get('longitude')) if geo_info.get('longitude') else None,
+            'address': street,
+            'locality': locality,
+            'postcode': postcode,
+            'country': country,
+            'latitude': latitude,
+            'longitude': longitude,
             'openingHours': opening_hours,
             'services': sorted(list(set(services)))
         }
