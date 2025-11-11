@@ -19120,56 +19120,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-hobart-south",
-    "name": "Ampol Foodary Hobart South",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-hobart-south",
-    "phone": "+61362232134",
-    "address": "Davey St Cnr Antill St, 152-158",
-    "locality": "Hobart South",
-    "postcode": "7000",
-    "country": null,
-    "latitude": -42.891354,
-    "longitude": 147.321352,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-holbrook",
     "name": "Ampol Foodary Holbrook",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-holbrook",
