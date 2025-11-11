@@ -9,7 +9,7 @@ import argparse
 
 # The filename is constructed from the URL by download.sh
 SITEMAP_FILE = "locations.ampol.com.au-sitemap.xml.xml"
-DEFAULT_WORKERS = 16
+DEFAULT_WORKERS = 8
 verbose = False
 
 def extract_urls_from_sitemap(filepath):
