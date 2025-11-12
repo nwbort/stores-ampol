@@ -803,7 +803,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-ballina-east",
     "name": "Ampol Ballina East",
     "url": "http://locations.ampol.com.au/en/ampol-ballina-east",
-    "phone": "0",
+    "phone": "+61266866444",
     "address": "Links Ave, 34",
     "locality": "East Ballina",
     "postcode": "2478",
@@ -16233,37 +16233,37 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "22:00"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "22:00"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "22:00"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "22:00"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "22:00"
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "22:00"
       },
       {
         "dayOfWeek": "Sunday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "22:00"
       }
     ],
@@ -19115,6 +19115,56 @@
         "dayOfWeek": "Sunday",
         "opens": "05:30",
         "closes": "22:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-hobart-south",
+    "name": "Ampol Foodary Hobart South",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-hobart-south",
+    "phone": "+61362232134",
+    "address": "Davey St Cnr Antill St, 152-158",
+    "locality": "Hobart South",
+    "postcode": "7000",
+    "country": null,
+    "latitude": -42.891354,
+    "longitude": 147.321352,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
