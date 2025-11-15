@@ -35533,38 +35533,38 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "06:00",
-        "closes": "20:00"
+        "opens": "05:30",
+        "closes": "20:30"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "06:00",
-        "closes": "20:00"
+        "opens": "05:30",
+        "closes": "20:30"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "06:00",
-        "closes": "20:00"
+        "opens": "05:30",
+        "closes": "20:30"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "06:00",
-        "closes": "20:00"
+        "opens": "05:30",
+        "closes": "20:30"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "06:00",
-        "closes": "20:00"
+        "opens": "05:30",
+        "closes": "20:30"
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "06:00",
-        "closes": "20:00"
+        "opens": "05:30",
+        "closes": "20:30"
       },
       {
         "dayOfWeek": "Sunday",
-        "opens": "06:00",
-        "closes": "20:00"
+        "opens": "05:30",
+        "closes": "20:30"
       }
     ],
     "services": []
@@ -42723,7 +42723,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-murray-bridge-swanport-rd",
     "name": "Ampol Murray Bridge Swanport Rd",
     "url": "http://locations.ampol.com.au/en/ampol-murray-bridge-swanport-rd",
-    "phone": "+61885322134",
+    "phone": "+61885325129",
     "address": "Swanport Rd, 114",
     "locality": "Murray Bridge",
     "postcode": "5253",
