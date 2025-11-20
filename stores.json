@@ -22170,6 +22170,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-livingston",
+    "name": "Ampol Foodary Livingston",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-livingston",
+    "phone": "+61894556153",
+    "address": "Ranford Rd, 110",
+    "locality": "Canning Vale",
+    "postcode": "6155",
+    "country": null,
+    "latitude": -32.0871103,
+    "longitude": 115.9165993,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "04:30",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "04:30",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "04:30",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "04:30",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "04:30",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "04:30",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "04:30",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-longwarry-eastbound",
     "name": "Ampol Foodary Longwarry (eastbound)",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-longwarry-eastbound",
