@@ -49273,7 +49273,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-tremont",
     "name": "Ampol Tremont",
     "url": "http://locations.ampol.com.au/en/ampol-tremont",
-    "phone": "+61421512502",
+    "phone": "0",
     "address": "Mt Dandenong Tourist Rd, 100",
     "locality": "Tremont",
     "postcode": "3785",
@@ -58733,33 +58733,33 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "08:30",
-        "closes": "17:30"
+        "opens": "08:00",
+        "closes": "16:00"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "08:30",
-        "closes": "17:30"
+        "opens": "08:00",
+        "closes": "16:00"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "08:30",
-        "closes": "17:30"
+        "opens": "08:00",
+        "closes": "16:00"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "08:30",
-        "closes": "17:30"
+        "opens": "08:00",
+        "closes": "16:00"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "08:30",
-        "closes": "17:30"
+        "opens": "08:00",
+        "closes": "16:00"
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "08:30",
-        "closes": "13:00"
+        "opens": "00:00",
+        "closes": "00:00"
       },
       {
         "dayOfWeek": "Sunday",
