@@ -1103,7 +1103,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-beaudesert-south",
     "name": "Ampol Beaudesert South",
     "url": "http://locations.ampol.com.au/en/ampol-beaudesert-south",
-    "phone": "0",
+    "phone": "+61755413211",
     "address": "Telemon St, 2",
     "locality": "Beaudesert South",
     "postcode": "4285",
@@ -11223,7 +11223,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-burdell",
     "name": "Ampol Foodary Burdell",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-burdell",
-    "phone": "0",
+    "phone": "+61747743118",
     "address": "Market St, 22-28",
     "locality": "Burdell Townsville",
     "postcode": "4818",
@@ -13023,7 +13023,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-chinchilla",
     "name": "Ampol Foodary Chinchilla",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-chinchilla",
-    "phone": "0",
+    "phone": "+61746627810",
     "address": "Warrego Hwy Cnr Price St",
     "locality": "Chinchilla",
     "postcode": "4413",
@@ -15280,56 +15280,6 @@
     "country": null,
     "latitude": -42.866108,
     "longitude": 147.373084,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-eaton-mcmillian-rd",
-    "name": "Ampol Foodary Eaton Mcmillian Rd",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-eaton-mcmillian-rd",
-    "phone": "+61889483089",
-    "address": "Cnr Mcmillian Rd & Neale St",
-    "locality": "Eaton",
-    "postcode": "0820",
-    "country": null,
-    "latitude": -12.397471,
-    "longitude": 130.86041,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
@@ -24420,56 +24370,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-mount-lawley-inglewood",
-    "name": "Ampol Foodary Mount Lawley (inglewood)",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-mount-lawley-inglewood",
-    "phone": "+61892713011",
-    "address": "Beaufort St, 810",
-    "locality": "Mount Lawley",
-    "postcode": "6050",
-    "country": null,
-    "latitude": -31.925227,
-    "longitude": 115.881476,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-mount-waverley",
     "name": "Ampol Foodary Mount Waverley",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-mount-waverley",
@@ -26073,7 +25973,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-north-lakes",
     "name": "Ampol Foodary North Lakes",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-north-lakes",
-    "phone": "0",
+    "phone": "+61734812493",
     "address": "Cnr Mason & Stapylton Streets",
     "locality": "North Lakes",
     "postcode": "4509",
@@ -33533,13 +33433,13 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "05:00",
-        "closes": "21:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "05:00",
-        "closes": "21:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Wednesday",
@@ -42223,7 +42123,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-mt-isa-miners-mate",
     "name": "Ampol Mt Isa Miners Mate",
     "url": "http://locations.ampol.com.au/en/ampol-mt-isa-miners-mate",
-    "phone": "0",
+    "phone": "1800240398",
     "address": "Camooweal St Cnr Grace St, 105",
     "locality": "Mount Isa",
     "postcode": "4825",
@@ -48823,7 +48723,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-toowoomba",
     "name": "Ampol Toowoomba",
     "url": "http://locations.ampol.com.au/en/ampol-toowoomba",
-    "phone": "0",
+    "phone": "+61734935407",
     "address": "Taylor St, 383-391",
     "locality": "Toowoomba",
     "postcode": "4350",
