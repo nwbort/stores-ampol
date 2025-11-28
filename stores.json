@@ -11120,56 +11120,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-bunbury",
-    "name": "Ampol Foodary Bunbury",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-bunbury",
-    "phone": "+61897219392",
-    "address": "Forrest Ave, 1-3",
-    "locality": "Bunbury",
-    "postcode": "6230",
-    "country": null,
-    "latitude": -33.33668,
-    "longitude": 115.641368,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "04:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "04:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "04:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "04:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "04:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "04:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "04:00",
-        "closes": "23:00"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-bundaberg-central",
     "name": "Ampol Foodary Bundaberg Central",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-bundaberg-central",
@@ -15320,6 +15270,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-eaton-mcmillian-rd",
+    "name": "Ampol Foodary Eaton Mcmillian Rd",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-eaton-mcmillian-rd",
+    "phone": "+61889483089",
+    "address": "Cnr Mcmillian Rd & Neale St",
+    "locality": "Eaton",
+    "postcode": "0820",
+    "country": null,
+    "latitude": -12.397471,
+    "longitude": 130.86041,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-eaton-old-coast-rd",
     "name": "Ampol Foodary Eaton Old Coast Rd",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-eaton-old-coast-rd",
@@ -16183,38 +16183,38 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "06:00",
+        "closes": "21:00"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "06:00",
+        "closes": "21:00"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "06:00",
+        "closes": "21:00"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "06:00",
+        "closes": "21:00"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "06:00",
+        "closes": "21:00"
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "06:00",
+        "closes": "21:00"
       },
       {
         "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "06:00",
+        "closes": "21:00"
       }
     ],
     "services": []
@@ -24365,6 +24365,56 @@
         "dayOfWeek": "Sunday",
         "opens": "06:00",
         "closes": "22:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-mount-lawley-inglewood",
+    "name": "Ampol Foodary Mount Lawley (inglewood)",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-mount-lawley-inglewood",
+    "phone": "+61892713011",
+    "address": "Beaufort St, 810",
+    "locality": "Mount Lawley",
+    "postcode": "6050",
+    "country": null,
+    "latitude": -31.925227,
+    "longitude": 115.881476,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
@@ -34065,6 +34115,56 @@
         "dayOfWeek": "Sunday",
         "opens": "05:00",
         "closes": "21:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-woollahra",
+    "name": "Ampol Foodary Woollahra",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-woollahra",
+    "phone": "+61293873623",
+    "address": "Old South Head Rd, 118",
+    "locality": "Woollahra",
+    "postcode": "2025",
+    "country": null,
+    "latitude": -33.88961,
+    "longitude": 151.255386,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "06:00",
+        "closes": "22:00"
       }
     ],
     "services": []
@@ -47923,7 +48023,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-tamworth",
     "name": "Ampol Tamworth",
     "url": "http://locations.ampol.com.au/en/ampol-tamworth",
-    "phone": "+61267620966",
+    "phone": "0",
     "address": "Goonoo Goonoo Rd, 502",
     "locality": "Tamworth",
     "postcode": "2340",
