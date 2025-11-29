@@ -11120,6 +11120,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-bunbury",
+    "name": "Ampol Foodary Bunbury",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-bunbury",
+    "phone": "+61897219392",
+    "address": "Forrest Ave, 1-3",
+    "locality": "Bunbury",
+    "postcode": "6230",
+    "country": null,
+    "latitude": -33.33668,
+    "longitude": 115.641368,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "04:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "04:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "04:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "04:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "04:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "04:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "04:00",
+        "closes": "23:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-bundaberg-central",
     "name": "Ampol Foodary Bundaberg Central",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-bundaberg-central",
