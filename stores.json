@@ -8383,37 +8383,37 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:59"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:59"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:59"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:59"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:59"
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:59"
       },
       {
         "dayOfWeek": "Sunday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:59"
       }
     ],
@@ -23233,37 +23233,37 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:59"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:59"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:59"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:59"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:59"
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:59"
       },
       {
         "dayOfWeek": "Sunday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:59"
       }
     ],
@@ -27883,38 +27883,38 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "05:00",
+        "closes": "23:00"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "05:00",
+        "closes": "23:00"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "05:00",
+        "closes": "23:00"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "05:00",
+        "closes": "23:00"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "05:00",
+        "closes": "23:00"
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "05:00",
+        "closes": "23:00"
       },
       {
         "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "05:00",
+        "closes": "23:00"
       }
     ],
     "services": []
@@ -30833,37 +30833,37 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:00"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:00"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:00"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:00"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:00"
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:00"
       },
       {
         "dayOfWeek": "Sunday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:00"
       }
     ],
@@ -47020,56 +47020,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-shepparton-depot",
-    "name": "Ampol Shepparton Depot",
-    "url": "http://locations.ampol.com.au/en/ampol-shepparton-depot",
-    "phone": "+61358215460",
-    "address": "Mcgill St, 17-26",
-    "locality": "Shepparton",
-    "postcode": "3630",
-    "country": null,
-    "latitude": -36.3630932,
-    "longitude": 145.4294947,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-shoalhaven-heads",
     "name": "Ampol Shoalhaven Heads",
     "url": "http://locations.ampol.com.au/en/ampol-shoalhaven-heads",
@@ -54373,7 +54323,7 @@
     "ref": "http://locations.ampol.com.au/en/independent-ivanhoe-sstn-and-caravan-park",
     "name": "Independent Ivanhoe S\\/stn & Caravan Park",
     "url": "http://locations.ampol.com.au/en/independent-ivanhoe-sstn-and-caravan-park",
-    "phone": "+61269951187",
+    "phone": "0",
     "address": "Columbus St, 32",
     "locality": "Ivanhoe",
     "postcode": "2878",
@@ -59530,6 +59480,56 @@
     "country": null,
     "latitude": -28.34681,
     "longitude": 116.68282,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "https://locations.ampol.com.au/en/ampol-sarina-service-centre",
+    "name": "Ampol Sarina Service Centre",
+    "url": "https://locations.ampol.com.au/en/ampol-sarina-service-centre",
+    "phone": "+61269482700",
+    "address": "Bruce Highway, 90918",
+    "locality": "Sarina",
+    "postcode": "4737",
+    "country": null,
+    "latitude": -21.436515,
+    "longitude": 149.222755,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
