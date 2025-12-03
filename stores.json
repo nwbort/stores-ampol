@@ -11120,56 +11120,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-bunbury",
-    "name": "Ampol Foodary Bunbury",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-bunbury",
-    "phone": "+61897219392",
-    "address": "Forrest Ave, 1-3",
-    "locality": "Bunbury",
-    "postcode": "6230",
-    "country": null,
-    "latitude": -33.33668,
-    "longitude": 115.641368,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "04:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "04:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "04:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "04:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "04:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "04:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "04:00",
-        "closes": "23:00"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-bundaberg-central",
     "name": "Ampol Foodary Bundaberg Central",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-bundaberg-central",
@@ -12465,56 +12415,6 @@
         "dayOfWeek": "Sunday",
         "opens": "06:00",
         "closes": "20:00"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-carnarvon-robinson-st",
-    "name": "Ampol Foodary Carnarvon Robinson St",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-carnarvon-robinson-st",
-    "phone": "+61899418140",
-    "address": "Robinson St, 595",
-    "locality": "Carnarvon",
-    "postcode": "6701",
-    "country": null,
-    "latitude": -24.862274,
-    "longitude": 113.7010402,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "05:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "05:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "05:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "05:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "05:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "05:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "05:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -20920,56 +20820,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-kwinana",
-    "name": "Ampol Foodary Kwinana",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-kwinana",
-    "phone": "+61894194866",
-    "address": "Mandurah Rd Cnr Wellard Rd, 500",
-    "locality": "Kwinana",
-    "postcode": "6167",
-    "country": null,
-    "latitude": -32.2487481,
-    "longitude": 115.7828389,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-kyogle",
     "name": "Ampol Foodary Kyogle",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-kyogle",
@@ -25615,56 +25465,6 @@
         "dayOfWeek": "Sunday",
         "opens": "06:00",
         "closes": "23:00"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-new-town",
-    "name": "Ampol Foodary New Town",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-new-town",
-    "phone": "+61362284754",
-    "address": "Risdon Road Near Queens Walk, 71",
-    "locality": "New Town",
-    "postcode": "7008",
-    "country": null,
-    "latitude": -42.851853,
-    "longitude": 147.310634,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "06:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "06:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "06:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "06:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "06:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "06:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "06:00",
-        "closes": "22:00"
       }
     ],
     "services": []
@@ -33470,56 +33270,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-willetton",
-    "name": "Ampol Foodary Willetton",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-willetton",
-    "phone": "+61893548169",
-    "address": "High Rd, 167-169",
-    "locality": "Willetton",
-    "postcode": "6155",
-    "country": null,
-    "latitude": -32.0389817,
-    "longitude": 115.884126,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "04:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "04:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "04:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "04:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "04:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "05:00",
-        "closes": "22:00"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-williams",
     "name": "Ampol Foodary Williams",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-williams",
@@ -38923,7 +38673,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-kenthurst",
     "name": "Ampol Kenthurst",
     "url": "http://locations.ampol.com.au/en/ampol-kenthurst",
-    "phone": "+61296543654",
+    "phone": "0",
     "address": "Kenthurst Rd, 137",
     "locality": "Kenthurst",
     "postcode": "2156",
@@ -59480,56 +59230,6 @@
     "country": null,
     "latitude": -28.34681,
     "longitude": 116.68282,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "https://locations.ampol.com.au/en/ampol-sarina-service-centre",
-    "name": "Ampol Sarina Service Centre",
-    "url": "https://locations.ampol.com.au/en/ampol-sarina-service-centre",
-    "phone": "+61269482700",
-    "address": "Bruce Highway, 90918",
-    "locality": "Sarina",
-    "postcode": "4737",
-    "country": null,
-    "latitude": -21.436515,
-    "longitude": 149.222755,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
