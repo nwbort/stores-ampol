@@ -7370,56 +7370,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-exmouth",
-    "name": "Ampol Exmouth",
-    "url": "http://locations.ampol.com.au/en/ampol-exmouth",
-    "phone": "+61899491052",
-    "address": "Murat Rd, 315",
-    "locality": "Exmouth",
-    "postcode": "6707",
-    "country": null,
-    "latitude": -21.93269,
-    "longitude": 114.12773,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "04:30",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "04:30",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "04:30",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "04:30",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "04:30",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "04:30",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "04:30",
-        "closes": "21:00"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-fairy-meadow",
     "name": "Ampol Fairy Meadow",
     "url": "http://locations.ampol.com.au/en/ampol-fairy-meadow",
@@ -16065,6 +16015,56 @@
         "dayOfWeek": "Sunday",
         "opens": "00:00",
         "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-exmouth",
+    "name": "Ampol Foodary Exmouth",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-exmouth",
+    "phone": "+61899491052",
+    "address": "Murat Rd, 315",
+    "locality": "Exmouth",
+    "postcode": "6707",
+    "country": null,
+    "latitude": -21.93269,
+    "longitude": 114.12773,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "04:30",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "04:30",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "04:30",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "04:30",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "04:30",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "04:30",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "04:30",
+        "closes": "21:00"
       }
     ],
     "services": []
