@@ -36523,7 +36523,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-grove-store",
     "name": "Ampol Grove Store",
     "url": "http://locations.ampol.com.au/en/ampol-grove-store",
-    "phone": "+61362664231",
+    "phone": "0",
     "address": "Huon Highway, 1952",
     "locality": "Grove",
     "postcode": "7109",
@@ -50215,6 +50215,56 @@
         "dayOfWeek": "Sunday",
         "opens": "09:00",
         "closes": "17:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-wellington",
+    "name": "Ampol Wellington",
+    "url": "http://locations.ampol.com.au/en/ampol-wellington",
+    "phone": "0",
+    "address": "Arthur Street, 145",
+    "locality": "Wellington",
+    "postcode": "2820",
+    "country": null,
+    "latitude": -32.5624,
+    "longitude": 148.94299,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "06:30",
+        "closes": "19:30"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "06:30",
+        "closes": "19:30"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "06:30",
+        "closes": "19:30"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "06:30",
+        "closes": "19:30"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "06:30",
+        "closes": "19:30"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "06:30",
+        "closes": "19:30"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "06:30",
+        "closes": "19:30"
       }
     ],
     "services": []
