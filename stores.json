@@ -7970,6 +7970,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-alexandra-hills",
+    "name": "Ampol Foodary Alexandra Hills",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-alexandra-hills",
+    "phone": "+61738240311",
+    "address": "Cnr Finucane Rd & Cambridge Dr",
+    "locality": "Alexandra Hills",
+    "postcode": "4161",
+    "country": null,
+    "latitude": -27.52293,
+    "longitude": 153.219697,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "04:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "04:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "04:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "04:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "04:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "04:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "04:00",
+        "closes": "23:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-alexandria",
     "name": "Ampol Foodary Alexandria",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-alexandria",
@@ -8233,38 +8283,38 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "07:00",
-        "closes": "07:00"
+        "opens": "06:00",
+        "closes": "09:00"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "07:00",
-        "closes": "07:00"
+        "opens": "06:00",
+        "closes": "09:00"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "07:00",
-        "closes": "07:00"
+        "opens": "06:00",
+        "closes": "09:00"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "07:00",
-        "closes": "07:00"
+        "opens": "06:00",
+        "closes": "09:00"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "07:00",
-        "closes": "07:00"
+        "opens": "06:00",
+        "closes": "09:00"
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "07:00",
-        "closes": "07:00"
+        "opens": "06:00",
+        "closes": "09:00"
       },
       {
         "dayOfWeek": "Sunday",
-        "opens": "07:00",
-        "closes": "07:00"
+        "opens": "06:00",
+        "closes": "09:00"
       }
     ],
     "services": []
@@ -15333,37 +15383,37 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:00"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:00"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:00"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:00"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:00"
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:00"
       },
       {
         "dayOfWeek": "Sunday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "23:00"
       }
     ],
