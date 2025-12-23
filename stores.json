@@ -18870,6 +18870,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-high-wycombe",
+    "name": "Ampol Foodary High Wycombe",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-high-wycombe",
+    "phone": "+61894543025",
+    "address": "Abernethy Rd Cnr Grogan Rd, 961-963",
+    "locality": "High Wycombe",
+    "postcode": "6057",
+    "country": null,
+    "latitude": -31.951563,
+    "longitude": 115.987684,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-hillside",
     "name": "Ampol Foodary Hillside",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-hillside",
@@ -21033,28 +21083,28 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "05:00",
-        "closes": "18:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "05:00",
-        "closes": "18:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "05:00",
-        "closes": "18:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "05:00",
-        "closes": "18:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "05:00",
-        "closes": "18:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Saturday",
