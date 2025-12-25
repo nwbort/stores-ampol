@@ -12470,6 +12470,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-carnarvon-robinson-st",
+    "name": "Ampol Foodary Carnarvon Robinson St",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-carnarvon-robinson-st",
+    "phone": "+61899418140",
+    "address": "Robinson St, 595",
+    "locality": "Carnarvon",
+    "postcode": "6701",
+    "country": null,
+    "latitude": -24.862274,
+    "longitude": 113.7010402,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:00",
+        "closes": "00:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-carseldine",
     "name": "Ampol Foodary Carseldine",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-carseldine",
