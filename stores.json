@@ -18970,56 +18970,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-hobart-macquarie-st",
-    "name": "Ampol Foodary Hobart Macquarie St",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-hobart-macquarie-st",
-    "phone": "+61362231430",
-    "address": "Macquarie St, 272",
-    "locality": "South Hobart",
-    "postcode": "7004",
-    "country": null,
-    "latitude": -42.891128,
-    "longitude": 147.319678,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "05:30",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "05:30",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "05:30",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "05:30",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "05:30",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "05:30",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "05:30",
-        "closes": "22:00"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-hobart-south",
     "name": "Ampol Foodary Hobart South",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-hobart-south",
