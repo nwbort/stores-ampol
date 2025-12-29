@@ -22520,6 +22520,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-malaga",
+    "name": "Ampol Foodary Malaga",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-malaga",
+    "phone": "+61892499102",
+    "address": "Alexander Dr Cnr Capital Rd",
+    "locality": "Malaga",
+    "postcode": "6090",
+    "country": null,
+    "latitude": -31.848174,
+    "longitude": 115.878564,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-malaga-drive",
     "name": "Ampol Foodary Malaga Drive",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-malaga-drive",
@@ -23515,6 +23565,56 @@
         "dayOfWeek": "Sunday",
         "opens": "05:00",
         "closes": "22:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-midway-point",
+    "name": "Ampol Foodary Midway Point",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-midway-point",
+    "phone": "+61362652231",
+    "address": "Tasman Hwy, 13",
+    "locality": "Midway Point",
+    "postcode": "7171",
+    "country": null,
+    "latitude": -42.804064,
+    "longitude": 147.5328147,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:00",
+        "closes": "00:00"
       }
     ],
     "services": []
@@ -25570,6 +25670,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-new-town",
+    "name": "Ampol Foodary New Town",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-new-town",
+    "phone": "+61362284754",
+    "address": "Risdon Road Near Queens Walk, 71",
+    "locality": "New Town",
+    "postcode": "7008",
+    "country": null,
+    "latitude": -42.851853,
+    "longitude": 147.310634,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "06:00",
+        "closes": "22:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-newcomb",
     "name": "Ampol Foodary Newcomb",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-newcomb",
@@ -26265,6 +26415,56 @@
         "dayOfWeek": "Sunday",
         "opens": "05:00",
         "closes": "20:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-north-yunderup",
+    "name": "Ampol Foodary North Yunderup",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-north-yunderup",
+    "phone": "+61895377096",
+    "address": "Pinjarra Rd, 868",
+    "locality": "Yunderup",
+    "postcode": "6208",
+    "country": null,
+    "latitude": -32.5671769,
+    "longitude": 115.7984995,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
