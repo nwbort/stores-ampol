@@ -6320,6 +6320,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-derby",
+    "name": "Ampol Derby",
+    "url": "http://locations.ampol.com.au/en/ampol-derby",
+    "phone": "+61487379643",
+    "address": "Main Street, 74-76",
+    "locality": "Derby",
+    "postcode": "7264",
+    "country": null,
+    "latitude": -41.149063,
+    "longitude": 147.801824,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-devonport",
     "name": "Ampol Devonport",
     "url": "http://locations.ampol.com.au/en/ampol-devonport",
@@ -36220,6 +36270,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-goondi-bend",
+    "name": "Ampol Goondi Bend",
+    "url": "http://locations.ampol.com.au/en/ampol-goondi-bend",
+    "phone": "+61740617249",
+    "address": "Palmerston Dr, 117",
+    "locality": "Goondi Bend",
+    "postcode": "4860",
+    "country": null,
+    "latitude": -17.518273,
+    "longitude": 146.010886,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "06:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "06:30",
+        "closes": "19:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-goondiwindi-depot",
     "name": "Ampol Goondiwindi Depot",
     "url": "http://locations.ampol.com.au/en/ampol-goondiwindi-depot",
@@ -36570,56 +36670,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-grove-store",
-    "name": "Ampol Grove Store",
-    "url": "http://locations.ampol.com.au/en/ampol-grove-store",
-    "phone": "0",
-    "address": "Huon Highway, 1952",
-    "locality": "Grove",
-    "postcode": "7109",
-    "country": null,
-    "latitude": -42.981777,
-    "longitude": 147.096996,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "07:30",
-        "closes": "19:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "07:30",
-        "closes": "19:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "07:30",
-        "closes": "19:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "07:30",
-        "closes": "19:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "07:30",
-        "closes": "19:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "08:00",
-        "closes": "18:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "08:00",
-        "closes": "18:00"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-grovedale",
     "name": "Ampol Grovedale",
     "url": "http://locations.ampol.com.au/en/ampol-grovedale",
@@ -36765,56 +36815,6 @@
         "dayOfWeek": "Sunday",
         "opens": "05:30",
         "closes": "22:00"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-gympie-bruce-hwy",
-    "name": "Ampol Gympie Bruce Hwy",
-    "url": "http://locations.ampol.com.au/en/ampol-gympie-bruce-hwy",
-    "phone": "0",
-    "address": "Bruce Highway, 692",
-    "locality": "Kybong",
-    "postcode": "4570",
-    "country": null,
-    "latitude": -26.238298,
-    "longitude": 152.698987,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "05:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "05:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "05:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "05:00",
-        "closes": "20:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "05:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "05:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "05:00",
-        "closes": "21:00"
       }
     ],
     "services": []
@@ -38165,56 +38165,6 @@
         "dayOfWeek": "Sunday",
         "opens": "00:00",
         "closes": "00:00"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-jamestown",
-    "name": "Ampol Jamestown",
-    "url": "http://locations.ampol.com.au/en/ampol-jamestown",
-    "phone": "0",
-    "address": "Vohr Street, 6",
-    "locality": "Jamestown",
-    "postcode": "5491",
-    "country": null,
-    "latitude": -33.2031398,
-    "longitude": 138.6033041,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "07:30",
-        "closes": "21:30"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "07:30",
-        "closes": "21:30"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "07:30",
-        "closes": "21:30"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "07:30",
-        "closes": "21:30"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "07:30",
-        "closes": "21:30"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "07:30",
-        "closes": "21:30"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "08:00",
-        "closes": "21:30"
       }
     ],
     "services": []
@@ -47520,6 +47470,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-st-george",
+    "name": "Ampol St George",
+    "url": "http://locations.ampol.com.au/en/ampol-st-george",
+    "phone": "+61746253606",
+    "address": "Victoria St, 121",
+    "locality": "St George",
+    "postcode": "4487",
+    "country": null,
+    "latitude": -28.036517,
+    "longitude": 148.580098,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:00",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:00",
+        "closes": "20:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-stuarts-well-roadhouse",
     "name": "Ampol Stuarts Well Roadhouse",
     "url": "http://locations.ampol.com.au/en/ampol-stuarts-well-roadhouse",
@@ -49070,51 +49070,51 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-tremont",
-    "name": "Ampol Tremont",
-    "url": "http://locations.ampol.com.au/en/ampol-tremont",
+    "ref": "http://locations.ampol.com.au/en/ampol-trentham-cliffs",
+    "name": "Ampol Trentham Cliffs",
+    "url": "http://locations.ampol.com.au/en/ampol-trentham-cliffs",
     "phone": "0",
-    "address": "Mt Dandenong Tourist Rd, 100",
-    "locality": "Tremont",
-    "postcode": "3785",
+    "address": "Sturt Hwy, 6603",
+    "locality": "Trentham Cliffs",
+    "postcode": "2738",
     "country": null,
-    "latitude": -37.88657,
-    "longitude": 145.3277961,
+    "latitude": -34.2250408,
+    "longitude": 142.2472917,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "06:00",
-        "closes": "20:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "06:00",
-        "closes": "20:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "06:00",
-        "closes": "20:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "06:00",
-        "closes": "20:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "06:00",
-        "closes": "20:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "06:00",
-        "closes": "20:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Sunday",
-        "opens": "06:00",
-        "closes": "20:00"
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
