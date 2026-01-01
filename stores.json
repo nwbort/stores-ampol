@@ -26433,27 +26433,27 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "20:00"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "20:00"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "20:00"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "20:00"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "05:00",
+        "opens": "04:30",
         "closes": "20:00"
       },
       {
@@ -28915,56 +28915,6 @@
         "dayOfWeek": "Sunday",
         "opens": "00:00",
         "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-rockingham",
-    "name": "Ampol Foodary Rockingham",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-rockingham",
-    "phone": "+61895272707",
-    "address": "Dixon Rd, 29",
-    "locality": "Rockingham",
-    "postcode": "6168",
-    "country": null,
-    "latitude": -32.277142,
-    "longitude": 115.7499,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "04:30",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "04:30",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "04:30",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "04:30",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "04:30",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "04:30",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "04:30",
-        "closes": "22:00"
       }
     ],
     "services": []
