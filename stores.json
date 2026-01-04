@@ -10070,6 +10070,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-bentley",
+    "name": "Ampol Foodary Bentley",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-bentley",
+    "phone": "+61893583298",
+    "address": "Manning Rd Cnr Wyong Rd",
+    "locality": "Bentley",
+    "postcode": "6102",
+    "country": null,
+    "latitude": -32.012232,
+    "longitude": 115.914298,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-berowra",
     "name": "Ampol Foodary Berowra",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-berowra",
@@ -10115,6 +10165,56 @@
         "dayOfWeek": "Sunday",
         "opens": "07:00",
         "closes": "19:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-berrimah",
+    "name": "Ampol Foodary Berrimah",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-berrimah",
+    "phone": "+61889470553",
+    "address": "Jessop Crescent, 92",
+    "locality": "Berrimah",
+    "postcode": "0828",
+    "country": null,
+    "latitude": -12.4284243,
+    "longitude": 130.9127881,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
