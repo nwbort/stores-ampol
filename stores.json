@@ -19834,37 +19834,37 @@
       {
         "dayOfWeek": "Monday",
         "opens": "04:30",
-        "closes": "21:30"
+        "closes": "21:00"
       },
       {
         "dayOfWeek": "Tuesday",
         "opens": "04:30",
-        "closes": "21:30"
+        "closes": "21:00"
       },
       {
         "dayOfWeek": "Wednesday",
         "opens": "04:30",
-        "closes": "21:30"
+        "closes": "21:00"
       },
       {
         "dayOfWeek": "Thursday",
         "opens": "04:30",
-        "closes": "21:30"
+        "closes": "21:00"
       },
       {
         "dayOfWeek": "Friday",
         "opens": "04:30",
-        "closes": "21:30"
+        "closes": "21:00"
       },
       {
         "dayOfWeek": "Saturday",
         "opens": "05:00",
-        "closes": "21:00"
+        "closes": "20:00"
       },
       {
         "dayOfWeek": "Sunday",
         "opens": "06:00",
-        "closes": "21:00"
+        "closes": "20:00"
       }
     ],
     "services": []
