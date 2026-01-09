@@ -4164,27 +4164,27 @@
       {
         "dayOfWeek": "Monday",
         "opens": "07:00",
-        "closes": "16:00"
+        "closes": "15:30"
       },
       {
         "dayOfWeek": "Tuesday",
         "opens": "07:00",
-        "closes": "16:00"
+        "closes": "15:30"
       },
       {
         "dayOfWeek": "Wednesday",
         "opens": "07:00",
-        "closes": "16:00"
+        "closes": "15:30"
       },
       {
         "dayOfWeek": "Thursday",
         "opens": "07:00",
-        "closes": "16:00"
+        "closes": "15:30"
       },
       {
         "dayOfWeek": "Friday",
         "opens": "07:00",
-        "closes": "16:00"
+        "closes": "15:30"
       },
       {
         "dayOfWeek": "Saturday",
@@ -13220,56 +13220,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-clarkson",
-    "name": "Ampol Foodary Clarkson",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-clarkson",
-    "phone": "+61894078743",
-    "address": "Ocean Keys Bvd, 7",
-    "locality": "Clarkson",
-    "postcode": "6030",
-    "country": null,
-    "latitude": -31.689487,
-    "longitude": 115.715386,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "05:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "05:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "05:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "05:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "05:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "06:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "06:00",
-        "closes": "21:00"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-cleveland-shore-st",
     "name": "Ampol Foodary Cleveland Shore St",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-cleveland-shore-st",
@@ -15330,56 +15280,6 @@
     "country": null,
     "latitude": -42.866108,
     "longitude": 147.373084,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-eaton-mcmillian-rd",
-    "name": "Ampol Foodary Eaton Mcmillian Rd",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-eaton-mcmillian-rd",
-    "phone": "+61889483089",
-    "address": "Cnr Mcmillian Rd & Neale St",
-    "locality": "Eaton",
-    "postcode": "0820",
-    "country": null,
-    "latitude": -12.397471,
-    "longitude": 130.86041,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
@@ -35165,56 +35065,6 @@
         "dayOfWeek": "Sunday",
         "opens": "05:00",
         "closes": "00:00"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-yarrawonga-middleton-st",
-    "name": "Ampol Foodary Yarrawonga Middleton St",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-yarrawonga-middleton-st",
-    "phone": "+61889832020",
-    "address": "Middleton St, 8",
-    "locality": "Yarrawonga",
-    "postcode": "0830",
-    "country": null,
-    "latitude": -12.4698632,
-    "longitude": 130.9875898,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "05:00",
-        "closes": "22:00"
       }
     ],
     "services": []
