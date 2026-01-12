@@ -8420,56 +8420,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-applecross",
-    "name": "Ampol Foodary Applecross",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-applecross",
-    "phone": "+61893179701",
-    "address": "Canning Hwy, 918",
-    "locality": "Applecross",
-    "postcode": "6153",
-    "country": null,
-    "latitude": -32.011422,
-    "longitude": 115.85174,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "04:30",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "04:30",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "04:30",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "04:30",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "04:30",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "04:30",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "04:30",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-arana-hills",
     "name": "Ampol Foodary Arana Hills",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-arana-hills",
@@ -20615,56 +20565,6 @@
         "dayOfWeek": "Sunday",
         "opens": "00:00",
         "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-kingsley",
-    "name": "Ampol Foodary Kingsley",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-kingsley",
-    "phone": "+61894096294",
-    "address": "Kingsley Dr, 86",
-    "locality": "Kingsley",
-    "postcode": "6026",
-    "country": null,
-    "latitude": -31.8070156,
-    "longitude": 115.7888598,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "06:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "06:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "06:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "06:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "06:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "06:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "06:00",
-        "closes": "21:00"
       }
     ],
     "services": []
