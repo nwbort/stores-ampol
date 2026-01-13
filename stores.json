@@ -3403,7 +3403,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-burnie-mood-food",
     "name": "Ampol Burnie Mood Food",
     "url": "http://locations.ampol.com.au/en/ampol-burnie-mood-food",
-    "phone": "+61362428200",
+    "phone": "+61364368221",
     "address": "Marine Terrace, 53-54",
     "locality": "South Burnie",
     "postcode": "7320",
@@ -8414,6 +8414,56 @@
       {
         "dayOfWeek": "Sunday",
         "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-applecross",
+    "name": "Ampol Foodary Applecross",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-applecross",
+    "phone": "+61893179701",
+    "address": "Canning Hwy, 918",
+    "locality": "Applecross",
+    "postcode": "6153",
+    "country": null,
+    "latitude": -32.011422,
+    "longitude": 115.85174,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "04:30",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "04:30",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "04:30",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "04:30",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "04:30",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "04:30",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "04:30",
         "closes": "23:59"
       }
     ],
@@ -20565,6 +20615,56 @@
         "dayOfWeek": "Sunday",
         "opens": "00:00",
         "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-kingsley",
+    "name": "Ampol Foodary Kingsley",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-kingsley",
+    "phone": "+61894096294",
+    "address": "Kingsley Dr, 86",
+    "locality": "Kingsley",
+    "postcode": "6026",
+    "country": null,
+    "latitude": -31.8070156,
+    "longitude": 115.7888598,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "06:00",
+        "closes": "21:00"
       }
     ],
     "services": []
@@ -43023,7 +43123,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-narwee",
     "name": "Ampol Narwee",
     "url": "http://locations.ampol.com.au/en/ampol-narwee",
-    "phone": "0",
+    "phone": "+61291538857",
     "address": "Cnr Broadarrow & Penshurst Rds",
     "locality": "Narwee",
     "postcode": "2209",
@@ -43033,38 +43133,38 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "05:00",
-        "closes": "22:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "05:00",
-        "closes": "22:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "05:00",
-        "closes": "22:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "05:00",
-        "closes": "22:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "05:00",
-        "closes": "22:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "05:00",
-        "closes": "22:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Sunday",
-        "opens": "05:00",
-        "closes": "22:00"
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
@@ -46423,7 +46523,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-sandy-bay-regent-st",
     "name": "Ampol Sandy Bay Regent St",
     "url": "http://locations.ampol.com.au/en/ampol-sandy-bay-regent-st",
-    "phone": "+61362428200",
+    "phone": "+61362248771",
     "address": "Regent St, 66",
     "locality": "Sandy Bay",
     "postcode": "7005",
