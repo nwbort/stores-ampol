@@ -7820,6 +7820,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-albany-north",
+    "name": "Ampol Foodary Albany North",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-albany-north",
+    "phone": "+61898413809",
+    "address": "North Rd, 204",
+    "locality": "Albany North",
+    "postcode": "6330",
+    "country": null,
+    "latitude": -35.0055669,
+    "longitude": 117.8745695,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-albert-park",
     "name": "Ampol Foodary Albert Park",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-albert-park",
@@ -11465,6 +11515,56 @@
         "dayOfWeek": "Sunday",
         "opens": "05:00",
         "closes": "23:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-byford",
+    "name": "Ampol Foodary Byford",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-byford",
+    "phone": "+61895251033",
+    "address": "South West Hwy Cnr Nettleton Rd",
+    "locality": "Byford",
+    "postcode": "6122",
+    "country": null,
+    "latitude": -32.226416,
+    "longitude": 116.007977,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
@@ -21170,6 +21270,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-lakelands",
+    "name": "Ampol Foodary Lakelands",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-lakelands",
+    "phone": "+61895818021",
+    "address": "Mandurah Rd, 50",
+    "locality": "Lakelands",
+    "postcode": "6180",
+    "country": null,
+    "latitude": -32.4792148,
+    "longitude": 115.757797,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "04:30",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "04:30",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "04:30",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "04:30",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "04:30",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "04:30",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "04:30",
+        "closes": "22:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-lakemba",
     "name": "Ampol Foodary Lakemba",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-lakemba",
@@ -22430,6 +22580,56 @@
     "country": null,
     "latitude": -31.848174,
     "longitude": 115.878564,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-malaga-drive",
+    "name": "Ampol Foodary Malaga Drive",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-malaga-drive",
+    "phone": "+61892091729",
+    "address": "Malaga Dr Cnr Truganina Rd, 76",
+    "locality": "Malaga",
+    "postcode": "6090",
+    "country": null,
+    "latitude": -31.863223,
+    "longitude": 115.893916,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
@@ -25820,6 +26020,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-norseman",
+    "name": "Ampol Foodary Norseman",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-norseman",
+    "phone": "+61890391174",
+    "address": "Prinsep St, 1-7",
+    "locality": "Norseman",
+    "postcode": "6443",
+    "country": null,
+    "latitude": -32.1896762,
+    "longitude": 121.778365,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:00",
+        "closes": "22:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-north-adelaide",
     "name": "Ampol Foodary North Adelaide",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-north-adelaide",
@@ -28380,6 +28630,56 @@
     "country": null,
     "latitude": -27.657413,
     "longitude": 152.778598,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-rivervale",
+    "name": "Ampol Foodary Rivervale",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-rivervale",
+    "phone": "+61892775462",
+    "address": "Great Eastern Highway, 111",
+    "locality": "Rivervale",
+    "postcode": "6103",
+    "country": null,
+    "latitude": -31.95357,
+    "longitude": 115.912917,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
