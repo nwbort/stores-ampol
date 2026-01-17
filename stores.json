@@ -23320,56 +23320,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-melville",
-    "name": "Ampol Foodary Melville",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-melville",
-    "phone": "+61893307142",
-    "address": "Canning Hwy, 587",
-    "locality": "Melville",
-    "postcode": "6156",
-    "country": null,
-    "latitude": -32.031417,
-    "longitude": 115.815134,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "04:30",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "04:30",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "04:30",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "04:30",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "04:30",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "04:30",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "04:30",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-menai",
     "name": "Ampol Foodary Menai",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-menai",
