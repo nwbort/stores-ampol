@@ -5473,7 +5473,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-copping-roadhouse",
     "name": "Ampol Copping Roadhouse",
     "url": "http://locations.ampol.com.au/en/ampol-copping-roadhouse",
-    "phone": "0",
+    "phone": "+61362280128",
     "address": "Arthur Highway, 2233",
     "locality": "Copping",
     "postcode": "7174",
@@ -23433,38 +23433,38 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "06:00",
-        "closes": "20:00"
+        "opens": "05:00",
+        "closes": "21:00"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "06:00",
-        "closes": "20:00"
+        "opens": "05:00",
+        "closes": "21:00"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "06:00",
-        "closes": "20:00"
+        "opens": "05:00",
+        "closes": "21:00"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "06:00",
-        "closes": "20:00"
+        "opens": "05:00",
+        "closes": "21:00"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "06:00",
-        "closes": "20:00"
+        "opens": "05:00",
+        "closes": "21:00"
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "06:00",
-        "closes": "20:00"
+        "opens": "05:00",
+        "closes": "21:00"
       },
       {
         "dayOfWeek": "Sunday",
-        "opens": "06:00",
-        "closes": "20:00"
+        "opens": "05:00",
+        "closes": "21:00"
       }
     ],
     "services": []
@@ -27883,37 +27883,37 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "00:00",
+        "opens": "04:30",
         "closes": "23:59"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "00:00",
+        "opens": "04:30",
         "closes": "23:59"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "00:00",
+        "opens": "04:30",
         "closes": "23:59"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "00:00",
+        "opens": "04:30",
         "closes": "23:59"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "00:00",
+        "opens": "04:30",
         "closes": "23:59"
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "00:00",
+        "opens": "05:00",
         "closes": "23:59"
       },
       {
         "dayOfWeek": "Sunday",
-        "opens": "00:00",
+        "opens": "05:00",
         "closes": "23:59"
       }
     ],
@@ -37874,7 +37874,7 @@
     "name": "Ampol Huonville Dca",
     "url": "http://locations.ampol.com.au/en/ampol-huonville-dca",
     "phone": "+61362642118",
-    "address": "Main Road, 5",
+    "address": "Main St, 5",
     "locality": "Huonville",
     "postcode": "7109",
     "country": null,
@@ -43274,7 +43274,7 @@
     "name": "Ampol New Norfolk",
     "url": "http://locations.ampol.com.au/en/ampol-new-norfolk",
     "phone": "+61362612742",
-    "address": "Burnett St Cnr Montagu St, 4",
+    "address": "Cnr Of Montagu St & Burnett St",
     "locality": "New Norfolk",
     "postcode": "7140",
     "country": null,
@@ -47171,7 +47171,7 @@
   },
   {
     "ref": "http://locations.ampol.com.au/en/ampol-snug-dca",
-    "name": "Ampol Snug Dca",
+    "name": "Ampol Snug",
     "url": "http://locations.ampol.com.au/en/ampol-snug-dca",
     "phone": "+61362679160",
     "address": "Channel Highway, 2243",
@@ -49073,7 +49073,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-trentham-cliffs",
     "name": "Ampol Trentham Cliffs",
     "url": "http://locations.ampol.com.au/en/ampol-trentham-cliffs",
-    "phone": "0",
+    "phone": "",
     "address": "Sturt Hwy, 6603",
     "locality": "Trentham Cliffs",
     "postcode": "2738",
@@ -49083,38 +49083,38 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "24:00",
+        "closes": "24:00"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "24:00",
+        "closes": "24:00"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "24:00",
+        "closes": "24:00"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "24:00",
+        "closes": "24:00"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "24:00",
+        "closes": "24:00"
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "24:00",
+        "closes": "24:00"
       },
       {
         "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "24:00",
+        "closes": "24:00"
       }
     ],
     "services": []
@@ -54324,7 +54324,7 @@
     "name": "Independent Huonville Dca",
     "url": "http://locations.ampol.com.au/en/independent-huonville-dca",
     "phone": "+61362428200",
-    "address": "Main Rd, 183",
+    "address": "Main St, 201",
     "locality": "Huonville",
     "postcode": "7109",
     "country": null,
@@ -55673,7 +55673,7 @@
     "ref": "http://locations.ampol.com.au/en/independent-middleton-store",
     "name": "Independent Middleton Store",
     "url": "http://locations.ampol.com.au/en/independent-middleton-store",
-    "phone": "0",
+    "phone": "+61362921610",
     "address": "4409 Channel Hwy",
     "locality": "Middleton",
     "postcode": "7163",
