@@ -753,7 +753,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-ballina-east",
     "name": "Ampol Ballina East",
     "url": "http://locations.ampol.com.au/en/ampol-ballina-east",
-    "phone": "0",
+    "phone": "+61266866444",
     "address": "Links Ave, 34",
     "locality": "East Ballina",
     "postcode": "2478",
@@ -3651,7 +3651,7 @@
   },
   {
     "ref": "http://locations.ampol.com.au/en/ampol-cambridge",
-    "name": "Ampol Cambridge",
+    "name": "Ampol Cambridge Mood Food",
     "url": "http://locations.ampol.com.au/en/ampol-cambridge",
     "phone": "+61362280128",
     "address": "Kennedy Drive, 263",
@@ -47259,12 +47259,12 @@
       {
         "dayOfWeek": "Saturday",
         "opens": "08:00",
-        "closes": "15:00"
+        "closes": "17:00"
       },
       {
         "dayOfWeek": "Sunday",
-        "opens": "09:00",
-        "closes": "14:00"
+        "opens": "08:00",
+        "closes": "17:00"
       }
     ],
     "services": []
@@ -49073,7 +49073,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-trentham-cliffs",
     "name": "Ampol Trentham Cliffs",
     "url": "http://locations.ampol.com.au/en/ampol-trentham-cliffs",
-    "phone": "",
+    "phone": "0",
     "address": "Sturt Hwy, 6603",
     "locality": "Trentham Cliffs",
     "postcode": "2738",
@@ -49083,38 +49083,38 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "24:00",
-        "closes": "24:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "24:00",
-        "closes": "24:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "24:00",
-        "closes": "24:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "24:00",
-        "closes": "24:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "24:00",
-        "closes": "24:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "24:00",
-        "closes": "24:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Sunday",
-        "opens": "24:00",
-        "closes": "24:00"
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
