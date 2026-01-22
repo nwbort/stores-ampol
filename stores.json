@@ -49070,6 +49070,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-tremont",
+    "name": "Ampol Tremont",
+    "url": "http://locations.ampol.com.au/en/ampol-tremont",
+    "phone": "+61421512502",
+    "address": "Mt Dandenong Tourist Rd, 100",
+    "locality": "Tremont",
+    "postcode": "3785",
+    "country": null,
+    "latitude": -37.88657,
+    "longitude": 145.3277961,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "06:00",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "06:00",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "06:00",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "06:00",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "06:00",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "06:00",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "06:00",
+        "closes": "20:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-trentham-cliffs",
     "name": "Ampol Trentham Cliffs",
     "url": "http://locations.ampol.com.au/en/ampol-trentham-cliffs",
