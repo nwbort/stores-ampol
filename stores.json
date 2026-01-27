@@ -12220,6 +12220,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-cannington",
+    "name": "Ampol Foodary Cannington",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-cannington",
+    "phone": "+61894587187",
+    "address": "Albany Highway, 1346",
+    "locality": "Cannington",
+    "postcode": "6107",
+    "country": null,
+    "latitude": -32.017524,
+    "longitude": 115.935,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-capalaba",
     "name": "Ampol Foodary Capalaba",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-capalaba",
@@ -13164,6 +13214,56 @@
       {
         "dayOfWeek": "Sunday",
         "opens": "05:00",
+        "closes": "21:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-clarkson",
+    "name": "Ampol Foodary Clarkson",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-clarkson",
+    "phone": "+61894078743",
+    "address": "Ocean Keys Bvd, 7",
+    "locality": "Clarkson",
+    "postcode": "6030",
+    "country": null,
+    "latitude": -31.689487,
+    "longitude": 115.715386,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "06:00",
         "closes": "21:00"
       }
     ],
@@ -22470,6 +22570,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-malaga",
+    "name": "Ampol Foodary Malaga",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-malaga",
+    "phone": "+61892499102",
+    "address": "Alexander Dr Cnr Capital Rd",
+    "locality": "Malaga",
+    "postcode": "6090",
+    "country": null,
+    "latitude": -31.848174,
+    "longitude": 115.878564,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-malaga-drive",
     "name": "Ampol Foodary Malaga Drive",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-malaga-drive",
@@ -26515,6 +26665,56 @@
         "dayOfWeek": "Sunday",
         "opens": "05:00",
         "closes": "23:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-northlands-and-and-balcatta",
+    "name": "Ampol Foodary Northlands - Balcatta",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-northlands-and-and-balcatta",
+    "phone": "+61892071202",
+    "address": "Wanneroo Rd, 391",
+    "locality": "Northlands",
+    "postcode": "6021",
+    "country": null,
+    "latitude": -31.8725312,
+    "longitude": 115.8309687,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
