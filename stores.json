@@ -9120,56 +9120,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-baldivis",
-    "name": "Ampol Foodary Baldivis",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-baldivis",
-    "phone": "+61895231540",
-    "address": "Safety Bay Rd Cnr Baldivis Rd",
-    "locality": "Baldivis",
-    "postcode": "6171",
-    "country": null,
-    "latitude": -32.330731,
-    "longitude": 115.820871,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-ballarat-latrobe-st",
     "name": "Ampol Foodary Ballarat Latrobe St",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-ballarat-latrobe-st",
