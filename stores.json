@@ -10170,6 +10170,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-berrimah",
+    "name": "Ampol Foodary Berrimah",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-berrimah",
+    "phone": "+61889470553",
+    "address": "Jessop Crescent, 92",
+    "locality": "Berrimah",
+    "postcode": "0828",
+    "country": null,
+    "latitude": -12.4284243,
+    "longitude": 130.9127881,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-birtinya",
     "name": "Ampol Foodary Birtinya",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-birtinya",
@@ -15280,56 +15330,6 @@
     "country": null,
     "latitude": -42.866108,
     "longitude": 147.373084,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-eaton-mcmillian-rd",
-    "name": "Ampol Foodary Eaton Mcmillian Rd",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-eaton-mcmillian-rd",
-    "phone": "+61889483089",
-    "address": "Cnr Mcmillian Rd & Neale St",
-    "locality": "Eaton",
-    "postcode": "0820",
-    "country": null,
-    "latitude": -12.397471,
-    "longitude": 130.86041,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
@@ -20965,6 +20965,56 @@
         "dayOfWeek": "Sunday",
         "opens": "06:00",
         "closes": "21:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-kwinana",
+    "name": "Ampol Foodary Kwinana",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-kwinana",
+    "phone": "+61894194866",
+    "address": "Mandurah Rd Cnr Wellard Rd, 500",
+    "locality": "Kwinana",
+    "postcode": "6167",
+    "country": null,
+    "latitude": -32.2487481,
+    "longitude": 115.7828389,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
@@ -34820,56 +34870,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-yangebup",
-    "name": "Ampol Foodary Yangebup",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-yangebup",
-    "phone": "+61894949701",
-    "address": "Beeliar Drive, 289",
-    "locality": "Yangebup",
-    "postcode": "6164",
-    "country": null,
-    "latitude": -32.1274683,
-    "longitude": 115.7990315,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-yarra-glen-yarraview-mtrs",
     "name": "Ampol Foodary Yarra Glen-yarraview Mtrs",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-yarra-glen-yarraview-mtrs",
@@ -35065,6 +35065,56 @@
         "dayOfWeek": "Sunday",
         "opens": "05:00",
         "closes": "00:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-yarrawonga-middleton-st",
+    "name": "Ampol Foodary Yarrawonga Middleton St",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-yarrawonga-middleton-st",
+    "phone": "+61889832020",
+    "address": "Middleton St, 8",
+    "locality": "Yarrawonga",
+    "postcode": "0830",
+    "country": null,
+    "latitude": -12.4698632,
+    "longitude": 130.9875898,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:00",
+        "closes": "22:00"
       }
     ],
     "services": []
