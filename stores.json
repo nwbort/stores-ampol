@@ -15370,6 +15370,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-eaton-mcmillian-rd",
+    "name": "Ampol Foodary Eaton Mcmillian Rd",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-eaton-mcmillian-rd",
+    "phone": "+61889483089",
+    "address": "Cnr Mcmillian Rd & Neale St",
+    "locality": "Eaton",
+    "postcode": "0820",
+    "country": null,
+    "latitude": -12.397471,
+    "longitude": 130.86041,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-eaton-old-coast-rd",
     "name": "Ampol Foodary Eaton Old Coast Rd",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-eaton-old-coast-rd",
@@ -34830,6 +34880,56 @@
     "country": null,
     "latitude": -31.551955,
     "longitude": 115.639446,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-yangebup",
+    "name": "Ampol Foodary Yangebup",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-yangebup",
+    "phone": "+61894949701",
+    "address": "Beeliar Drive, 289",
+    "locality": "Yangebup",
+    "postcode": "6164",
+    "country": null,
+    "latitude": -32.1274683,
+    "longitude": 115.7990315,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
