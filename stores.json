@@ -28670,6 +28670,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-rivervale",
+    "name": "Ampol Foodary Rivervale",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-rivervale",
+    "phone": "+61892775462",
+    "address": "Great Eastern Highway, 111",
+    "locality": "Rivervale",
+    "postcode": "6103",
+    "country": null,
+    "latitude": -31.95357,
+    "longitude": 115.912917,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-riverview",
     "name": "Ampol Foodary Riverview",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-riverview",
