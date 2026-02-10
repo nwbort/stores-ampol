@@ -23883,38 +23883,38 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "04:00",
+        "closes": "21:00"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "04:00",
+        "closes": "21:00"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "04:00",
+        "closes": "21:00"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "04:00",
+        "closes": "21:00"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "04:00",
+        "closes": "21:00"
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "04:00",
+        "closes": "21:00"
       },
       {
         "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "04:00",
+        "closes": "21:00"
       }
     ],
     "services": []
