@@ -39960,6 +39960,11 @@
         "dayOfWeek": "Saturday",
         "opens": "08:00",
         "closes": "13:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "00:00"
       }
     ],
     "services": []
