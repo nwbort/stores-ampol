@@ -15420,56 +15420,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-eaton-mcmillian-rd",
-    "name": "Ampol Foodary Eaton Mcmillian Rd",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-eaton-mcmillian-rd",
-    "phone": "+61889483089",
-    "address": "Cnr Mcmillian Rd & Neale St",
-    "locality": "Eaton",
-    "postcode": "0820",
-    "country": null,
-    "latitude": -12.397471,
-    "longitude": 130.86041,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-eaton-old-coast-rd",
     "name": "Ampol Foodary Eaton Old Coast Rd",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-eaton-old-coast-rd",
@@ -21070,56 +21020,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-kwinana",
-    "name": "Ampol Foodary Kwinana",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-kwinana",
-    "phone": "+61894194866",
-    "address": "Mandurah Rd Cnr Wellard Rd, 500",
-    "locality": "Kwinana",
-    "postcode": "6167",
-    "country": null,
-    "latitude": -32.2487481,
-    "longitude": 115.7828389,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-kyogle",
     "name": "Ampol Foodary Kyogle",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-kyogle",
@@ -26065,56 +25965,6 @@
         "dayOfWeek": "Sunday",
         "opens": "05:00",
         "closes": "23:00"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-norseman",
-    "name": "Ampol Foodary Norseman",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-norseman",
-    "phone": "+61890391174",
-    "address": "Prinsep St, 1-7",
-    "locality": "Norseman",
-    "postcode": "6443",
-    "country": null,
-    "latitude": -32.1896762,
-    "longitude": 121.778365,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "05:00",
-        "closes": "22:00"
       }
     ],
     "services": []
