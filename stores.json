@@ -4474,7 +4474,7 @@
     "name": "Ampol Childers Roadhouse",
     "url": "http://locations.ampol.com.au/en/ampol-childers-roadhouse",
     "phone": "+61741261188",
-    "address": "Bruce Hwy",
+    "address": "Bruce Hwy, 28677",
     "locality": "Childers",
     "postcode": "4660",
     "country": null,
@@ -4574,7 +4574,7 @@
     "name": "Ampol City Cabs Mackay",
     "url": "http://locations.ampol.com.au/en/ampol-city-cabs-mackay",
     "phone": "+61749444922",
-    "address": "Cnr Tennyson & Victoria Sts",
+    "address": "Victoria St, 30",
     "locality": "Mackay",
     "postcode": "4740",
     "country": null,
@@ -4774,7 +4774,7 @@
     "name": "Ampol Clermont Depot",
     "url": "http://locations.ampol.com.au/en/ampol-clermont-depot",
     "phone": "+61749885700",
-    "address": "Capricorn Rd",
+    "address": "Capricorn St, 67",
     "locality": "Clermont",
     "postcode": "4721",
     "country": null,
@@ -10220,6 +10220,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-berrimah",
+    "name": "Ampol Foodary Berrimah",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-berrimah",
+    "phone": "+61889470553",
+    "address": "Jessop Crescent, 92",
+    "locality": "Berrimah",
+    "postcode": "0828",
+    "country": null,
+    "latitude": -12.4284243,
+    "longitude": 130.9127881,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-birtinya",
     "name": "Ampol Foodary Birtinya",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-birtinya",
@@ -15320,56 +15370,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-eastlands",
-    "name": "Ampol Foodary Eastlands",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-eastlands",
-    "phone": "+61362451745",
-    "address": "Gordons Hill Rd Cnr Cambridge Rd, 1",
-    "locality": "Bellerive",
-    "postcode": "7018",
-    "country": null,
-    "latitude": -42.866108,
-    "longitude": 147.373084,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-eaton-mcmillian-rd",
     "name": "Ampol Foodary Eaton Mcmillian Rd",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-eaton-mcmillian-rd",
@@ -15980,56 +15980,6 @@
     "country": null,
     "latitude": -33.8137,
     "longitude": 151.0548,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-erskine",
-    "name": "Ampol Foodary Erskine",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-erskine",
-    "phone": "+61895869531",
-    "address": "Oakleigh Dr Cnr Old Coast Road, 112",
-    "locality": "Erskine",
-    "postcode": "6210",
-    "country": null,
-    "latitude": -32.5603591,
-    "longitude": 115.6892728,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
@@ -21270,6 +21220,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-lakelands",
+    "name": "Ampol Foodary Lakelands",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-lakelands",
+    "phone": "+61895818021",
+    "address": "Mandurah Rd, 50",
+    "locality": "Lakelands",
+    "postcode": "6180",
+    "country": null,
+    "latitude": -32.4792148,
+    "longitude": 115.757797,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:00",
+        "closes": "22:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-lakemba",
     "name": "Ampol Foodary Lakemba",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-lakemba",
@@ -22065,56 +22065,6 @@
         "dayOfWeek": "Sunday",
         "opens": "08:00",
         "closes": "19:00"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-livingston",
-    "name": "Ampol Foodary Livingston",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-livingston",
-    "phone": "+61894556153",
-    "address": "Ranford Rd, 110",
-    "locality": "Canning Vale",
-    "postcode": "6155",
-    "country": null,
-    "latitude": -32.0871103,
-    "longitude": 115.9165993,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "04:30",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "04:30",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "04:30",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "04:30",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "04:30",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "04:30",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "04:30",
-        "closes": "23:59"
       }
     ],
     "services": []
@@ -35120,56 +35070,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-yarrawonga-middleton-st",
-    "name": "Ampol Foodary Yarrawonga Middleton St",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-yarrawonga-middleton-st",
-    "phone": "+61889832020",
-    "address": "Middleton St, 8",
-    "locality": "Yarrawonga",
-    "postcode": "0830",
-    "country": null,
-    "latitude": -12.4698632,
-    "longitude": 130.9875898,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "05:00",
-        "closes": "22:00"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-yarrawonga-telford-st",
     "name": "Ampol Foodary Yarrawonga Telford St",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-yarrawonga-telford-st",
@@ -36124,7 +36024,7 @@
     "name": "Ampol Glenden",
     "url": "http://locations.ampol.com.au/en/ampol-glenden",
     "phone": "+61749589132",
-    "address": "Ewan Drive",
+    "address": "Ewan Drive, 3",
     "locality": "Glenden",
     "postcode": "4743",
     "country": null,
@@ -42974,7 +42874,7 @@
     "name": "Ampol Narrabri Depot With Front",
     "url": "http://locations.ampol.com.au/en/ampol-narrabri-depot-with-front",
     "phone": "+61267922745",
-    "address": "James St",
+    "address": "James St, 7-13",
     "locality": "Narrabri",
     "postcode": "2390",
     "country": null,
@@ -48674,7 +48574,7 @@
     "name": "Ampol Tieri",
     "url": "http://locations.ampol.com.au/en/ampol-tieri",
     "phone": "+61749848434",
-    "address": "Malvern Ave Cnr Grasstree St",
+    "address": "Malvern Ave, 5",
     "locality": "Tieri",
     "postcode": "4709",
     "country": null,
@@ -49024,7 +48924,7 @@
     "name": "Ampol Townsville Distributor Yard Depot",
     "url": "http://locations.ampol.com.au/en/ampol-townsville-distributor-yard-depot",
     "phone": "+61747260300",
-    "address": "Hubert Street",
+    "address": "Ted Paulsen Dve Off Hubert St",
     "locality": "Townsville",
     "postcode": "4810",
     "country": null,
