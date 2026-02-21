@@ -4412,66 +4412,6 @@
     "longitude": 143.3606989,
     "openingHours": [
       {
-        "dayOfWeek": "Monday",
-        "opens": "07:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "01:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "07:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "01:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "07:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "01:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "07:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "01:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "07:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "01:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "07:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "01:00"
-      },
-      {
         "dayOfWeek": "Sunday",
         "opens": "07:00",
         "closes": "22:00"
@@ -10275,6 +10215,56 @@
         "dayOfWeek": "Sunday",
         "opens": "07:00",
         "closes": "19:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-berrimah",
+    "name": "Ampol Foodary Berrimah",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-berrimah",
+    "phone": "+61889470553",
+    "address": "Jessop Crescent, 92",
+    "locality": "Berrimah",
+    "postcode": "0828",
+    "country": null,
+    "latitude": -12.4284243,
+    "longitude": 130.9127881,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
@@ -33625,6 +33615,56 @@
         "dayOfWeek": "Sunday",
         "opens": "07:00",
         "closes": "21:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-willetton",
+    "name": "Ampol Foodary Willetton",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-willetton",
+    "phone": "+61893548169",
+    "address": "High Rd, 167-169",
+    "locality": "Willetton",
+    "postcode": "6155",
+    "country": null,
+    "latitude": -32.0389817,
+    "longitude": 115.884126,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "04:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "04:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "04:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "04:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "04:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:00",
+        "closes": "22:00"
       }
     ],
     "services": []
