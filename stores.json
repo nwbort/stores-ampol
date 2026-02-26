@@ -3850,56 +3850,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-camperdown",
-    "name": "Ampol Camperdown",
-    "url": "http://locations.ampol.com.au/en/ampol-camperdown",
-    "phone": "+61355625265",
-    "address": "Old Geelong Road, 373",
-    "locality": "Camperdown",
-    "postcode": "3260",
-    "country": null,
-    "latitude": -38.2098515,
-    "longitude": 143.150322,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-canungra",
     "name": "Ampol Canungra",
     "url": "http://locations.ampol.com.au/en/ampol-canungra",
@@ -4411,66 +4361,6 @@
     "latitude": -36.2746948,
     "longitude": 143.3606989,
     "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "07:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "01:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "07:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "01:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "07:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "01:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "07:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "01:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "07:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "01:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "07:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "01:00"
-      },
       {
         "dayOfWeek": "Sunday",
         "opens": "07:00",
@@ -7430,56 +7320,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-esperance-depot",
-    "name": "Ampol Esperance Depot",
-    "url": "http://locations.ampol.com.au/en/ampol-esperance-depot",
-    "phone": "+61863144302",
-    "address": "Gladstone Street",
-    "locality": "Esperance",
-    "postcode": "6450",
-    "country": null,
-    "latitude": -33.85205,
-    "longitude": 121.896861,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "08:00",
-        "closes": "16:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "08:00",
-        "closes": "16:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "08:00",
-        "closes": "16:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "08:00",
-        "closes": "16:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "08:00",
-        "closes": "16:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-exeter",
     "name": "Ampol Exeter",
     "url": "http://locations.ampol.com.au/en/ampol-exeter",
@@ -8675,56 +8515,6 @@
         "dayOfWeek": "Sunday",
         "opens": "00:00",
         "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-armidale",
-    "name": "Ampol Foodary Armidale",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-armidale",
-    "phone": "+61267724000",
-    "address": "Marsh St Cnr Barney St, 142",
-    "locality": "Armidale",
-    "postcode": "2350",
-    "country": null,
-    "latitude": -30.517093,
-    "longitude": 151.667588,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "05:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "05:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "05:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "05:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "05:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "06:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "06:00",
-        "closes": "21:00"
       }
     ],
     "services": []
@@ -16775,56 +16565,6 @@
         "dayOfWeek": "Sunday",
         "opens": "05:30",
         "closes": "23:00"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-fremantle-east",
-    "name": "Ampol Foodary Fremantle East",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-fremantle-east",
-    "phone": "+61893393073",
-    "address": "Canning Hwy Cnr Staton Rd, 176",
-    "locality": "Fremantle East",
-    "postcode": "6158",
-    "country": null,
-    "latitude": -32.03997362,
-    "longitude": 115.76822178,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
       }
     ],
     "services": []
@@ -29775,6 +29515,56 @@
         "dayOfWeek": "Sunday",
         "opens": "05:00",
         "closes": "23:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-sandy-bay",
+    "name": "Ampol Foodary Sandy Bay",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-sandy-bay",
+    "phone": "+61362251204",
+    "address": "Sandy Bay Rd, 388",
+    "locality": "Sandy Bay",
+    "postcode": "7005",
+    "country": null,
+    "latitude": -42.902414,
+    "longitude": 147.334805,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
@@ -43994,27 +43784,27 @@
       {
         "dayOfWeek": "Monday",
         "opens": "04:00",
-        "closes": "23:59"
+        "closes": "22:00"
       },
       {
         "dayOfWeek": "Tuesday",
         "opens": "04:00",
-        "closes": "23:59"
+        "closes": "22:00"
       },
       {
         "dayOfWeek": "Wednesday",
         "opens": "04:00",
-        "closes": "23:59"
+        "closes": "22:00"
       },
       {
         "dayOfWeek": "Thursday",
         "opens": "04:00",
-        "closes": "23:59"
+        "closes": "22:00"
       },
       {
         "dayOfWeek": "Friday",
         "opens": "04:00",
-        "closes": "23:59"
+        "closes": "22:00"
       },
       {
         "dayOfWeek": "Saturday",
@@ -44024,7 +43814,7 @@
       {
         "dayOfWeek": "Sunday",
         "opens": "06:00",
-        "closes": "23:59"
+        "closes": "22:00"
       }
     ],
     "services": []
@@ -49175,56 +48965,6 @@
         "dayOfWeek": "Sunday",
         "opens": "00:00",
         "closes": "00:00"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-tremont",
-    "name": "Ampol Tremont",
-    "url": "http://locations.ampol.com.au/en/ampol-tremont",
-    "phone": "+61421512502",
-    "address": "Mt Dandenong Tourist Rd, 100",
-    "locality": "Tremont",
-    "postcode": "3785",
-    "country": null,
-    "latitude": -37.88657,
-    "longitude": 145.3277961,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "06:00",
-        "closes": "20:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "06:00",
-        "closes": "20:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "06:00",
-        "closes": "20:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "06:00",
-        "closes": "20:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "06:00",
-        "closes": "20:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "06:00",
-        "closes": "20:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "06:00",
-        "closes": "20:00"
       }
     ],
     "services": []
