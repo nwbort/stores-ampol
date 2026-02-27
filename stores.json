@@ -4362,6 +4362,66 @@
     "longitude": 143.3606989,
     "openingHours": [
       {
+        "dayOfWeek": "Monday",
+        "opens": "07:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "01:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "07:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "01:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "07:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "01:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "07:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "01:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "07:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "01:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "07:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "01:00"
+      },
+      {
         "dayOfWeek": "Sunday",
         "opens": "07:00",
         "closes": "22:00"
@@ -13564,7 +13624,7 @@
       {
         "dayOfWeek": "Sunday",
         "opens": "05:00",
-        "closes": "22:00"
+        "closes": "23:00"
       }
     ],
     "services": []
@@ -16565,6 +16625,56 @@
         "dayOfWeek": "Sunday",
         "opens": "05:30",
         "closes": "23:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-fremantle-east",
+    "name": "Ampol Foodary Fremantle East",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-fremantle-east",
+    "phone": "+61893393073",
+    "address": "Canning Hwy Cnr Staton Rd, 176",
+    "locality": "Fremantle East",
+    "postcode": "6158",
+    "country": null,
+    "latitude": -32.03997362,
+    "longitude": 115.76822178,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
@@ -24533,38 +24643,38 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "05:00",
+        "closes": "23:00"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "05:00",
+        "closes": "23:00"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "05:00",
+        "closes": "23:00"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "05:00",
+        "closes": "23:00"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "05:00",
+        "closes": "23:00"
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "05:00",
+        "closes": "23:00"
       },
       {
         "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "05:00",
+        "closes": "23:00"
       }
     ],
     "services": []
@@ -37133,38 +37243,38 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "05:00",
+        "closes": "17:00"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "05:00",
+        "closes": "17:00"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "05:00",
+        "closes": "17:00"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "05:00",
+        "closes": "17:00"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "05:00",
+        "closes": "17:00"
       },
       {
         "dayOfWeek": "Saturday",
         "opens": "00:00",
-        "closes": "23:59"
+        "closes": "00:00"
       },
       {
         "dayOfWeek": "Sunday",
         "opens": "00:00",
-        "closes": "23:59"
+        "closes": "00:00"
       }
     ],
     "services": []
