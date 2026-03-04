@@ -4364,62 +4364,32 @@
       {
         "dayOfWeek": "Monday",
         "opens": "07:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "01:00"
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Tuesday",
         "opens": "07:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "01:00"
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Wednesday",
         "opens": "07:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "01:00"
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Thursday",
         "opens": "07:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "01:00"
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Friday",
         "opens": "07:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "01:00"
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Saturday",
         "opens": "07:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "01:00"
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Sunday",
@@ -48633,7 +48603,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-the-oaks",
     "name": "Ampol The Oaks",
     "url": "http://locations.ampol.com.au/en/ampol-the-oaks",
-    "phone": "+61246571608",
+    "phone": "0",
     "address": "John  Street, 38",
     "locality": "The Oaks",
     "postcode": "2570",
@@ -59375,6 +59345,56 @@
         "dayOfWeek": "Sunday",
         "opens": "00:00",
         "closes": "00:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/independent-wudinna",
+    "name": "Independent Wudinna",
+    "url": "http://locations.ampol.com.au/en/independent-wudinna",
+    "phone": "+61886641240",
+    "address": "Eyre Highway, 80",
+    "locality": "Wudinna",
+    "postcode": "5652",
+    "country": null,
+    "latitude": -33.056374,
+    "longitude": 135.467226,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
