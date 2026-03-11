@@ -3,7 +3,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-airport-west",
     "name": "Ampol Airport West",
     "url": "http://locations.ampol.com.au/en/ampol-airport-west",
-    "phone": "+61433312368",
+    "phone": "0",
     "address": "Louis St, 10-12",
     "locality": "Airport West",
     "postcode": "3042",
@@ -1263,38 +1263,38 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "08:00",
+        "closes": "16:00"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "08:00",
+        "closes": "16:00"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "08:00",
+        "closes": "16:00"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "08:00",
+        "closes": "16:00"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "08:00",
+        "closes": "16:00"
       },
       {
         "dayOfWeek": "Saturday",
         "opens": "00:00",
-        "closes": "23:59"
+        "closes": "00:00"
       },
       {
         "dayOfWeek": "Sunday",
         "opens": "00:00",
-        "closes": "23:59"
+        "closes": "00:00"
       }
     ],
     "services": []
@@ -2263,38 +2263,38 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "06:00",
+        "closes": "18:00"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "06:00",
+        "closes": "18:00"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "06:00",
+        "closes": "18:00"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "06:00",
+        "closes": "18:00"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "06:00",
+        "closes": "18:00"
       },
       {
         "dayOfWeek": "Saturday",
         "opens": "00:00",
-        "closes": "23:59"
+        "closes": "00:00"
       },
       {
         "dayOfWeek": "Sunday",
         "opens": "00:00",
-        "closes": "23:59"
+        "closes": "00:00"
       }
     ],
     "services": []
@@ -2663,38 +2663,38 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "05:00",
+        "closes": "17:00"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "05:00",
+        "closes": "17:00"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "05:00",
+        "closes": "17:00"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "05:00",
+        "closes": "17:00"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
+        "opens": "05:00",
+        "closes": "17:00"
       },
       {
         "dayOfWeek": "Saturday",
         "opens": "00:00",
-        "closes": "23:59"
+        "closes": "00:00"
       },
       {
         "dayOfWeek": "Sunday",
         "opens": "00:00",
-        "closes": "23:59"
+        "closes": "00:00"
       }
     ],
     "services": []
@@ -4253,7 +4253,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-castlereagh",
     "name": "Ampol Castlereagh",
     "url": "http://locations.ampol.com.au/en/ampol-castlereagh",
-    "phone": "+61247262700",
+    "phone": "0",
     "address": "Castlereagh Road, 1141",
     "locality": "Castlereagh",
     "postcode": "2749",
@@ -29600,56 +29600,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-sandy-bay",
-    "name": "Ampol Foodary Sandy Bay",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-sandy-bay",
-    "phone": "+61362251204",
-    "address": "Sandy Bay Rd, 388",
-    "locality": "Sandy Bay",
-    "postcode": "7005",
-    "country": null,
-    "latitude": -42.902414,
-    "longitude": 147.334805,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-scarborough",
     "name": "Ampol Foodary Scarborough",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-scarborough",
@@ -35095,56 +35045,6 @@
         "dayOfWeek": "Sunday",
         "opens": "05:00",
         "closes": "00:00"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-yarrawonga-middleton-st",
-    "name": "Ampol Foodary Yarrawonga Middleton St",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-yarrawonga-middleton-st",
-    "phone": "+61889832020",
-    "address": "Middleton St, 8",
-    "locality": "Yarrawonga",
-    "postcode": "0830",
-    "country": null,
-    "latitude": -12.4698632,
-    "longitude": 130.9875898,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "05:00",
-        "closes": "22:00"
       }
     ],
     "services": []
