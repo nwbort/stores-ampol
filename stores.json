@@ -14650,6 +14650,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-doubleview",
+    "name": "Ampol Foodary Doubleview",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-doubleview",
+    "phone": "+61892041243",
+    "address": "Scarborough Beach Rd, 365",
+    "locality": "Doubleview",
+    "postcode": "6018",
+    "country": null,
+    "latitude": -31.9012363,
+    "longitude": 115.7942126,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-dry-creek",
     "name": "Ampol Foodary Dry Creek",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-dry-creek",
