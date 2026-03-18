@@ -12150,56 +12150,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-cannington",
-    "name": "Ampol Foodary Cannington",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-cannington",
-    "phone": "+61894587187",
-    "address": "Albany Highway, 1346",
-    "locality": "Cannington",
-    "postcode": "6107",
-    "country": null,
-    "latitude": -32.017524,
-    "longitude": 115.935,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-capalaba",
     "name": "Ampol Foodary Capalaba",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-capalaba",
@@ -43053,7 +43003,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-narrogin",
     "name": "Ampol Narrogin",
     "url": "http://locations.ampol.com.au/en/ampol-narrogin",
-    "phone": "+61898811586",
+    "phone": "+61898535600",
     "address": "Clayton Rd, 12",
     "locality": "Narrogin",
     "postcode": "6312",
