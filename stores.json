@@ -12150,6 +12150,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-cannington",
+    "name": "Ampol Foodary Cannington",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-cannington",
+    "phone": "+61894587187",
+    "address": "Albany Highway, 1346",
+    "locality": "Cannington",
+    "postcode": "6107",
+    "country": null,
+    "latitude": -32.017524,
+    "longitude": 115.935,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-capalaba",
     "name": "Ampol Foodary Capalaba",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-capalaba",
@@ -33913,37 +33963,37 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "06:00",
+        "opens": "05:00",
         "closes": "21:00"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "06:00",
+        "opens": "05:00",
         "closes": "21:00"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "06:00",
+        "opens": "05:00",
         "closes": "21:00"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "06:00",
+        "opens": "05:00",
         "closes": "21:00"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "06:00",
+        "opens": "05:00",
         "closes": "21:00"
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "07:00",
+        "opens": "06:00",
         "closes": "21:00"
       },
       {
         "dayOfWeek": "Sunday",
-        "opens": "07:00",
+        "opens": "06:00",
         "closes": "21:00"
       }
     ],
