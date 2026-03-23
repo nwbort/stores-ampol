@@ -16700,56 +16700,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-gelorup",
-    "name": "Ampol Foodary Gelorup",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-gelorup",
-    "phone": "+61897957002",
-    "address": "Bussell Hwy, 39",
-    "locality": "Gelorup",
-    "postcode": "6230",
-    "country": null,
-    "latitude": -33.392938,
-    "longitude": 115.64175,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-gilgandra",
     "name": "Ampol Foodary Gilgandra",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-gilgandra",
