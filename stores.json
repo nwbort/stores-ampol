@@ -12054,7 +12054,7 @@
     "name": "Ampol Foodary Canberra Airport (pialligo)",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-canberra-airport-pialligo",
     "phone": "+61262628842",
-    "address": "Rogan St, /3",
+    "address": "3 Rogan St, 1",
     "locality": "Canberra Airport",
     "postcode": "2609",
     "country": null,
@@ -16700,6 +16700,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-gelorup",
+    "name": "Ampol Foodary Gelorup",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-gelorup",
+    "phone": "+61897957002",
+    "address": "Bussell Hwy, 39",
+    "locality": "Gelorup",
+    "postcode": "6230",
+    "country": null,
+    "latitude": -33.392938,
+    "longitude": 115.64175,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-gilgandra",
     "name": "Ampol Foodary Gilgandra",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-gilgandra",
@@ -18413,27 +18463,27 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "04:00",
+        "opens": "05:00",
         "closes": "22:00"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "04:00",
+        "opens": "05:00",
         "closes": "22:00"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "04:00",
+        "opens": "05:00",
         "closes": "22:00"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "04:00",
+        "opens": "05:00",
         "closes": "22:00"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "04:00",
+        "opens": "05:00",
         "closes": "22:00"
       },
       {
