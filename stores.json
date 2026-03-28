@@ -25950,6 +25950,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-norseman",
+    "name": "Ampol Foodary Norseman",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-norseman",
+    "phone": "+61890391174",
+    "address": "Prinsep St, 1-7",
+    "locality": "Norseman",
+    "postcode": "6443",
+    "country": null,
+    "latitude": -32.1896762,
+    "longitude": 121.778365,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:00",
+        "closes": "22:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-north-adelaide",
     "name": "Ampol Foodary North Adelaide",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-north-adelaide",
