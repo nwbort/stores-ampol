@@ -4253,7 +4253,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-castlereagh",
     "name": "Ampol Castlereagh",
     "url": "http://locations.ampol.com.au/en/ampol-castlereagh",
-    "phone": "0",
+    "phone": "+61247262700",
     "address": "Castlereagh Road, 1141",
     "locality": "Castlereagh",
     "postcode": "2749",
@@ -4263,38 +4263,38 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "06:00",
-        "closes": "20:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "06:00",
-        "closes": "20:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "06:00",
-        "closes": "20:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "06:00",
-        "closes": "20:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "06:00",
-        "closes": "20:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "07:00",
-        "closes": "20:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Sunday",
-        "opens": "07:00",
-        "closes": "19:30"
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
@@ -42053,7 +42053,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-mount-gambier-east",
     "name": "Ampol Mount Gambier East",
     "url": "http://locations.ampol.com.au/en/ampol-mount-gambier-east",
-    "phone": "0",
+    "phone": "+61887231900",
     "address": "Jubilee East Highway, 190",
     "locality": "Mount Gambier",
     "postcode": "5290",
@@ -53353,7 +53353,7 @@
     "ref": "http://locations.ampol.com.au/en/independent-dartmoor",
     "name": "Independent Dartmoor",
     "url": "http://locations.ampol.com.au/en/independent-dartmoor",
-    "phone": "0409 805 211",
+    "phone": "0",
     "address": "Cnr Lange St & Lindsay Rd",
     "locality": "Dartmoor",
     "postcode": "3304",
@@ -54453,7 +54453,7 @@
     "ref": "http://locations.ampol.com.au/en/independent-khancoban",
     "name": "Independent Khancoban",
     "url": "http://locations.ampol.com.au/en/independent-khancoban",
-    "phone": "0260769400",
+    "phone": "0",
     "address": "Alpine Way, 1389",
     "locality": "Khancoban",
     "postcode": "2642",
@@ -54853,7 +54853,7 @@
     "ref": "http://locations.ampol.com.au/en/independent-little-bush-pantry-coen",
     "name": "Independent Little Bush Pantry Coen",
     "url": "http://locations.ampol.com.au/en/independent-little-bush-pantry-coen",
-    "phone": "0484 308 572",
+    "phone": "0",
     "address": "Regent Street, 33",
     "locality": "Coen",
     "postcode": "4871",
@@ -54903,7 +54903,7 @@
     "ref": "http://locations.ampol.com.au/en/independent-lock-deli",
     "name": "Independent Lock Deli",
     "url": "http://locations.ampol.com.au/en/independent-lock-deli",
-    "phone": "0886891147",
+    "phone": "0",
     "address": "Railway Terrace, 15-16",
     "locality": "Lock",
     "postcode": "5633",
@@ -57103,7 +57103,7 @@
     "ref": "http://locations.ampol.com.au/en/independent-rankins-springs",
     "name": "Independent Rankins Springs",
     "url": "http://locations.ampol.com.au/en/independent-rankins-springs",
-    "phone": "026966 1288",
+    "phone": "0",
     "address": "Boomerang Street, 20",
     "locality": "Rankins Springs",
     "postcode": "2669",
@@ -58553,7 +58553,7 @@
     "ref": "http://locations.ampol.com.au/en/independent-tumbarumba",
     "name": "Independent Tumbarumba",
     "url": "http://locations.ampol.com.au/en/independent-tumbarumba",
-    "phone": "02 5954 9303",
+    "phone": "0",
     "address": "The Parade, 76",
     "locality": "Tumbarumba",
     "postcode": "2653",
