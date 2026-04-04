@@ -6000,56 +6000,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-dalwallinu-depot-with-front",
-    "name": "Ampol Dalwallinu Depot With Front",
-    "url": "http://locations.ampol.com.au/en/ampol-dalwallinu-depot-with-front",
-    "phone": "+61896611244",
-    "address": "Railway Parade, 394",
-    "locality": "Dalwallinu",
-    "postcode": "6609",
-    "country": null,
-    "latitude": -30.2737842,
-    "longitude": 116.6652837,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-dareton",
     "name": "Ampol Dareton",
     "url": "http://locations.ampol.com.au/en/ampol-dareton",
@@ -49295,56 +49245,6 @@
         "dayOfWeek": "Sunday",
         "opens": "00:00",
         "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-unanderra",
-    "name": "Ampol Unanderra",
-    "url": "http://locations.ampol.com.au/en/ampol-unanderra",
-    "phone": "+61242728247",
-    "address": "Glastonbury Ave, 15",
-    "locality": "Unanderra",
-    "postcode": "2526",
-    "country": null,
-    "latitude": -34.4586702,
-    "longitude": 150.8564605,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "04:30",
-        "closes": "20:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "04:30",
-        "closes": "20:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "04:30",
-        "closes": "20:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "04:30",
-        "closes": "20:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "04:30",
-        "closes": "20:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "05:30",
-        "closes": "18:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "08:00",
-        "closes": "18:00"
       }
     ],
     "services": []
