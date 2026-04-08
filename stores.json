@@ -19600,56 +19600,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-kalgoorlie-south",
-    "name": "Ampol Foodary Kalgoorlie South",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-kalgoorlie-south",
-    "phone": "+61890913629",
-    "address": "Cnr Boulder Road & Connolly St",
-    "locality": "Kalgoorlie South",
-    "postcode": "6430",
-    "country": null,
-    "latitude": -30.752956,
-    "longitude": 121.480599,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-kalkallo",
     "name": "Ampol Foodary Kalkallo",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-kalkallo",
