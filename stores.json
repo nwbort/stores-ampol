@@ -5013,38 +5013,38 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "06:00",
-        "closes": "18:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "06:00",
-        "closes": "18:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "06:00",
-        "closes": "18:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "06:00",
-        "closes": "18:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "06:00",
-        "closes": "18:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "07:00",
-        "closes": "18:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Sunday",
-        "opens": "07:00",
-        "closes": "18:00"
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
