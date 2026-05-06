@@ -51450,56 +51450,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/independent-auswide-vehicle-services-carwash-vi",
-    "name": "Independent Auswide Vehicle Services-carwash Vi",
-    "url": "http://locations.ampol.com.au/en/independent-auswide-vehicle-services-carwash-vi",
-    "phone": "0",
-    "address": "North St, 59",
-    "locality": "Richmond",
-    "postcode": "3121",
-    "country": null,
-    "latitude": -37.81629,
-    "longitude": 145.01188,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "09:00",
-        "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "09:00",
-        "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "09:00",
-        "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "09:00",
-        "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "09:00",
-        "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/independent-avondale",
     "name": "Independent Avondale",
     "url": "http://locations.ampol.com.au/en/independent-avondale",
