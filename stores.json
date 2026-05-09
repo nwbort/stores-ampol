@@ -23850,6 +23850,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-moonbi",
+    "name": "Ampol Foodary Moonbi",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-moonbi",
+    "phone": "+61257766201",
+    "address": "New England Highway",
+    "locality": "Moonbi",
+    "postcode": "2353",
+    "country": null,
+    "latitude": -31.022718,
+    "longitude": 151.069342,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "06:00",
+        "closes": "22:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-moorabbin",
     "name": "Ampol Foodary Moorabbin",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-moorabbin",
@@ -35050,6 +35100,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-yarrawonga-middleton-st",
+    "name": "Ampol Foodary Yarrawonga Middleton St",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-yarrawonga-middleton-st",
+    "phone": "+61889832020",
+    "address": "Middleton St, 8",
+    "locality": "Yarrawonga",
+    "postcode": "0830",
+    "country": null,
+    "latitude": -12.4698632,
+    "longitude": 130.9875898,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:00",
+        "closes": "22:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-yarrawonga-telford-st",
     "name": "Ampol Foodary Yarrawonga Telford St",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-yarrawonga-telford-st",
@@ -38303,7 +38403,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-karratha-diesel-stop",
     "name": "Ampol Karratha Truckstop",
     "url": "http://locations.ampol.com.au/en/ampol-karratha-diesel-stop",
-    "phone": "0",
+    "phone": "+61899208000",
     "address": "Anderson Rd, 1540",
     "locality": "Karratha Light Industrial Area",
     "postcode": "6714",
