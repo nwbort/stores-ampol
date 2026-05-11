@@ -15950,6 +15950,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-erskine",
+    "name": "Ampol Foodary Erskine",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-erskine",
+    "phone": "+61895869531",
+    "address": "Oakleigh Dr Cnr Old Coast Road, 112",
+    "locality": "Erskine",
+    "postcode": "6210",
+    "country": null,
+    "latitude": -32.5603591,
+    "longitude": 115.6892728,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-esperance-rest",
     "name": "Ampol Foodary Esperance Rest",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-esperance-rest",
