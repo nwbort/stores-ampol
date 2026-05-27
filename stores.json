@@ -85,16 +85,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "16:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -240,11 +230,6 @@
         "dayOfWeek": "Saturday",
         "opens": "07:00",
         "closes": "13:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -385,16 +370,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -735,16 +710,6 @@
         "dayOfWeek": "Friday",
         "opens": "07:00",
         "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -1285,16 +1250,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "16:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -1585,16 +1540,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "16:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -2335,16 +2280,6 @@
         "dayOfWeek": "Friday",
         "opens": "06:00",
         "closes": "18:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -2385,16 +2320,6 @@
         "dayOfWeek": "Friday",
         "opens": "07:00",
         "closes": "17:30"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -2485,16 +2410,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -2735,16 +2650,6 @@
         "dayOfWeek": "Friday",
         "opens": "05:00",
         "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -3435,16 +3340,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -3985,16 +3880,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "16:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -4185,16 +4070,6 @@
         "dayOfWeek": "Friday",
         "opens": "07:00",
         "closes": "15:30"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -4810,43 +4685,7 @@
     "country": null,
     "latitude": -22.832056,
     "longitude": 147.637456,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
-      }
-    ],
+    "openingHours": [],
     "services": []
   },
   {
@@ -5735,16 +5574,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -6585,16 +6414,6 @@
         "dayOfWeek": "Friday",
         "opens": "07:30",
         "closes": "16:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -7235,16 +7054,6 @@
         "dayOfWeek": "Friday",
         "opens": "07:30",
         "closes": "16:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -36335,16 +36144,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "16:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -36385,16 +36184,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "16:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -36540,11 +36329,6 @@
         "dayOfWeek": "Saturday",
         "opens": "06:00",
         "closes": "20:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -36835,16 +36619,6 @@
         "dayOfWeek": "Friday",
         "opens": "07:30",
         "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -37285,16 +37059,6 @@
         "dayOfWeek": "Friday",
         "opens": "05:00",
         "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -37340,11 +37104,6 @@
         "dayOfWeek": "Saturday",
         "opens": "07:00",
         "closes": "12:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -37685,16 +37444,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -38135,16 +37884,6 @@
         "dayOfWeek": "Friday",
         "opens": "07:00",
         "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -38385,16 +38124,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "16:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -39310,43 +39039,7 @@
     "country": null,
     "latitude": -27.9334494,
     "longitude": 153.3833121,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
-      }
-    ],
+    "openingHours": [],
     "services": []
   },
   {
@@ -39610,43 +39303,7 @@
     "country": null,
     "latitude": -34.5532145,
     "longitude": 146.3928031,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
-      }
-    ],
+    "openingHours": [],
     "services": []
   },
   {
@@ -39890,11 +39547,6 @@
         "dayOfWeek": "Saturday",
         "opens": "08:00",
         "closes": "13:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -40090,11 +39742,6 @@
         "dayOfWeek": "Saturday",
         "opens": "05:00",
         "closes": "13:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -40635,16 +40282,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -41985,16 +41622,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -42590,11 +42217,6 @@
         "dayOfWeek": "Saturday",
         "opens": "07:00",
         "closes": "13:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -42885,16 +42507,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -42951,11 +42563,11 @@
   },
   {
     "ref": "http://locations.ampol.com.au/en/ampol-naracoorte-south-east",
-    "name": "Ampol Naracoorte South East",
+    "name": "Ampol Naracoorte",
     "url": "http://locations.ampol.com.au/en/ampol-naracoorte-south-east",
     "phone": "+61887622266",
     "address": "Gordon St, 46",
-    "locality": "Naracoorte South East",
+    "locality": "Naracoorte",
     "postcode": "5271",
     "country": null,
     "latitude": -36.9616963,
@@ -44385,16 +43997,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "16:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -44785,16 +44387,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -44990,11 +44582,6 @@
         "dayOfWeek": "Saturday",
         "opens": "06:00",
         "closes": "12:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -45135,16 +44722,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "16:30"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -45290,11 +44867,6 @@
         "dayOfWeek": "Saturday",
         "opens": "07:00",
         "closes": "12:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -45410,43 +44982,7 @@
     "country": null,
     "latitude": -20.4051923,
     "longitude": 148.5777141,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
-      }
-    ],
+    "openingHours": [],
     "services": []
   },
   {
@@ -46412,39 +45948,14 @@
     "longitude": 151.4983904,
     "openingHours": [
       {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
         "dayOfWeek": "Tuesday",
         "opens": "07:00",
         "closes": "14:00"
       },
       {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
         "dayOfWeek": "Thursday",
         "opens": "07:00",
         "closes": "14:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -47047,6 +46558,20 @@
         "closes": "16:30"
       }
     ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-shepparton-depot",
+    "name": "Ampol Shepparton Depot",
+    "url": "http://locations.ampol.com.au/en/ampol-shepparton-depot",
+    "phone": "0",
+    "address": "Mcgill St, 17-26",
+    "locality": "Shepparton",
+    "postcode": "3630",
+    "country": null,
+    "latitude": -36.3630932,
+    "longitude": 145.4294947,
+    "openingHours": [],
     "services": []
   },
   {
@@ -48590,11 +48115,6 @@
         "dayOfWeek": "Saturday",
         "opens": "07:00",
         "closes": "13:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -48840,11 +48360,6 @@
         "dayOfWeek": "Saturday",
         "opens": "08:30",
         "closes": "13:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -48935,16 +48450,6 @@
         "dayOfWeek": "Friday",
         "opens": "05:00",
         "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -48985,16 +48490,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "16:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -49060,43 +48555,7 @@
     "country": null,
     "latitude": -19.2556619,
     "longitude": 146.833366,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
-      }
-    ],
+    "openingHours": [],
     "services": []
   },
   {
@@ -49985,16 +49444,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -50085,16 +49534,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -50435,16 +49874,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -50685,16 +50114,6 @@
         "dayOfWeek": "Friday",
         "opens": "07:00",
         "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -51490,11 +50909,6 @@
         "dayOfWeek": "Saturday",
         "opens": "08:00",
         "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -51535,11 +50949,6 @@
         "dayOfWeek": "Friday",
         "opens": "06:00",
         "closes": "18:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
       },
       {
         "dayOfWeek": "Sunday",
@@ -52290,11 +51699,6 @@
         "dayOfWeek": "Saturday",
         "opens": "05:00",
         "closes": "18:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -52440,11 +51844,6 @@
         "dayOfWeek": "Saturday",
         "opens": "08:00",
         "closes": "12:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -52485,16 +51884,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -52685,16 +52074,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -52740,11 +52119,6 @@
         "dayOfWeek": "Saturday",
         "opens": "08:00",
         "closes": "13:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -53040,11 +52414,6 @@
         "dayOfWeek": "Saturday",
         "opens": "08:00",
         "closes": "12:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -53190,11 +52559,6 @@
         "dayOfWeek": "Saturday",
         "opens": "07:30",
         "closes": "12:30"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -53740,11 +53104,6 @@
         "dayOfWeek": "Saturday",
         "opens": "08:00",
         "closes": "12:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -53940,11 +53299,6 @@
         "dayOfWeek": "Saturday",
         "opens": "07:00",
         "closes": "13:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -54190,11 +53544,6 @@
         "dayOfWeek": "Saturday",
         "opens": "07:00",
         "closes": "12:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -54335,16 +53684,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -55040,11 +54379,6 @@
         "dayOfWeek": "Saturday",
         "opens": "08:30",
         "closes": "11:30"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -55190,11 +54524,6 @@
         "dayOfWeek": "Saturday",
         "opens": "07:30",
         "closes": "13:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -55340,11 +54669,6 @@
         "dayOfWeek": "Saturday",
         "opens": "07:00",
         "closes": "13:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -56440,11 +55764,6 @@
         "dayOfWeek": "Saturday",
         "opens": "09:00",
         "closes": "11:30"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -56740,11 +56059,6 @@
         "dayOfWeek": "Saturday",
         "opens": "08:00",
         "closes": "11:30"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -57035,16 +56349,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -57140,11 +56444,6 @@
         "dayOfWeek": "Saturday",
         "opens": "09:00",
         "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -57190,11 +56489,6 @@
         "dayOfWeek": "Saturday",
         "opens": "06:00",
         "closes": "13:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -57435,16 +56729,6 @@
         "dayOfWeek": "Friday",
         "opens": "09:00",
         "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -57840,11 +57124,6 @@
         "dayOfWeek": "Saturday",
         "opens": "07:00",
         "closes": "13:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -58040,11 +57319,6 @@
         "dayOfWeek": "Saturday",
         "opens": "08:00",
         "closes": "13:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -58090,11 +57364,6 @@
         "dayOfWeek": "Saturday",
         "opens": "07:30",
         "closes": "13:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -58435,16 +57704,6 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "16:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "00:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -58640,11 +57899,6 @@
         "dayOfWeek": "Saturday",
         "opens": "08:30",
         "closes": "12:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -58740,11 +57994,6 @@
         "dayOfWeek": "Saturday",
         "opens": "07:00",
         "closes": "13:50"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -58890,11 +58139,6 @@
         "dayOfWeek": "Saturday",
         "opens": "09:00",
         "closes": "13:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
@@ -59340,11 +58584,6 @@
         "dayOfWeek": "Saturday",
         "opens": "08:30",
         "closes": "12:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "00:00"
       }
     ],
     "services": []
