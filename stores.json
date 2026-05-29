@@ -43920,8 +43920,8 @@
     "locality": "Penguin",
     "postcode": "7316",
     "country": null,
-    "latitude": -41.1151761,
-    "longitude": 146.0748569,
+    "latitude": -41.115077,
+    "longitude": 146.0748667,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
@@ -43950,11 +43950,6 @@
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "08:00",
-        "closes": "17:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
         "opens": "08:00",
         "closes": "17:00"
       }
