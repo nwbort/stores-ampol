@@ -16959,56 +16959,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-glenorchy",
-    "name": "Ampol Foodary Glenorchy",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-glenorchy",
-    "phone": "+61362729914",
-    "address": "Main Rd, 323-325",
-    "locality": "Glenorchy",
-    "postcode": "7010",
-    "country": null,
-    "latitude": -42.8336862,
-    "longitude": 147.2809297,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "06:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "06:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "06:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "06:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "06:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "06:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "06:00",
-        "closes": "23:00"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-glenroy",
     "name": "Ampol Foodary Glenroy",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-glenroy",
