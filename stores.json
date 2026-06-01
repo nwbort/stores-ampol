@@ -9959,6 +9959,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-berrimah",
+    "name": "Ampol Foodary Berrimah",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-berrimah",
+    "phone": "+61889470553",
+    "address": "Jessop Crescent, 92",
+    "locality": "Berrimah",
+    "postcode": "0828",
+    "country": null,
+    "latitude": -12.4284243,
+    "longitude": 130.9127881,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-birtinya",
     "name": "Ampol Foodary Birtinya",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-birtinya",
@@ -15904,6 +15954,56 @@
         "dayOfWeek": "Sunday",
         "opens": "04:30",
         "closes": "21:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-falcon-miami-beach",
+    "name": "Ampol Foodary Falcon (miami Beach)",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-falcon-miami-beach",
+    "phone": "+61895344972",
+    "address": "Baroy St, 2",
+    "locality": "Falcon (miami Beach)",
+    "postcode": "6210",
+    "country": null,
+    "latitude": -32.5811236,
+    "longitude": 115.6614658,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:00",
+        "closes": "22:00"
       }
     ],
     "services": []
