@@ -13009,56 +13009,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-clarkson",
-    "name": "Ampol Foodary Clarkson",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-clarkson",
-    "phone": "+61894078743",
-    "address": "Ocean Keys Bvd, 7",
-    "locality": "Clarkson",
-    "postcode": "6030",
-    "country": null,
-    "latitude": -31.689487,
-    "longitude": 115.715386,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "05:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "05:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "05:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "05:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "05:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "06:00",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "06:00",
-        "closes": "21:00"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-cleveland-shore-st",
     "name": "Ampol Foodary Cleveland Shore St",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-cleveland-shore-st",
@@ -48178,38 +48128,38 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "05:00",
-        "closes": "23:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "05:00",
-        "closes": "23:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "05:00",
-        "closes": "23:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "05:00",
-        "closes": "23:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "05:00",
-        "closes": "23:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "06:00",
-        "closes": "22:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Sunday",
-        "opens": "06:00",
-        "closes": "22:00"
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
