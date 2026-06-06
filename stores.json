@@ -2655,56 +2655,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-bridgetown-diesel-stop",
-    "name": "Ampol Bridgetown Diesel Stop",
-    "url": "http://locations.ampol.com.au/en/ampol-bridgetown-diesel-stop",
-    "phone": "1800240398",
-    "address": "Spencer St, 1",
-    "locality": "Bridgetown",
-    "postcode": "6255",
-    "country": null,
-    "latitude": -33.95902,
-    "longitude": 116.13868,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-bridport",
     "name": "Ampol Bridport",
     "url": "http://locations.ampol.com.au/en/ampol-bridport",
@@ -10959,56 +10909,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-bunbury",
-    "name": "Ampol Foodary Bunbury",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-bunbury",
-    "phone": "+61897219392",
-    "address": "Forrest Ave, 1-3",
-    "locality": "Bunbury",
-    "postcode": "6230",
-    "country": null,
-    "latitude": -33.33668,
-    "longitude": 115.641368,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "04:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "04:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "04:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "04:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "04:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "04:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "04:00",
-        "closes": "23:00"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-bundaberg-central",
     "name": "Ampol Foodary Bundaberg Central",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-bundaberg-central",
@@ -13003,6 +12903,56 @@
       {
         "dayOfWeek": "Sunday",
         "opens": "05:00",
+        "closes": "21:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-clarkson",
+    "name": "Ampol Foodary Clarkson",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-clarkson",
+    "phone": "+61894078743",
+    "address": "Ocean Keys Bvd, 7",
+    "locality": "Clarkson",
+    "postcode": "6030",
+    "country": null,
+    "latitude": -31.689487,
+    "longitude": 115.715386,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "06:00",
         "closes": "21:00"
       }
     ],
@@ -29009,56 +28959,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-rutherford",
-    "name": "Ampol Foodary Rutherford",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-rutherford",
-    "phone": "+61249328600",
-    "address": "New England Hwy, 134-138",
-    "locality": "Rutherford",
-    "postcode": "2320",
-    "country": null,
-    "latitude": -32.720312,
-    "longitude": 151.537937,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "04:00",
-        "closes": "20:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "04:00",
-        "closes": "20:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "04:00",
-        "closes": "20:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "04:00",
-        "closes": "20:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "04:00",
-        "closes": "20:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "06:00",
-        "closes": "20:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "06:00",
-        "closes": "20:00"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-rutherford-west",
     "name": "Ampol Foodary Rutherford West",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-rutherford-west",
@@ -42662,56 +42562,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-narrogin",
-    "name": "Ampol Narrogin",
-    "url": "http://locations.ampol.com.au/en/ampol-narrogin",
-    "phone": "+61898535600",
-    "address": "Clayton Rd, 12",
-    "locality": "Narrogin",
-    "postcode": "6312",
-    "country": null,
-    "latitude": -32.9308244,
-    "longitude": 117.1769665,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "05:30",
-        "closes": "18:30"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "05:30",
-        "closes": "18:30"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "05:30",
-        "closes": "18:30"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "05:30",
-        "closes": "18:30"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "05:30",
-        "closes": "18:30"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "06:30",
-        "closes": "18:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "06:30",
-        "closes": "18:00"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-narwee",
     "name": "Ampol Narwee",
     "url": "http://locations.ampol.com.au/en/ampol-narwee",
@@ -44527,56 +44377,6 @@
         "dayOfWeek": "Saturday",
         "opens": "06:00",
         "closes": "12:00"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-port-lincoln",
-    "name": "Ampol Port Lincoln",
-    "url": "http://locations.ampol.com.au/en/ampol-port-lincoln",
-    "phone": "+61886823024",
-    "address": "Hallett Place, 30",
-    "locality": "Port Lincoln",
-    "postcode": "5606",
-    "country": null,
-    "latitude": -34.7196803,
-    "longitude": 135.8551705,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "06:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "06:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "06:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "06:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "06:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "06:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "06:00",
-        "closes": "23:00"
       }
     ],
     "services": []
