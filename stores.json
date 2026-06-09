@@ -22409,56 +22409,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-malaga-drive",
-    "name": "Ampol Foodary Malaga Drive",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-malaga-drive",
-    "phone": "+61892091729",
-    "address": "Malaga Dr Cnr Truganina Rd, 76",
-    "locality": "Malaga",
-    "postcode": "6090",
-    "country": null,
-    "latitude": -31.863223,
-    "longitude": 115.893916,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-manly",
     "name": "Ampol Foodary Manly",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-manly",
