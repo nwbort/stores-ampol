@@ -7509,56 +7509,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-abbotsford",
-    "name": "Ampol Foodary Abbotsford",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-abbotsford",
-    "phone": "+61394170959",
-    "address": "Hoddle St, 28-40",
-    "locality": "Abbotsford",
-    "postcode": "3067",
-    "country": null,
-    "latitude": -37.807779,
-    "longitude": 144.992029,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-aberfoyle-park",
     "name": "Ampol Foodary Aberfoyle Park",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-aberfoyle-park",
@@ -15159,56 +15109,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-eaton-mcmillian-rd",
-    "name": "Ampol Foodary Eaton Mcmillian Rd",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-eaton-mcmillian-rd",
-    "phone": "+61889483089",
-    "address": "Cnr Mcmillian Rd & Neale St",
-    "locality": "Eaton",
-    "postcode": "0820",
-    "country": null,
-    "latitude": -12.397471,
-    "longitude": 130.86041,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-eaton-old-coast-rd",
     "name": "Ampol Foodary Eaton Old Coast Rd",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-eaton-old-coast-rd",
@@ -15904,56 +15804,6 @@
         "dayOfWeek": "Sunday",
         "opens": "00:00",
         "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-exmouth",
-    "name": "Ampol Foodary Exmouth",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-exmouth",
-    "phone": "+61899491052",
-    "address": "Murat Rd, 315",
-    "locality": "Exmouth",
-    "postcode": "6707",
-    "country": null,
-    "latitude": -21.93269,
-    "longitude": 114.12773,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "04:30",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "04:30",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "04:30",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "04:30",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "04:30",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "04:30",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "04:30",
-        "closes": "21:00"
       }
     ],
     "services": []
@@ -18804,56 +18654,6 @@
         "dayOfWeek": "Sunday",
         "opens": "00:00",
         "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-hobart-macquarie-st",
-    "name": "Ampol Foodary Hobart Macquarie St",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-hobart-macquarie-st",
-    "phone": "+61362231430",
-    "address": "Macquarie St, 272",
-    "locality": "South Hobart",
-    "postcode": "7004",
-    "country": null,
-    "latitude": -42.891128,
-    "longitude": 147.319678,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "05:30",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "05:30",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "05:30",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "05:30",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "05:30",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "05:30",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "05:30",
-        "closes": "22:00"
       }
     ],
     "services": []
@@ -21909,56 +21709,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-livingston",
-    "name": "Ampol Foodary Livingston",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-livingston",
-    "phone": "+61894556153",
-    "address": "Ranford Rd, 110",
-    "locality": "Canning Vale",
-    "postcode": "6155",
-    "country": null,
-    "latitude": -32.0871103,
-    "longitude": 115.9165993,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "04:30",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "04:30",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "04:30",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "04:30",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "04:30",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "04:30",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "04:30",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-longwarry-eastbound",
     "name": "Ampol Foodary Longwarry (eastbound)",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-longwarry-eastbound",
@@ -22369,6 +22119,56 @@
     "country": null,
     "latitude": -31.848174,
     "longitude": 115.878564,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-malaga-drive",
+    "name": "Ampol Foodary Malaga Drive",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-malaga-drive",
+    "phone": "+61892091729",
+    "address": "Malaga Dr Cnr Truganina Rd, 76",
+    "locality": "Malaga",
+    "postcode": "6090",
+    "country": null,
+    "latitude": -31.863223,
+    "longitude": 115.893916,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
