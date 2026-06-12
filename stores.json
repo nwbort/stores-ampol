@@ -7509,56 +7509,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-abbotsford",
-    "name": "Ampol Foodary Abbotsford",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-abbotsford",
-    "phone": "+61394170959",
-    "address": "Hoddle St, 28-40",
-    "locality": "Abbotsford",
-    "postcode": "3067",
-    "country": null,
-    "latitude": -37.807779,
-    "longitude": 144.992029,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-aberfoyle-park",
     "name": "Ampol Foodary Aberfoyle Park",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-aberfoyle-park",
@@ -16959,6 +16909,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-glenorchy",
+    "name": "Ampol Foodary Glenorchy",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-glenorchy",
+    "phone": "+61362729914",
+    "address": "Main Rd, 323-325",
+    "locality": "Glenorchy",
+    "postcode": "7010",
+    "country": null,
+    "latitude": -42.8336862,
+    "longitude": 147.2809297,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "06:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "06:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "06:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "06:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "06:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "06:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "06:00",
+        "closes": "23:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-glenroy",
     "name": "Ampol Foodary Glenroy",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-glenroy",
@@ -23654,6 +23654,56 @@
         "dayOfWeek": "Sunday",
         "opens": "04:00",
         "closes": "21:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-moonbi",
+    "name": "Ampol Foodary Moonbi",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-moonbi",
+    "phone": "+61257766201",
+    "address": "New England Highway",
+    "locality": "Moonbi",
+    "postcode": "2353",
+    "country": null,
+    "latitude": -31.022718,
+    "longitude": 151.069342,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "06:00",
+        "closes": "22:00"
       }
     ],
     "services": []
@@ -34569,6 +34619,56 @@
     "country": null,
     "latitude": -31.551955,
     "longitude": 115.639446,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-yangebup",
+    "name": "Ampol Foodary Yangebup",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-yangebup",
+    "phone": "+61894949701",
+    "address": "Beeliar Drive, 289",
+    "locality": "Yangebup",
+    "postcode": "6164",
+    "country": null,
+    "latitude": -32.1274683,
+    "longitude": 115.7990315,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
