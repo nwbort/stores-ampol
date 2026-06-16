@@ -24609,6 +24609,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-murdoch",
+    "name": "Ampol Foodary Murdoch",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-murdoch",
+    "phone": "+61893102755",
+    "address": "Cnr South St & Robson Way",
+    "locality": "Murdoch",
+    "postcode": "6150",
+    "country": null,
+    "latitude": -32.063392,
+    "longitude": 115.835492,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-murwillumbah",
     "name": "Ampol Foodary Murwillumbah",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-murwillumbah",
@@ -43015,7 +43065,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-nhill",
     "name": "Ampol Nhill",
     "url": "http://locations.ampol.com.au/en/ampol-nhill",
-    "phone": "+61353911581",
+    "phone": "+61353149084",
     "address": "Victoria St, 94-100",
     "locality": "Nhill",
     "postcode": "3418",
