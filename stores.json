@@ -15859,6 +15859,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-esperance-rest",
+    "name": "Ampol Foodary Esperance Rest",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-esperance-rest",
+    "phone": "+61890715892",
+    "address": "Cnr Dempster & Hicks Sts",
+    "locality": "Esperance",
+    "postcode": "6450",
+    "country": null,
+    "latitude": -33.858393,
+    "longitude": 121.894055,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-exmouth",
     "name": "Ampol Foodary Exmouth",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-exmouth",
