@@ -33159,6 +33159,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-weston",
+    "name": "Ampol Foodary Weston",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-weston",
+    "phone": "+61262875960",
+    "address": "Brierly St Cnr Liardet St, 49",
+    "locality": "Weston",
+    "postcode": "2611",
+    "country": null,
+    "latitude": -35.340258,
+    "longitude": 149.052069,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:00",
+        "closes": "23:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-weston-creek",
     "name": "Ampol Foodary Weston Creek",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-weston-creek",
@@ -33959,6 +34009,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-woodridge-west",
+    "name": "Ampol Foodary Woodridge West",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-woodridge-west",
+    "phone": "+61732081832",
+    "address": "Wembley Rd, 153",
+    "locality": "Woodridge West",
+    "postcode": "4114",
+    "country": null,
+    "latitude": -27.6428333,
+    "longitude": 153.1002931,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:00",
+        "closes": "21:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-woollahra",
     "name": "Ampol Foodary Woollahra",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-woollahra",
@@ -34509,6 +34609,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-yamba-sturt-hwy",
+    "name": "Ampol Foodary Yamba Sturt Hwy",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-yamba-sturt-hwy",
+    "phone": "+61885955023",
+    "address": "Sturt Hwy, 22220",
+    "locality": "Yamba",
+    "postcode": "5340",
+    "country": null,
+    "latitude": -34.260833,
+    "longitude": 140.862501,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "06:00",
+        "closes": "21:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-yanchep",
     "name": "Ampol Foodary Yanchep",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-yanchep",
@@ -34859,51 +35009,51 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-yarrawonga-telford-st",
-    "name": "Ampol Foodary Yarrawonga Telford St",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-yarrawonga-telford-st",
-    "phone": "+61357443897",
-    "address": "Telford St Cnr Gilmore St, 53-55",
-    "locality": "Yarrawonga",
-    "postcode": "3730",
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-yass",
+    "name": "Ampol Foodary Yass",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-yass",
+    "phone": "+61262264022",
+    "address": "Yass Valley Way, 1715",
+    "locality": "Yass",
+    "postcode": "2582",
     "country": null,
-    "latitude": -36.0180374,
-    "longitude": 146.0042677,
+    "latitude": -34.806763,
+    "longitude": 148.88211,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "05:00",
-        "closes": "22:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "05:00",
-        "closes": "22:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "05:00",
-        "closes": "22:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "05:00",
-        "closes": "22:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "05:00",
-        "closes": "22:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "05:00",
-        "closes": "22:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Sunday",
-        "opens": "05:00",
-        "closes": "22:00"
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
