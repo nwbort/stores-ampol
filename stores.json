@@ -35009,6 +35009,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-yarrawonga-telford-st",
+    "name": "Ampol Foodary Yarrawonga Telford St",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-yarrawonga-telford-st",
+    "phone": "+61357443897",
+    "address": "Telford St Cnr Gilmore St, 53-55",
+    "locality": "Yarrawonga",
+    "postcode": "3730",
+    "country": null,
+    "latitude": -36.0180374,
+    "longitude": 146.0042677,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:00",
+        "closes": "22:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-yass",
     "name": "Ampol Foodary Yass",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-yass",
@@ -37304,6 +37354,56 @@
         "dayOfWeek": "Sunday",
         "opens": "07:00",
         "closes": "20:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-horsham",
+    "name": "Ampol Horsham",
+    "url": "http://locations.ampol.com.au/en/ampol-horsham",
+    "phone": "+61417546206",
+    "address": "Burnt Creek Drive",
+    "locality": "Horsham",
+    "postcode": "3400",
+    "country": null,
+    "latitude": -36.7612706,
+    "longitude": 142.2407688,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
