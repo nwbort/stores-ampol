@@ -7112,7 +7112,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-epping-forest",
     "name": "Ampol Epping Forest",
     "url": "http://locations.ampol.com.au/en/ampol-epping-forest",
-    "phone": "+61364241471",
+    "phone": "+61363915510",
     "address": "Midland Highway, 13490",
     "locality": "Epping Forest",
     "postcode": "7211",
@@ -30609,6 +30609,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-strathpine",
+    "name": "Ampol Foodary Strathpine",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-strathpine",
+    "phone": "+61732052783",
+    "address": "South Pine Road, 321",
+    "locality": "Strathpine",
+    "postcode": "4500",
+    "country": null,
+    "latitude": -27.326165,
+    "longitude": 152.978797,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "04:30",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "04:30",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "04:30",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "04:30",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "04:30",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "07:00",
+        "closes": "17:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "07:00",
+        "closes": "17:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-stratton",
     "name": "Ampol Foodary Stratton",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-stratton",
@@ -30654,6 +30704,56 @@
         "dayOfWeek": "Sunday",
         "opens": "00:00",
         "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-subiaco",
+    "name": "Ampol Foodary Subiaco",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-subiaco",
+    "phone": "+61893881701",
+    "address": "Rokeby Rd Cnr Bagot Rd, 194",
+    "locality": "Subiaco",
+    "postcode": "6008",
+    "country": null,
+    "latitude": -31.950641,
+    "longitude": 115.824281,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "04:30",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "04:30",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "04:30",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "04:30",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "04:30",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "04:30",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "04:30",
+        "closes": "23:00"
       }
     ],
     "services": []
@@ -31354,6 +31454,56 @@
         "dayOfWeek": "Sunday",
         "opens": "00:00",
         "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-tingalpa",
+    "name": "Ampol Foodary Tingalpa",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-tingalpa",
+    "phone": "+61733909701",
+    "address": "Wynnum Road, 1466-1472",
+    "locality": "Tingalpa",
+    "postcode": "4173",
+    "country": null,
+    "latitude": -27.4741119,
+    "longitude": 153.1216093,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:00",
+        "closes": "23:00"
       }
     ],
     "services": []
@@ -32109,6 +32259,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-wandong",
+    "name": "Ampol Foodary Wandong",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-wandong",
+    "phone": "+61357871923",
+    "address": "Epping Kilmore Road, 3272",
+    "locality": "Wandong",
+    "postcode": "3758",
+    "country": null,
+    "latitude": -37.359884,
+    "longitude": 145.026359,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:00",
+        "closes": "22:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-wangara",
     "name": "Ampol Foodary Wangara",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-wangara",
@@ -32859,6 +33059,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-westbourne-park",
+    "name": "Ampol Foodary Westbourne Park",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-westbourne-park",
+    "phone": "+61882713475",
+    "address": "Goodwood Road, 427",
+    "locality": "Westbourne Park",
+    "postcode": "5041",
+    "country": null,
+    "latitude": -34.9741996,
+    "longitude": 138.5918958,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "06:00",
+        "closes": "22:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-westmeadows",
     "name": "Ampol Foodary Westmeadows",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-westmeadows",
@@ -33359,6 +33609,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-wingfield",
+    "name": "Ampol Foodary Wingfield",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-wingfield",
+    "phone": "+61883454916",
+    "address": "South Rd, 664-668",
+    "locality": "Wingfield",
+    "postcode": "5013",
+    "country": null,
+    "latitude": -34.8470035,
+    "longitude": 138.5638689,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-wingham",
     "name": "Ampol Foodary Wingham",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-wingham",
@@ -33404,6 +33704,56 @@
         "dayOfWeek": "Sunday",
         "opens": "06:00",
         "closes": "20:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-wishart",
+    "name": "Ampol Foodary Wishart",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-wishart",
+    "phone": "+61734222722",
+    "address": "Mt Gravatt-capalaba Rd, 590",
+    "locality": "Wishart",
+    "postcode": "4122",
+    "country": null,
+    "latitude": -27.548567,
+    "longitude": 153.10808,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
@@ -34209,6 +34559,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-yamanto",
+    "name": "Ampol Foodary Yamanto",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-yamanto",
+    "phone": "+61732940366",
+    "address": "Cnr Warwick & Leonard Sts",
+    "locality": "Yamanto",
+    "postcode": "4305",
+    "country": null,
+    "latitude": -27.656315,
+    "longitude": 152.747811,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "04:30",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "04:30",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "04:30",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "04:30",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "04:30",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "04:30",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "04:30",
+        "closes": "22:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-yamba-sturt-hwy",
     "name": "Ampol Foodary Yamba Sturt Hwy",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-yamba-sturt-hwy",
@@ -34254,6 +34654,56 @@
         "dayOfWeek": "Sunday",
         "opens": "06:00",
         "closes": "21:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-yanchep",
+    "name": "Ampol Foodary Yanchep",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-yanchep",
+    "phone": "+61895541265",
+    "address": "Marmion Avenue Cnr Morwell Street",
+    "locality": "Yanchep",
+    "postcode": "6035",
+    "country": null,
+    "latitude": -31.551955,
+    "longitude": 115.639446,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
@@ -34369,6 +34819,56 @@
     "country": null,
     "latitude": -27.8015,
     "longitude": 153.10302,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-yarrabilba-south",
+    "name": "Ampol Foodary Yarrabilba South",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-yarrabilba-south",
+    "phone": "+61756099701",
+    "address": "Cnr Yarrabilba Drive & Mill St",
+    "locality": "Yarrabilba South",
+    "postcode": "4207",
+    "country": null,
+    "latitude": -27.815721,
+    "longitude": 153.123052,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
