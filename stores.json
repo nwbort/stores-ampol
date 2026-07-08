@@ -7909,6 +7909,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-nuriootpa",
+    "name": "Ampol Foodary Nuriootpa",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-nuriootpa",
+    "phone": "+61885623164",
+    "address": "174 Murray St",
+    "locality": "Nuriootpa",
+    "postcode": "5355",
+    "country": null,
+    "latitude": -34.456827,
+    "longitude": 139.003374,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-rozelle",
     "name": "Ampol Foodary Rozelle",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-rozelle",
@@ -29497,7 +29547,7 @@
     "ref": "http://locations.ampol.com.au/en/independent-ravenshoe-general-transport",
     "name": "Independent Ravenshoe General Transport",
     "url": "http://locations.ampol.com.au/en/independent-ravenshoe-general-transport",
-    "phone": "0",
+    "phone": "+61740976305",
     "address": "Lot 1 Kennedy Highway",
     "locality": "Ravenshoe",
     "postcode": "4888",
