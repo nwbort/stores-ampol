@@ -7909,56 +7909,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-nuriootpa",
-    "name": "Ampol Foodary Nuriootpa",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-nuriootpa",
-    "phone": "+61885623164",
-    "address": "174 Murray St",
-    "locality": "Nuriootpa",
-    "postcode": "5355",
-    "country": null,
-    "latitude": -34.456827,
-    "longitude": 139.003374,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-rozelle",
     "name": "Ampol Foodary Rozelle",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-rozelle",
@@ -11092,7 +11042,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-jondaryan",
     "name": "Ampol Jondaryan",
     "url": "http://locations.ampol.com.au/en/ampol-jondaryan",
-    "phone": "+61746922143",
+    "phone": "0",
     "address": "Warrego Highway",
     "locality": "Jondaryan",
     "postcode": "4403",
