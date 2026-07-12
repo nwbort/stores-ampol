@@ -3445,6 +3445,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-busselton-depot-with-front",
+    "name": "Ampol Busselton Depot With Front",
+    "url": "http://locations.ampol.com.au/en/ampol-busselton-depot-with-front",
+    "phone": "0",
+    "address": "Cnr Strelly St & Fairlawn Rd",
+    "locality": "Busselton",
+    "postcode": "6280",
+    "country": null,
+    "latitude": -33.6631584,
+    "longitude": 115.3489417,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-cairns",
     "name": "Ampol Cairns",
     "url": "http://locations.ampol.com.au/en/ampol-cairns",
@@ -18831,6 +18881,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-rous-head-truck-stop-truck-canopy",
+    "name": "Ampol Rous Head Truck Stop (truck Canopy)",
+    "url": "http://locations.ampol.com.au/en/ampol-rous-head-truck-stop-truck-canopy",
+    "phone": "+61894317120",
+    "address": "North Mole Dr, R113",
+    "locality": "Fremantle",
+    "postcode": "6160",
+    "country": null,
+    "latitude": -32.0411452,
+    "longitude": 115.7386168,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-rouse-hill",
     "name": "Ampol Rouse Hill",
     "url": "http://locations.ampol.com.au/en/ampol-rouse-hill",
@@ -26004,6 +26104,51 @@
         "dayOfWeek": "Sunday",
         "opens": "08:00",
         "closes": "20:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/independent-everton",
+    "name": "Independent Everton",
+    "url": "http://locations.ampol.com.au/en/independent-everton",
+    "phone": "+61357270282",
+    "address": "Great Alpine Rd, 2128",
+    "locality": "Everton",
+    "postcode": "3678",
+    "country": null,
+    "latitude": -36.433678,
+    "longitude": 146.542458,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "08:00",
+        "closes": "12:00"
       }
     ],
     "services": []
