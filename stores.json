@@ -19673,7 +19673,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-smeaton-grange",
     "name": "Ampol Smeaton Grange",
     "url": "http://locations.ampol.com.au/en/ampol-smeaton-grange",
-    "phone": "+61246474549",
+    "phone": "0",
     "address": "Dunn Road, 1",
     "locality": "Smeaton Grange",
     "postcode": "2567",
@@ -25162,8 +25162,13 @@
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "08:00",
-        "closes": "13:00"
+        "opens": "08:30",
+        "closes": "16:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "08:30",
+        "closes": "16:00"
       }
     ],
     "services": []
