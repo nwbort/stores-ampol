@@ -10492,7 +10492,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-howlong",
     "name": "Ampol Howlong",
     "url": "http://locations.ampol.com.au/en/ampol-howlong",
-    "phone": "+61260265692",
+    "phone": "+61260268125",
     "address": "Hawkins St, 150",
     "locality": "Howlong",
     "postcode": "2643",
@@ -25939,6 +25939,56 @@
         "dayOfWeek": "Sunday",
         "opens": "07:00",
         "closes": "19:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/independent-dimbulah",
+    "name": "Independent Dimbulah One Stop",
+    "url": "http://locations.ampol.com.au/en/independent-dimbulah",
+    "phone": "0",
+    "address": "Stephens St, 22",
+    "locality": "Dimbulah",
+    "postcode": "4872",
+    "country": null,
+    "latitude": -17.14689,
+    "longitude": 145.105731,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "07:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "07:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "07:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "07:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "07:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "08:00",
+        "closes": "17:00"
       }
     ],
     "services": []
