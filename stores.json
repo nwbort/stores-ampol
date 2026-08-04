@@ -11032,13 +11032,13 @@
     "ref": "http://locations.ampol.com.au/en/ampol-jondaryan",
     "name": "Ampol Jondaryan",
     "url": "http://locations.ampol.com.au/en/ampol-jondaryan",
-    "phone": "0",
+    "phone": "+61746922143",
     "address": "Warrego Highway",
     "locality": "Jondaryan",
     "postcode": "4403",
     "country": null,
-    "latitude": -27.3616396,
-    "longitude": 151.5809431,
+    "latitude": -27.369659,
+    "longitude": 151.592499,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
