@@ -34709,56 +34709,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-yarra-glen-yarraview-mtrs",
-    "name": "Ampol Foodary Yarra Glen-yarraview Mtrs",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-yarra-glen-yarraview-mtrs",
-    "phone": "+61397301466",
-    "address": "Bell Street, 66",
-    "locality": "Yarra Glen",
-    "postcode": "3775",
-    "country": null,
-    "latitude": -37.6540288,
-    "longitude": 145.3759323,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "04:30",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "04:30",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "04:30",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "04:30",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "04:30",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "06:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "06:00",
-        "closes": "22:00"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-yarrabilba",
     "name": "Ampol Foodary Yarrabilba",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-yarrabilba",
@@ -34854,6 +34804,56 @@
         "dayOfWeek": "Sunday",
         "opens": "00:00",
         "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-yarraville",
+    "name": "Ampol Foodary Yarraville",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-yarraville",
+    "phone": "+61396892857",
+    "address": "Hyde St Cnr Somerville Rd, 130-132",
+    "locality": "Yarraville",
+    "postcode": "3013",
+    "country": null,
+    "latitude": -37.813884,
+    "longitude": 144.897041,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:00",
+        "closes": "00:00"
       }
     ],
     "services": []
