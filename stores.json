@@ -31559,6 +31559,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-toowong",
+    "name": "Ampol Foodary Toowong",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-toowong",
+    "phone": "+61733077401",
+    "address": "Milton Road, 581",
+    "locality": "Toowong",
+    "postcode": "4066",
+    "country": null,
+    "latitude": -27.478537,
+    "longitude": 152.985854,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-toowoomba-north",
     "name": "Ampol Foodary Toowoomba North",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-toowoomba-north",
@@ -32154,6 +32204,56 @@
         "dayOfWeek": "Sunday",
         "opens": "06:00",
         "closes": "23:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-wamberal",
+    "name": "Ampol Foodary Wamberal",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-wamberal",
+    "phone": "+61243857451",
+    "address": "The Entrance Rd, 656",
+    "locality": "Wamberal",
+    "postcode": "2260",
+    "country": null,
+    "latitude": -33.423326,
+    "longitude": 151.437532,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
@@ -33409,6 +33509,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-windsor",
+    "name": "Ampol Foodary Windsor",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-windsor",
+    "phone": "+61733575929",
+    "address": "Newmarket Rd, 143",
+    "locality": "Windsor",
+    "postcode": "4030",
+    "country": null,
+    "latitude": -27.436608,
+    "longitude": 153.023245,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-windsor-south",
     "name": "Ampol Foodary Windsor South",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-windsor-south",
@@ -34209,6 +34359,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-wyong-m1-northbound-diesel",
+    "name": "Ampol Foodary Wyong M1 Northbound Diesel",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-wyong-m1-northbound-diesel",
+    "phone": "+61243523619",
+    "address": "M1 Northbound",
+    "locality": "Wyong",
+    "postcode": "2259",
+    "country": null,
+    "latitude": -33.257348,
+    "longitude": 151.402125,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-wyong-m1-northbound-petrol",
     "name": "Ampol Foodary Wyong M1 Northbound Petrol",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-wyong-m1-northbound-petrol",
@@ -34559,51 +34759,51 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-yarra-glen-yarraview-mtrs",
-    "name": "Ampol Foodary Yarra Glen-yarraview Mtrs",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-yarra-glen-yarraview-mtrs",
-    "phone": "+61397301466",
-    "address": "Bell Street, 66",
-    "locality": "Yarra Glen",
-    "postcode": "3775",
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-yarrabilba",
+    "name": "Ampol Foodary Yarrabilba",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-yarrabilba",
+    "phone": "+61755470601",
+    "address": "Yarrabilba Drive, 28",
+    "locality": "Yarrabilba",
+    "postcode": "4207",
     "country": null,
-    "latitude": -37.6540288,
-    "longitude": 145.3759323,
+    "latitude": -27.8015,
+    "longitude": 153.10302,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "04:30",
-        "closes": "22:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "04:30",
-        "closes": "22:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "04:30",
-        "closes": "22:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "04:30",
-        "closes": "22:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "04:30",
-        "closes": "22:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "06:00",
-        "closes": "22:00"
+        "opens": "00:00",
+        "closes": "23:59"
       },
       {
         "dayOfWeek": "Sunday",
-        "opens": "06:00",
-        "closes": "22:00"
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
