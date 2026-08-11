@@ -34759,6 +34759,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-yarra-glen-yarraview-mtrs",
+    "name": "Ampol Foodary Yarra Glen-yarraview Mtrs",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-yarra-glen-yarraview-mtrs",
+    "phone": "+61397301466",
+    "address": "Bell Street, 66",
+    "locality": "Yarra Glen",
+    "postcode": "3775",
+    "country": null,
+    "latitude": -37.6540288,
+    "longitude": 145.3759323,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "04:30",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "04:30",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "04:30",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "04:30",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "04:30",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "06:00",
+        "closes": "22:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-yarrabilba",
     "name": "Ampol Foodary Yarrabilba",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-yarrabilba",
@@ -42181,32 +42231,37 @@
       {
         "dayOfWeek": "Monday",
         "opens": "06:00",
-        "closes": "19:00"
+        "closes": "20:00"
       },
       {
         "dayOfWeek": "Tuesday",
         "opens": "06:00",
-        "closes": "19:00"
+        "closes": "20:00"
       },
       {
         "dayOfWeek": "Wednesday",
         "opens": "06:00",
-        "closes": "19:00"
+        "closes": "20:00"
       },
       {
         "dayOfWeek": "Thursday",
         "opens": "06:00",
-        "closes": "19:00"
+        "closes": "20:00"
       },
       {
         "dayOfWeek": "Friday",
         "opens": "06:00",
-        "closes": "19:00"
+        "closes": "20:00"
       },
       {
         "dayOfWeek": "Saturday",
         "opens": "07:00",
-        "closes": "13:00"
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "07:00",
+        "closes": "16:00"
       }
     ],
     "services": []
