@@ -58886,5 +58886,50 @@
     "longitude": -58.4006332,
     "openingHours": [],
     "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/teleconsultation-pharmacie-lafayette-du-boulevard-medecin-medadom-ph1722",
+    "name": "T\u00e9l\u00e9consultation Pharmacie Lafayette Du Boulevard M\u00e9decin MEDADOM",
+    "url": "http://locations.ampol.com.au/en/teleconsultation-pharmacie-lafayette-du-boulevard-medecin-medadom-ph1722",
+    "phone": "03 23 62 42 12",
+    "address": "Rue Alexandre Dumas, 98",
+    "locality": "Saint-Quentin",
+    "postcode": "02100",
+    "country": null,
+    "latitude": 49.8488927,
+    "longitude": 3.2709124,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "08:30",
+        "closes": "19:30"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "08:30",
+        "closes": "19:30"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "08:30",
+        "closes": "19:30"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "08:30",
+        "closes": "19:30"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "08:30",
+        "closes": "19:30"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "08:30",
+        "closes": "19:30"
+      }
+    ],
+    "services": []
   }
 ]
