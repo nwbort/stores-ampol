@@ -7509,6 +7509,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-abbotsford",
+    "name": "Ampol Foodary Abbotsford",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-abbotsford",
+    "phone": "+61394170959",
+    "address": "Hoddle St, 28-40",
+    "locality": "Abbotsford",
+    "postcode": "3067",
+    "country": null,
+    "latitude": -37.807779,
+    "longitude": 144.992029,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-aberfoyle-park",
     "name": "Ampol Foodary Aberfoyle Park",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-aberfoyle-park",
@@ -23904,6 +23954,56 @@
         "dayOfWeek": "Sunday",
         "opens": "05:00",
         "closes": "20:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-morayfield-east",
+    "name": "Ampol Foodary Morayfield East",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-morayfield-east",
+    "phone": "+61754311001",
+    "address": "Buchanan Rd, 200",
+    "locality": "Morayfield",
+    "postcode": "4506",
+    "country": null,
+    "latitude": -27.1094917,
+    "longitude": 152.9729613,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
@@ -41670,7 +41770,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-mount-gambier-east",
     "name": "Ampol Mount Gambier East",
     "url": "http://locations.ampol.com.au/en/ampol-mount-gambier-east",
-    "phone": "+61887231900",
+    "phone": "0",
     "address": "Jubilee East Highway, 190",
     "locality": "Mount Gambier",
     "postcode": "5290",
