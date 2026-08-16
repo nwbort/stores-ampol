@@ -42280,38 +42280,38 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "05:30",
-        "closes": "21:00"
+        "opens": "05:00",
+        "closes": "20:00"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "05:30",
-        "closes": "21:00"
+        "opens": "05:00",
+        "closes": "20:00"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "05:30",
-        "closes": "21:00"
+        "opens": "05:00",
+        "closes": "20:00"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "05:30",
-        "closes": "21:00"
+        "opens": "05:00",
+        "closes": "20:00"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "05:30",
-        "closes": "21:00"
+        "opens": "05:00",
+        "closes": "20:00"
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "06:00",
-        "closes": "22:30"
+        "opens": "05:00",
+        "closes": "20:00"
       },
       {
         "dayOfWeek": "Sunday",
         "opens": "06:00",
-        "closes": "22:30"
+        "closes": "20:00"
       }
     ],
     "services": []
