@@ -7509,6 +7509,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-abbotsford",
+    "name": "Ampol Foodary Abbotsford",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-abbotsford",
+    "phone": "+61394170959",
+    "address": "Hoddle St, 28-40",
+    "locality": "Abbotsford",
+    "postcode": "3067",
+    "country": null,
+    "latitude": -37.807779,
+    "longitude": 144.992029,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-aberfoyle-park",
     "name": "Ampol Foodary Aberfoyle Park",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-aberfoyle-park",
@@ -9412,7 +9462,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-beaudesert",
     "name": "Ampol Foodary Beaudesert",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-beaudesert",
-    "phone": "+61755411393",
+    "phone": "0",
     "address": "Telemon St, 3",
     "locality": "Beaudesert",
     "postcode": "4285",
@@ -36113,6 +36163,51 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "16:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-goulburn-eric-brown-motors",
+    "name": "Ampol Goulburn Eric Brown Motors",
+    "url": "http://locations.ampol.com.au/en/ampol-goulburn-eric-brown-motors",
+    "phone": "+61248213508",
+    "address": "Cnr Queen & Ross Streets",
+    "locality": "Goulburn",
+    "postcode": "2580",
+    "country": null,
+    "latitude": -34.7262034,
+    "longitude": 149.7413048,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "07:00",
+        "closes": "17:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "07:00",
+        "closes": "17:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "07:00",
+        "closes": "17:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "07:00",
+        "closes": "17:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "07:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "07:00",
+        "closes": "13:00"
       }
     ],
     "services": []
