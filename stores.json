@@ -715,56 +715,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-ballina-east",
-    "name": "Ampol Ballina East",
-    "url": "http://locations.ampol.com.au/en/ampol-ballina-east",
-    "phone": "0",
-    "address": "Links Ave, 34",
-    "locality": "East Ballina",
-    "postcode": "2478",
-    "country": null,
-    "latitude": -28.8500373,
-    "longitude": 153.5829617,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "06:00",
-        "closes": "20:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "06:00",
-        "closes": "20:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "06:00",
-        "closes": "20:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "06:00",
-        "closes": "20:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "06:00",
-        "closes": "20:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "06:00",
-        "closes": "20:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "06:00",
-        "closes": "20:00"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-balranald",
     "name": "Ampol Balranald",
     "url": "http://locations.ampol.com.au/en/ampol-balranald",
@@ -1590,56 +1540,6 @@
         "dayOfWeek": "Sunday",
         "opens": "07:00",
         "closes": "19:00"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-beresfield",
-    "name": "Ampol Beresfield",
-    "url": "http://locations.ampol.com.au/en/ampol-beresfield",
-    "phone": "0",
-    "address": "Yangan Avenue, 6",
-    "locality": "Beresfield",
-    "postcode": "2322",
-    "country": null,
-    "latitude": -32.8094221,
-    "longitude": 151.6321212,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
       }
     ],
     "services": []
@@ -2850,56 +2750,6 @@
         "dayOfWeek": "Sunday",
         "opens": "07:00",
         "closes": "21:00"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-broken-hill-blende-st",
-    "name": "Ampol Broken Hill Blende St",
-    "url": "http://locations.ampol.com.au/en/ampol-broken-hill-blende-st",
-    "phone": "0",
-    "address": "Blende St, 1",
-    "locality": "Broken Hill",
-    "postcode": "2880",
-    "country": null,
-    "latitude": -31.9646027,
-    "longitude": 141.4534907,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
       }
     ],
     "services": []
@@ -34898,56 +34748,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-yarraville",
-    "name": "Ampol Foodary Yarraville",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-yarraville",
-    "phone": "+61396892857",
-    "address": "Hyde St Cnr Somerville Rd, 130-132",
-    "locality": "Yarraville",
-    "postcode": "3013",
-    "country": null,
-    "latitude": -37.813884,
-    "longitude": 144.897041,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "05:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "05:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "05:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "05:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "05:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "05:00",
-        "closes": "23:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "05:00",
-        "closes": "23:00"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-yarrawonga-middleton-st",
     "name": "Ampol Foodary Yarrawonga Middleton St",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-yarrawonga-middleton-st",
@@ -36172,7 +35972,7 @@
     "name": "Ampol Goulburn Eric Brown Motors",
     "url": "http://locations.ampol.com.au/en/ampol-goulburn-eric-brown-motors",
     "phone": "+61248213508",
-    "address": "Cnr Queen & Ross Streets",
+    "address": "Cnr Queen & Ross Streets,  ",
     "locality": "Goulburn",
     "postcode": "2580",
     "country": null,
@@ -37387,7 +37187,7 @@
     "name": "Ampol Horsham",
     "url": "http://locations.ampol.com.au/en/ampol-horsham",
     "phone": "+61417546206",
-    "address": "Burnt Creek Drive",
+    "address": "Burnt Creek Drive,  ",
     "locality": "Horsham",
     "postcode": "3400",
     "country": null,
@@ -41804,7 +41604,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-mount-gambier-east",
     "name": "Ampol Mount Gambier East",
     "url": "http://locations.ampol.com.au/en/ampol-mount-gambier-east",
-    "phone": "0",
+    "phone": "+61887231900",
     "address": "Jubilee East Highway, 190",
     "locality": "Mount Gambier",
     "postcode": "5290",
@@ -44426,6 +44226,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-port-douglas",
+    "name": "Ampol Port Douglas",
+    "url": "http://locations.ampol.com.au/en/ampol-port-douglas",
+    "phone": "+61740994567",
+    "address": "Warner St, 13",
+    "locality": "Port Douglas",
+    "postcode": "4877",
+    "country": null,
+    "latitude": -16.48301,
+    "longitude": 145.462349,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:30",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:30",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:30",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:30",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:30",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "06:00",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "06:00",
+        "closes": "20:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-port-hedland-depot",
     "name": "Ampol Port Hedland Depot",
     "url": "http://locations.ampol.com.au/en/ampol-port-hedland-depot",
@@ -45370,6 +45220,56 @@
     "country": null,
     "latitude": -42.7351951,
     "longitude": 147.4377553,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "07:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "07:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "07:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "07:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "07:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "08:00",
+        "closes": "18:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "08:00",
+        "closes": "18:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-risdon-vale",
+    "name": "Ampol Risdon Vale",
+    "url": "http://locations.ampol.com.au/en/ampol-risdon-vale",
+    "phone": "+61362438332",
+    "address": "Sugarloaf Rd, 42",
+    "locality": "Risdon Vale",
+    "postcode": "7016",
+    "country": null,
+    "latitude": -42.813378,
+    "longitude": 147.351576,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
@@ -49993,6 +49893,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-wesley-vale",
+    "name": "Ampol Wesley Vale",
+    "url": "http://locations.ampol.com.au/en/ampol-wesley-vale",
+    "phone": "+61400945109",
+    "address": "Port Sorell Rd, 549",
+    "locality": "Wesley Vale",
+    "postcode": "7307",
+    "country": null,
+    "latitude": -41.18918394,
+    "longitude": 146.44987389,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-westbury",
     "name": "Ampol Westbury",
     "url": "http://locations.ampol.com.au/en/ampol-westbury",
@@ -50643,6 +50593,56 @@
     "country": null,
     "latitude": -33.2943037,
     "longitude": 151.4210656,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-yamba-sturt-hwy",
+    "name": "Ampol Yamba Sturt Hwy",
+    "url": "http://locations.ampol.com.au/en/ampol-yamba-sturt-hwy",
+    "phone": "1800240398",
+    "address": "Sturt Hwy, 22220",
+    "locality": "Yamba",
+    "postcode": "5340",
+    "country": null,
+    "latitude": -34.260833,
+    "longitude": 140.862501,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
@@ -51763,6 +51763,56 @@
         "dayOfWeek": "Saturday",
         "opens": "05:00",
         "closes": "18:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/independent-binningup",
+    "name": "Independent Binningup",
+    "url": "http://locations.ampol.com.au/en/independent-binningup",
+    "phone": "+61897201040",
+    "address": "Coronation Drive, 21",
+    "locality": "Binningup",
+    "postcode": "6230",
+    "country": null,
+    "latitude": -33.14946025,
+    "longitude": 115.68839835,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "06:00",
+        "closes": "19:30"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "06:00",
+        "closes": "19:30"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "06:00",
+        "closes": "19:30"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "06:00",
+        "closes": "19:30"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "06:00",
+        "closes": "19:30"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "06:00",
+        "closes": "19:30"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "06:00",
+        "closes": "19:30"
       }
     ],
     "services": []
@@ -54003,6 +54053,56 @@
         "dayOfWeek": "Sunday",
         "opens": "07:00",
         "closes": "22:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/independent-kurrimine-beach",
+    "name": "Independent Kurrimine Beach",
+    "url": "http://locations.ampol.com.au/en/independent-kurrimine-beach",
+    "phone": "+61740656199",
+    "address": "Taylor St, 43",
+    "locality": "Kurrimine Beach",
+    "postcode": "4871",
+    "country": null,
+    "latitude": -17.7755,
+    "longitude": 146.1047,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "18:30"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "18:30"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "18:30"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "18:30"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "18:30"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "07:00",
+        "closes": "18:30"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "07:00",
+        "closes": "18:30"
       }
     ],
     "services": []
