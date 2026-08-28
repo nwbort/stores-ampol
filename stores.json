@@ -34548,56 +34548,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-yangebup",
-    "name": "Ampol Foodary Yangebup",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-yangebup",
-    "phone": "+61894949701",
-    "address": "Beeliar Drive, 289",
-    "locality": "Yangebup",
-    "postcode": "6164",
-    "country": null,
-    "latitude": -32.1274683,
-    "longitude": 115.7990315,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-yarra-glen-yarraview-mtrs",
     "name": "Ampol Foodary Yarra Glen-yarraview Mtrs",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-yarra-glen-yarraview-mtrs",
@@ -34743,6 +34693,56 @@
         "dayOfWeek": "Sunday",
         "opens": "00:00",
         "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-yarraville",
+    "name": "Ampol Foodary Yarraville",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-yarraville",
+    "phone": "+61396892857",
+    "address": "Hyde St Cnr Somerville Rd, 130-132",
+    "locality": "Yarraville",
+    "postcode": "3013",
+    "country": null,
+    "latitude": -37.813884,
+    "longitude": 144.897041,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:00",
+        "closes": "23:00"
       }
     ],
     "services": []
@@ -35972,7 +35972,7 @@
     "name": "Ampol Goulburn Eric Brown Motors",
     "url": "http://locations.ampol.com.au/en/ampol-goulburn-eric-brown-motors",
     "phone": "+61248213508",
-    "address": "Cnr Queen & Ross Streets,  ",
+    "address": "Cnr Queen & Ross Streets",
     "locality": "Goulburn",
     "postcode": "2580",
     "country": null,
@@ -37187,7 +37187,7 @@
     "name": "Ampol Horsham",
     "url": "http://locations.ampol.com.au/en/ampol-horsham",
     "phone": "+61417546206",
-    "address": "Burnt Creek Drive,  ",
+    "address": "Burnt Creek Drive",
     "locality": "Horsham",
     "postcode": "3400",
     "country": null,
