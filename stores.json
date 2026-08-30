@@ -7509,6 +7509,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-albany-north",
+    "name": "Ampol Foodary Albany North",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-albany-north",
+    "phone": "+61898413809",
+    "address": "North Rd, 204",
+    "locality": "Albany North",
+    "postcode": "6330",
+    "country": null,
+    "latitude": -35.0055669,
+    "longitude": 117.8745695,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-albert-park",
     "name": "Ampol Foodary Albert Park",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-albert-park",
@@ -14949,16 +14999,16 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-eastlands",
-    "name": "Ampol Foodary Eastlands",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-eastlands",
-    "phone": "+61362451745",
-    "address": "Gordons Hill Rd Cnr Cambridge Rd, 1",
-    "locality": "Bellerive",
-    "postcode": "7018",
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-eaton-mcmillian-rd",
+    "name": "Ampol Foodary Eaton Mcmillian Rd",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-eaton-mcmillian-rd",
+    "phone": "+61889483089",
+    "address": "Cnr Mcmillian Rd & Neale St",
+    "locality": "Eaton",
+    "postcode": "0820",
     "country": null,
-    "latitude": -42.866108,
-    "longitude": 147.373084,
+    "latitude": -12.397471,
+    "longitude": 130.86041,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
@@ -16213,6 +16263,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-fremantle-east",
+    "name": "Ampol Foodary Fremantle East",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-fremantle-east",
+    "phone": "+61893393073",
+    "address": "Canning Hwy Cnr Staton Rd, 176",
+    "locality": "Fremantle East",
+    "postcode": "6158",
+    "country": null,
+    "latitude": -32.03997362,
+    "longitude": 115.76822178,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-fulham",
     "name": "Ampol Foodary Fulham",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-fulham",
@@ -17063,6 +17163,56 @@
     "country": null,
     "latitude": -32.0798482,
     "longitude": 115.9880367,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-gosnells-north",
+    "name": "Ampol Foodary Gosnells North",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-gosnells-north",
+    "phone": "+61894905449",
+    "address": "Cnr Albany Hwy & Mills Rd",
+    "locality": "Gosnells North",
+    "postcode": "6110",
+    "country": null,
+    "latitude": -32.064191,
+    "longitude": 115.999571,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
@@ -18498,6 +18648,56 @@
         "dayOfWeek": "Sunday",
         "opens": "05:30",
         "closes": "22:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-hobart-south",
+    "name": "Ampol Foodary Hobart South",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-hobart-south",
+    "phone": "+61362232134",
+    "address": "Davey St Cnr Antill St, 152-158",
+    "locality": "Hobart South",
+    "postcode": "7000",
+    "country": null,
+    "latitude": -42.891354,
+    "longitude": 147.321352,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
@@ -21053,56 +21253,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-leederville",
-    "name": "Ampol Foodary Leederville",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-leederville",
-    "phone": "+61892423978",
-    "address": "Vincent St, 319",
-    "locality": "Leederville",
-    "postcode": "6007",
-    "country": null,
-    "latitude": -31.936594,
-    "longitude": 115.839983,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-leichhardt",
     "name": "Ampol Foodary Leichhardt",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-leichhardt",
@@ -23003,6 +23153,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-midway-point",
+    "name": "Ampol Foodary Midway Point",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-midway-point",
+    "phone": "+61362652231",
+    "address": "Tasman Hwy, 13",
+    "locality": "Midway Point",
+    "postcode": "7171",
+    "country": null,
+    "latitude": -42.804064,
+    "longitude": 147.5328147,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:00",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:00",
+        "closes": "23:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-miles",
     "name": "Ampol Foodary Miles",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-miles",
@@ -24153,6 +24353,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-murdoch",
+    "name": "Ampol Foodary Murdoch",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-murdoch",
+    "phone": "+61893102755",
+    "address": "Cnr South St & Robson Way",
+    "locality": "Murdoch",
+    "postcode": "6150",
+    "country": null,
+    "latitude": -32.063392,
+    "longitude": 115.835492,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-murwillumbah",
     "name": "Ampol Foodary Murwillumbah",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-murwillumbah",
@@ -24993,6 +25243,56 @@
         "dayOfWeek": "Sunday",
         "opens": "06:00",
         "closes": "23:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-new-town",
+    "name": "Ampol Foodary New Town",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-new-town",
+    "phone": "+61362284754",
+    "address": "Risdon Road Near Queens Walk, 71",
+    "locality": "New Town",
+    "postcode": "7008",
+    "country": null,
+    "latitude": -42.851853,
+    "longitude": 147.310634,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "06:00",
+        "closes": "22:00"
       }
     ],
     "services": []
@@ -27858,6 +28158,56 @@
     "country": null,
     "latitude": -27.657413,
     "longitude": 152.778598,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-rivervale",
+    "name": "Ampol Foodary Rivervale",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-rivervale",
+    "phone": "+61892775462",
+    "address": "Great Eastern Highway, 111",
+    "locality": "Rivervale",
+    "postcode": "6103",
+    "country": null,
+    "latitude": -31.95357,
+    "longitude": 115.912917,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
