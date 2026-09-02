@@ -575,6 +575,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-auburn",
+    "name": "Ampol Auburn",
+    "url": "http://locations.ampol.com.au/en/ampol-auburn",
+    "phone": "0",
+    "address": "Cnr Parramatta Rd & Stubbs St",
+    "locality": "Auburn",
+    "postcode": "2144",
+    "country": null,
+    "latitude": -33.8412,
+    "longitude": 151.03554,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-bairnsdale-opt-unmanned-truckstop",
     "name": "Ampol Bairnsdale Opt Unmanned Truckstop",
     "url": "http://locations.ampol.com.au/en/ampol-bairnsdale-opt-unmanned-truckstop",
@@ -7909,6 +7959,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-annerley",
+    "name": "Ampol Foodary Annerley",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-annerley",
+    "phone": "+61733929305",
+    "address": "Ipswich Rd Cnr Ekibin Road, 534",
+    "locality": "Annerley",
+    "postcode": "4103",
+    "country": null,
+    "latitude": -27.512117,
+    "longitude": 153.031765,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-apollo-bay",
     "name": "Ampol Foodary Apollo Bay",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-apollo-bay",
@@ -9759,56 +9859,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-berrimah",
-    "name": "Ampol Foodary Berrimah",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-berrimah",
-    "phone": "+61889470553",
-    "address": "Jessop Crescent, 92",
-    "locality": "Berrimah",
-    "postcode": "0828",
-    "country": null,
-    "latitude": -12.4284243,
-    "longitude": 130.9127881,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-birtinya",
     "name": "Ampol Foodary Birtinya",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-birtinya",
@@ -10504,6 +10554,56 @@
         "dayOfWeek": "Sunday",
         "opens": "06:00",
         "closes": "22:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-broken-hill",
+    "name": "Ampol Foodary Broken Hill",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-broken-hill",
+    "phone": "+61880871517",
+    "address": "Oxide St Cnr Beryl St, 73-87",
+    "locality": "Broken Hill",
+    "postcode": "2880",
+    "country": null,
+    "latitude": -31.9551473,
+    "longitude": 141.4659041,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "06:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "06:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "06:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "06:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "06:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "06:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "06:00",
+        "closes": "19:00"
       }
     ],
     "services": []
@@ -14444,6 +14544,56 @@
         "dayOfWeek": "Sunday",
         "opens": "00:00",
         "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-dubbo-dulhunty",
+    "name": "Ampol Foodary Dubbo Dulhunty",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-dubbo-dulhunty",
+    "phone": "+61268824484",
+    "address": "Windsor Parade, 60-64",
+    "locality": "Dubbo",
+    "postcode": "2830",
+    "country": null,
+    "latitude": -32.2545901,
+    "longitude": 148.6317433,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "06:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "06:00",
+        "closes": "22:00"
       }
     ],
     "services": []
@@ -18503,56 +18653,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-hobart-south",
-    "name": "Ampol Foodary Hobart South",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-hobart-south",
-    "phone": "+61362232134",
-    "address": "Davey St Cnr Antill St, 152-158",
-    "locality": "Hobart South",
-    "postcode": "7000",
-    "country": null,
-    "latitude": -42.891354,
-    "longitude": 147.321352,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-holbrook",
     "name": "Ampol Foodary Holbrook",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-holbrook",
@@ -19611,8 +19711,8 @@
     "locality": "Kenmore",
     "postcode": "4069",
     "country": null,
-    "latitude": -27.50795,
-    "longitude": 152.948332,
+    "latitude": -27.508014,
+    "longitude": 152.948536,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
@@ -25698,6 +25798,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-north-richmond",
+    "name": "Ampol Foodary North Richmond",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-north-richmond",
+    "phone": "+61245704001",
+    "address": "Bells Line Of Rd Cnr Terrace Rd, 50",
+    "locality": "North Richmond",
+    "postcode": "2754",
+    "country": null,
+    "latitude": -33.580033,
+    "longitude": 150.720163,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:00",
+        "closes": "22:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-north-rockhampton-truckstop",
     "name": "Ampol Foodary North Rockhampton Truckstop",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-north-rockhampton-truckstop",
@@ -31698,6 +31848,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-wahring",
+    "name": "Ampol Foodary Wahring",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-wahring",
+    "phone": "+61357946801",
+    "address": "Goulburn Valley Hwy",
+    "locality": "Wahring",
+    "postcode": "3608",
+    "country": null,
+    "latitude": -36.707794,
+    "longitude": 145.198937,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-waitara",
     "name": "Ampol Foodary Waitara",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-waitara",
@@ -33956,8 +34156,8 @@
     "locality": "Wyong",
     "postcode": "2259",
     "country": null,
-    "latitude": -33.255727,
-    "longitude": 151.402553,
+    "latitude": -33.255861,
+    "longitude": 151.402194,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
@@ -43544,7 +43744,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-penguin",
     "name": "Ampol Penguin",
     "url": "http://locations.ampol.com.au/en/ampol-penguin",
-    "phone": "+61364372142",
+    "phone": "+61417160544",
     "address": "Main Street, 98",
     "locality": "Penguin",
     "postcode": "7316",
@@ -45675,6 +45875,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-rutherford-diesel-stop",
+    "name": "Ampol Rutherford Diesel Stop",
+    "url": "http://locations.ampol.com.au/en/ampol-rutherford-diesel-stop",
+    "phone": "1800240398",
+    "address": "Mustang Dr, 83",
+    "locality": "Rutherford",
+    "postcode": "2320",
+    "country": null,
+    "latitude": -32.7048635,
+    "longitude": 151.4983904,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-sandfly",
     "name": "Ampol Sandfly",
     "url": "http://locations.ampol.com.au/en/ampol-sandfly",
@@ -46028,7 +46278,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-seven-mile-beach-store",
     "name": "Ampol Seven Mile Beach Store",
     "url": "http://locations.ampol.com.au/en/ampol-seven-mile-beach-store",
-    "phone": "+61362486403",
+    "phone": "0",
     "address": "Lewis Ave, 1",
     "locality": "Seven Mile Beach",
     "postcode": "7170",
@@ -47284,6 +47534,56 @@
         "dayOfWeek": "Sunday",
         "opens": "05:30",
         "closes": "20:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-tamworth",
+    "name": "Ampol Tamworth",
+    "url": "http://locations.ampol.com.au/en/ampol-tamworth",
+    "phone": "+61267620966",
+    "address": "Goonoo Goonoo Rd, 502",
+    "locality": "Tamworth",
+    "postcode": "2340",
+    "country": null,
+    "latitude": -31.130974,
+    "longitude": 150.923579,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
@@ -50583,6 +50883,51 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/independent-anakie-general-store",
+    "name": "Independent Anakie General Store",
+    "url": "http://locations.ampol.com.au/en/independent-anakie-general-store",
+    "phone": "+61352841177",
+    "address": "Geelong-ballan Rd, 2153",
+    "locality": "Anakie",
+    "postcode": "3213",
+    "country": null,
+    "latitude": -37.9109939,
+    "longitude": 144.2539989,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "06:30",
+        "closes": "18:30"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "06:30",
+        "closes": "18:30"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "06:30",
+        "closes": "18:30"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "06:30",
+        "closes": "18:30"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "06:30",
+        "closes": "18:30"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "08:00",
+        "closes": "17:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/independent-avondale",
     "name": "Independent Avondale",
     "url": "http://locations.ampol.com.au/en/independent-avondale",
@@ -50822,6 +51167,56 @@
       {
         "dayOfWeek": "Sunday",
         "opens": "06:30",
+        "closes": "19:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/independent-barmah-roadhouse",
+    "name": "Independent Barmah Roadhouse",
+    "url": "http://locations.ampol.com.au/en/independent-barmah-roadhouse",
+    "phone": "+61358693226",
+    "address": "Murray St, 7-11",
+    "locality": "Barmah",
+    "postcode": "3639",
+    "country": null,
+    "latitude": -36.0176641,
+    "longitude": 144.9634256,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "06:30",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "06:30",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "06:30",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "06:30",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "06:30",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "07:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "07:00",
         "closes": "19:00"
       }
     ],
@@ -51423,6 +51818,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/independent-boort",
+    "name": "Independent Boort",
+    "url": "http://locations.ampol.com.au/en/independent-boort",
+    "phone": "+61354378282",
+    "address": "Durham Ox Rd",
+    "locality": "Boort",
+    "postcode": "3537",
+    "country": null,
+    "latitude": -36.055661,
+    "longitude": 144.1107797,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/independent-borroloola",
     "name": "Independent Borroloola",
     "url": "http://locations.ampol.com.au/en/independent-borroloola",
@@ -51608,6 +52053,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/independent-buxton",
+    "name": "Independent Buxton",
+    "url": "http://locations.ampol.com.au/en/independent-buxton",
+    "phone": "+61357747451",
+    "address": "Maroondah Hwy, 2220",
+    "locality": "Buxton",
+    "postcode": "3711",
+    "country": null,
+    "latitude": -37.420302,
+    "longitude": 145.708792,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "08:00",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "08:00",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "08:00",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "08:00",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "08:00",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "08:00",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "08:00",
+        "closes": "20:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/independent-calen",
     "name": "Independent Calen",
     "url": "http://locations.ampol.com.au/en/independent-calen",
@@ -51748,6 +52243,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/independent-casterton-top-shop",
+    "name": "Independent Casterton Top Shop",
+    "url": "http://locations.ampol.com.au/en/independent-casterton-top-shop",
+    "phone": "+61355811475",
+    "address": "Mt Gambier Road, 7",
+    "locality": "Casterton",
+    "postcode": "3311",
+    "country": null,
+    "latitude": -37.589038,
+    "longitude": 141.390535,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "06:00",
+        "closes": "21:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/independent-clifton-beach",
     "name": "Independent Clifton Beach",
     "url": "http://locations.ampol.com.au/en/independent-clifton-beach",
@@ -51798,6 +52343,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/independent-clunes",
+    "name": "Independent Clunes",
+    "url": "http://locations.ampol.com.au/en/independent-clunes",
+    "phone": "+61353453139",
+    "address": "Service St, 7",
+    "locality": "Clunes",
+    "postcode": "3370",
+    "country": null,
+    "latitude": -37.295158,
+    "longitude": 143.786785,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "07:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "07:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "07:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "07:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "07:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "07:00",
+        "closes": "19:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "07:00",
+        "closes": "19:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/independent-coen-store",
     "name": "Independent Coen Store",
     "url": "http://locations.ampol.com.au/en/independent-coen-store",
@@ -51843,6 +52438,51 @@
         "dayOfWeek": "Sunday",
         "opens": "06:00",
         "closes": "21:30"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/independent-corryong",
+    "name": "Independent Corryong",
+    "url": "http://locations.ampol.com.au/en/independent-corryong",
+    "phone": "+61260761166",
+    "address": "Donaldson Street, 33",
+    "locality": "Corryong",
+    "postcode": "3707",
+    "country": null,
+    "latitude": -36.193362,
+    "longitude": 147.905498,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "07:00",
+        "closes": "17:30"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "07:00",
+        "closes": "17:30"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "07:00",
+        "closes": "17:30"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "07:00",
+        "closes": "17:30"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "07:00",
+        "closes": "17:30"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "08:00",
+        "closes": "12:00"
       }
     ],
     "services": []
@@ -51948,6 +52588,101 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/independent-culcairn",
+    "name": "Independent Culcairn",
+    "url": "http://locations.ampol.com.au/en/independent-culcairn",
+    "phone": "+61260298279",
+    "address": "Balfour St, 35",
+    "locality": "Culcairn",
+    "postcode": "2660",
+    "country": null,
+    "latitude": -35.667837,
+    "longitude": 147.037185,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "07:30",
+        "closes": "17:30"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "07:30",
+        "closes": "17:30"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "07:30",
+        "closes": "17:30"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "07:30",
+        "closes": "17:30"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "07:30",
+        "closes": "17:30"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "07:30",
+        "closes": "12:30"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/independent-cullulleraine-store",
+    "name": "Independent Cullulleraine Store",
+    "url": "http://locations.ampol.com.au/en/independent-cullulleraine-store",
+    "phone": "+61350282242",
+    "address": "Sturt Hwy, 5370",
+    "locality": "Cullulleraine",
+    "postcode": "3496",
+    "country": null,
+    "latitude": -34.277658,
+    "longitude": 141.592619,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:00",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:00",
+        "closes": "20:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/independent-currabubula",
     "name": "Independent Currabubula",
     "url": "http://locations.ampol.com.au/en/independent-currabubula",
@@ -51958,6 +52693,156 @@
     "country": null,
     "latitude": -31.26357898,
     "longitude": 150.73221461,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/independent-darnum",
+    "name": "Independent Darnum",
+    "url": "http://locations.ampol.com.au/en/independent-darnum",
+    "phone": "+61356278340",
+    "address": "Main St, 1",
+    "locality": "Darnum",
+    "postcode": "3822",
+    "country": null,
+    "latitude": -38.187568,
+    "longitude": 146.003392,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "06:00",
+        "closes": "21:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/independent-dartmoor",
+    "name": "Independent Dartmoor",
+    "url": "http://locations.ampol.com.au/en/independent-dartmoor",
+    "phone": "0",
+    "address": "Cnr Lange St & Lindsay Rd",
+    "locality": "Dartmoor",
+    "postcode": "3304",
+    "country": null,
+    "latitude": -37.920252,
+    "longitude": 141.277847,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/independent-dartmoor-general-store",
+    "name": "Independent Dartmoor General Store",
+    "url": "http://locations.ampol.com.au/en/independent-dartmoor-general-store",
+    "phone": "+61409805211",
+    "address": "Greenham Street, 81",
+    "locality": "Dartmoor",
+    "postcode": "3304",
+    "country": null,
+    "latitude": -37.9221104,
+    "longitude": 141.2770929,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
@@ -52293,6 +53178,51 @@
         "dayOfWeek": "Sunday",
         "opens": "08:00",
         "closes": "20:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/independent-everton",
+    "name": "Independent Everton",
+    "url": "http://locations.ampol.com.au/en/independent-everton",
+    "phone": "+61357270282",
+    "address": "Great Alpine Rd, 2128",
+    "locality": "Everton",
+    "postcode": "3678",
+    "country": null,
+    "latitude": -36.433678,
+    "longitude": 146.542458,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "08:00",
+        "closes": "12:00"
       }
     ],
     "services": []
@@ -52693,6 +53623,51 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/independent-hay",
+    "name": "Independent Hay",
+    "url": "http://locations.ampol.com.au/en/independent-hay",
+    "phone": "+61269933145",
+    "address": "Lachlan St, 50",
+    "locality": "Hay",
+    "postcode": "2711",
+    "country": null,
+    "latitude": -34.513322,
+    "longitude": 144.842836,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "07:00",
+        "closes": "18:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "07:00",
+        "closes": "18:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "07:00",
+        "closes": "18:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "07:00",
+        "closes": "18:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "07:00",
+        "closes": "18:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "07:00",
+        "closes": "12:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/independent-hobart",
     "name": "Independent Hobart",
     "url": "http://locations.ampol.com.au/en/independent-hobart",
@@ -52928,6 +53903,56 @@
         "dayOfWeek": "Sunday",
         "opens": "00:00",
         "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/independent-khancoban",
+    "name": "Independent Khancoban",
+    "url": "http://locations.ampol.com.au/en/independent-khancoban",
+    "phone": "0",
+    "address": "Alpine Way, 1389",
+    "locality": "Khancoban",
+    "postcode": "2642",
+    "country": null,
+    "latitude": -36.21954,
+    "longitude": 148.124181,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "06:30",
+        "closes": "17:30"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "06:30",
+        "closes": "17:30"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "06:30",
+        "closes": "17:30"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "06:30",
+        "closes": "17:30"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "06:30",
+        "closes": "17:30"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "08:00",
+        "closes": "17:00"
       }
     ],
     "services": []
@@ -53483,6 +54508,51 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/independent-loxton",
+    "name": "Independent Loxton",
+    "url": "http://locations.ampol.com.au/en/independent-loxton",
+    "phone": "+61885847277",
+    "address": "Bookpurnong Tce",
+    "locality": "Loxton",
+    "postcode": "5333",
+    "country": null,
+    "latitude": -34.44965,
+    "longitude": 140.57411,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "08:30",
+        "closes": "17:30"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "08:30",
+        "closes": "17:30"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "08:30",
+        "closes": "17:30"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "08:30",
+        "closes": "17:30"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "08:30",
+        "closes": "17:30"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "08:30",
+        "closes": "11:30"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/independent-lucindale-opt",
     "name": "Independent Lucindale Opt",
     "url": "http://locations.ampol.com.au/en/independent-lucindale-opt",
@@ -53583,6 +54653,51 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/independent-maffra",
+    "name": "Independent Maffra",
+    "url": "http://locations.ampol.com.au/en/independent-maffra",
+    "phone": "+61351471744",
+    "address": "Johnson Street, 131",
+    "locality": "Maffra",
+    "postcode": "3860",
+    "country": null,
+    "latitude": -37.967788,
+    "longitude": 146.977133,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "07:30",
+        "closes": "18:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "07:30",
+        "closes": "18:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "07:30",
+        "closes": "18:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "07:30",
+        "closes": "18:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "07:30",
+        "closes": "18:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "07:30",
+        "closes": "13:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/independent-manilla",
     "name": "Independent Manilla",
     "url": "http://locations.ampol.com.au/en/independent-manilla",
@@ -53628,6 +54743,56 @@
         "dayOfWeek": "Sunday",
         "opens": "07:00",
         "closes": "21:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/independent-mansfield-opt",
+    "name": "Independent Mansfield Opt",
+    "url": "http://locations.ampol.com.au/en/independent-mansfield-opt",
+    "phone": "+61357721205",
+    "address": "Dead Horse Lane, 261",
+    "locality": "Mansfield",
+    "postcode": "3722",
+    "country": null,
+    "latitude": -37.0426698,
+    "longitude": 146.0963021,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
@@ -54078,6 +55243,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/independent-morwell-opt",
+    "name": "Independent Morwell Opt",
+    "url": "http://locations.ampol.com.au/en/independent-morwell-opt",
+    "phone": "0",
+    "address": "Kirwin Rd, 14",
+    "locality": "Morwell",
+    "postcode": "3840",
+    "country": null,
+    "latitude": -38.239018,
+    "longitude": 146.443211,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/independent-mount-ebenezer",
     "name": "Independent Mount Ebenezer",
     "url": "http://locations.ampol.com.au/en/independent-mount-ebenezer",
@@ -54173,6 +55388,56 @@
         "dayOfWeek": "Sunday",
         "opens": "07:00",
         "closes": "19:30"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/independent-mt-mittamatite",
+    "name": "Independent Mt Mittamatite",
+    "url": "http://locations.ampol.com.au/en/independent-mt-mittamatite",
+    "phone": "+61260761152",
+    "address": "Murray Valley Hwy, 1516",
+    "locality": "Corryong",
+    "postcode": "3707",
+    "country": null,
+    "latitude": -36.20274,
+    "longitude": 147.88348,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "09:00",
+        "closes": "16:00"
       }
     ],
     "services": []
@@ -54428,6 +55693,106 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/independent-napoleons",
+    "name": "Independent Napoleons",
+    "url": "http://locations.ampol.com.au/en/independent-napoleons",
+    "phone": "+61353420455",
+    "address": "Colac-ballarat Rd, 4760",
+    "locality": "Napoleons",
+    "postcode": "3352",
+    "country": null,
+    "latitude": -37.67579,
+    "longitude": 143.830303,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "06:30",
+        "closes": "19:30"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "06:30",
+        "closes": "19:30"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "06:30",
+        "closes": "19:30"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "06:30",
+        "closes": "19:30"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "06:30",
+        "closes": "19:30"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "06:30",
+        "closes": "19:30"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "07:45",
+        "closes": "18:30"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/independent-nathalia",
+    "name": "Independent Nathalia",
+    "url": "http://locations.ampol.com.au/en/independent-nathalia",
+    "phone": "+61358662511",
+    "address": "Elizabeth Street, 60",
+    "locality": "Nathalia",
+    "postcode": "3638",
+    "country": null,
+    "latitude": -36.056142,
+    "longitude": 145.20373,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "07:30",
+        "closes": "17:30"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "07:30",
+        "closes": "17:30"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "07:30",
+        "closes": "17:30"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "07:30",
+        "closes": "17:30"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "07:30",
+        "closes": "17:30"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "08:00",
+        "closes": "12:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "09:00",
+        "closes": "12:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/independent-ouse-roadhouse",
     "name": "Independent Ouse Roadhouse",
     "url": "http://locations.ampol.com.au/en/independent-ouse-roadhouse",
@@ -54473,6 +55838,56 @@
         "dayOfWeek": "Sunday",
         "opens": "07:00",
         "closes": "19:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/independent-oxley-roadhouse",
+    "name": "Independent Oxley Roadhouse",
+    "url": "http://locations.ampol.com.au/en/independent-oxley-roadhouse",
+    "phone": "+61357273300",
+    "address": "Green St, 1148",
+    "locality": "Oxley",
+    "postcode": "3678",
+    "country": null,
+    "latitude": -36.4437687,
+    "longitude": 146.3822841,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "06:30",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "06:30",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "06:30",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "06:30",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "06:30",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "06:30",
+        "closes": "20:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "06:30",
+        "closes": "20:00"
       }
     ],
     "services": []
@@ -54918,6 +56333,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/independent-port-macdonnell",
+    "name": "Independent Port Macdonnell",
+    "url": "http://locations.ampol.com.au/en/independent-port-macdonnell",
+    "phone": "+61887211772",
+    "address": "Sea Parade, 80",
+    "locality": "Port Macdonnell",
+    "postcode": "5291",
+    "country": null,
+    "latitude": -38.0558,
+    "longitude": 140.694717,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/independent-portland",
     "name": "Independent Portland",
     "url": "http://locations.ampol.com.au/en/independent-portland",
@@ -55053,6 +56518,56 @@
         "dayOfWeek": "Friday",
         "opens": "08:00",
         "closes": "17:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/independent-pyramid-hill",
+    "name": "Independent Pyramid Hill",
+    "url": "http://locations.ampol.com.au/en/independent-pyramid-hill",
+    "phone": "+61354557214",
+    "address": "Victoria St, 42",
+    "locality": "Pyramid Hill",
+    "postcode": "3575",
+    "country": null,
+    "latitude": -36.055445,
+    "longitude": 144.116948,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
@@ -57303,6 +58818,56 @@
     "country": null,
     "latitude": -40.988481,
     "longitude": 145.709867,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/independent-yackandandah",
+    "name": "Independent Yackandandah",
+    "url": "http://locations.ampol.com.au/en/independent-yackandandah",
+    "phone": "+61260271901",
+    "address": "Railway Avenue, 27",
+    "locality": "Yackandandah",
+    "postcode": "3749",
+    "country": null,
+    "latitude": -36.3094159,
+    "longitude": 146.8440617,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
