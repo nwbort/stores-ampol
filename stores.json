@@ -12199,6 +12199,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-carnarvon-robinson-st",
+    "name": "Ampol Foodary Carnarvon Robinson St",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-carnarvon-robinson-st",
+    "phone": "+61899418140",
+    "address": "Robinson St, 595",
+    "locality": "Carnarvon",
+    "postcode": "6701",
+    "country": null,
+    "latitude": -24.862274,
+    "longitude": 113.7010402,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:00",
+        "closes": "00:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:00",
+        "closes": "00:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-carseldine",
     "name": "Ampol Foodary Carseldine",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-carseldine",
@@ -22148,56 +22198,6 @@
         "dayOfWeek": "Sunday",
         "opens": "06:00",
         "closes": "21:00"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-malaga",
-    "name": "Ampol Foodary Malaga",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-malaga",
-    "phone": "+61892499102",
-    "address": "Alexander Dr Cnr Capital Rd",
-    "locality": "Malaga",
-    "postcode": "6090",
-    "country": null,
-    "latitude": -31.848174,
-    "longitude": 115.878564,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
       }
     ],
     "services": []
@@ -34458,56 +34458,6 @@
     "country": null,
     "latitude": -31.551955,
     "longitude": 115.639446,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-yangebup",
-    "name": "Ampol Foodary Yangebup",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-yangebup",
-    "phone": "+61894949701",
-    "address": "Beeliar Drive, 289",
-    "locality": "Yangebup",
-    "postcode": "6164",
-    "country": null,
-    "latitude": -32.1274683,
-    "longitude": 115.7990315,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
