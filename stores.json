@@ -8109,6 +8109,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-applecross",
+    "name": "Ampol Foodary Applecross",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-applecross",
+    "phone": "+61893179701",
+    "address": "Canning Hwy, 918",
+    "locality": "Applecross",
+    "postcode": "6153",
+    "country": null,
+    "latitude": -32.011422,
+    "longitude": 115.85174,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "04:30",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "04:30",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "04:30",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "04:30",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "04:30",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "04:30",
+        "closes": "23:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "04:30",
+        "closes": "23:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-arana-hills",
     "name": "Ampol Foodary Arana Hills",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-arana-hills",
@@ -34458,6 +34508,56 @@
     "country": null,
     "latitude": -31.551955,
     "longitude": 115.639446,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-yangebup",
+    "name": "Ampol Foodary Yangebup",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-yangebup",
+    "phone": "+61894949701",
+    "address": "Beeliar Drive, 289",
+    "locality": "Yangebup",
+    "postcode": "6164",
+    "country": null,
+    "latitude": -32.1274683,
+    "longitude": 115.7990315,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
