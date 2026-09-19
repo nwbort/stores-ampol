@@ -9859,56 +9859,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-berrimah",
-    "name": "Ampol Foodary Berrimah",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-berrimah",
-    "phone": "+61889470553",
-    "address": "Jessop Crescent, 92",
-    "locality": "Berrimah",
-    "postcode": "0828",
-    "country": null,
-    "latitude": -12.4284243,
-    "longitude": 130.9127881,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-birtinya",
     "name": "Ampol Foodary Birtinya",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-birtinya",
@@ -15050,7 +15000,7 @@
   },
   {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-eaton-mcmillian-rd",
-    "name": "Ampol Foodary Eaton Mcmillian Rd",
+    "name": "Ampol Foodary Eaton (darwin)",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-eaton-mcmillian-rd",
     "phone": "+61889483089",
     "address": "Cnr Mcmillian Rd & Neale St",
@@ -25643,56 +25593,6 @@
         "dayOfWeek": "Sunday",
         "opens": "05:00",
         "closes": "23:00"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-norseman",
-    "name": "Ampol Foodary Norseman",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-norseman",
-    "phone": "+61890391174",
-    "address": "Prinsep St, 1-7",
-    "locality": "Norseman",
-    "postcode": "6443",
-    "country": null,
-    "latitude": -32.1896762,
-    "longitude": 121.778365,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "05:00",
-        "closes": "22:00"
       }
     ],
     "services": []
@@ -41264,7 +41164,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-morgan",
     "name": "Ampol Morgan",
     "url": "http://locations.ampol.com.au/en/ampol-morgan",
-    "phone": "0",
+    "phone": "+61885402477",
     "address": "Fourth Street, 14",
     "locality": "Morgan",
     "postcode": "5320",
