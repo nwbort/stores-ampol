@@ -8559,56 +8559,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-ashby",
-    "name": "Ampol Foodary Ashby",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-ashby",
-    "phone": "+61892062286",
-    "address": "Hollosy Way Cnr Pinjar Rd, 2",
-    "locality": "Ashby",
-    "postcode": "6065",
-    "country": null,
-    "latitude": -31.7323898,
-    "longitude": 115.8042021,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "05:00",
-        "closes": "22:00"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-augustine-heights",
     "name": "Ampol Foodary Augustine Heights",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-augustine-heights",
@@ -9854,6 +9804,56 @@
         "dayOfWeek": "Sunday",
         "opens": "07:00",
         "closes": "19:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-berrimah",
+    "name": "Ampol Foodary Berrimah",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-berrimah",
+    "phone": "+61889470553",
+    "address": "Jessop Crescent, 92",
+    "locality": "Berrimah",
+    "postcode": "0828",
+    "country": null,
+    "latitude": -12.4284243,
+    "longitude": 130.9127881,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
@@ -15744,56 +15744,6 @@
         "dayOfWeek": "Sunday",
         "opens": "00:00",
         "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-exmouth",
-    "name": "Ampol Foodary Exmouth",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-exmouth",
-    "phone": "+61899491052",
-    "address": "Murat Rd, 315",
-    "locality": "Exmouth",
-    "postcode": "6707",
-    "country": null,
-    "latitude": -21.93269,
-    "longitude": 114.12773,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "04:30",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "04:30",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "04:30",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "04:30",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "04:30",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "04:30",
-        "closes": "21:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "04:30",
-        "closes": "21:00"
       }
     ],
     "services": []
@@ -25593,6 +25543,56 @@
         "dayOfWeek": "Sunday",
         "opens": "05:00",
         "closes": "23:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-norseman",
+    "name": "Ampol Foodary Norseman",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-norseman",
+    "phone": "+61890391174",
+    "address": "Prinsep St, 1-7",
+    "locality": "Norseman",
+    "postcode": "6443",
+    "country": null,
+    "latitude": -32.1896762,
+    "longitude": 121.778365,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:00",
+        "closes": "22:00"
       }
     ],
     "services": []
