@@ -11109,56 +11109,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-busselton",
-    "name": "Ampol Foodary Busselton",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-busselton",
-    "phone": "+61897523563",
-    "address": "Busselton By-pass Cnr Strelly St",
-    "locality": "Busselton",
-    "postcode": "6280",
-    "country": null,
-    "latitude": -33.667619,
-    "longitude": 115.349906,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "05:00",
-        "closes": "22:00"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-butler",
     "name": "Ampol Foodary Butler",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-butler",
@@ -13362,37 +13312,37 @@
     "openingHours": [
       {
         "dayOfWeek": "Monday",
-        "opens": "00:00",
+        "opens": "05:00",
         "closes": "23:59"
       },
       {
         "dayOfWeek": "Tuesday",
-        "opens": "00:00",
+        "opens": "05:00",
         "closes": "23:59"
       },
       {
         "dayOfWeek": "Wednesday",
-        "opens": "00:00",
+        "opens": "05:00",
         "closes": "23:59"
       },
       {
         "dayOfWeek": "Thursday",
-        "opens": "00:00",
+        "opens": "05:00",
         "closes": "23:59"
       },
       {
         "dayOfWeek": "Friday",
-        "opens": "00:00",
+        "opens": "05:00",
         "closes": "23:59"
       },
       {
         "dayOfWeek": "Saturday",
-        "opens": "00:00",
+        "opens": "05:00",
         "closes": "23:59"
       },
       {
         "dayOfWeek": "Sunday",
-        "opens": "00:00",
+        "opens": "05:00",
         "closes": "23:59"
       }
     ],
@@ -16123,56 +16073,6 @@
     "country": null,
     "latitude": -32.685766,
     "longitude": 115.777994,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-forrestdale",
-    "name": "Ampol Foodary Forrestdale",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-forrestdale",
-    "phone": "+61893991506",
-    "address": "Armadale Rd Cnr Alex Wood Dr, 57",
-    "locality": "Forrestdale",
-    "postcode": "6112",
-    "country": null,
-    "latitude": -32.1463312,
-    "longitude": 115.9655789,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
@@ -53581,13 +53481,13 @@
     "ref": "http://locations.ampol.com.au/en/independent-gunbower",
     "name": "Independent Gunbower",
     "url": "http://locations.ampol.com.au/en/independent-gunbower",
-    "phone": "+61354871414",
-    "address": "Main St Murray Valley Hwy, 22-26",
+    "phone": "0",
+    "address": "Main St, 22-24",
     "locality": "Gunbower",
     "postcode": "3566",
     "country": null,
-    "latitude": -35.9560623,
-    "longitude": 144.3684604,
+    "latitude": -35.955735,
+    "longitude": 144.3698,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
@@ -53612,12 +53512,12 @@
       {
         "dayOfWeek": "Friday",
         "opens": "07:30",
-        "closes": "19:30"
+        "closes": "18:00"
       },
       {
         "dayOfWeek": "Saturday",
         "opens": "08:00",
-        "closes": "19:30"
+        "closes": "18:00"
       },
       {
         "dayOfWeek": "Sunday",
