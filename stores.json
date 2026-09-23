@@ -11109,6 +11109,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-busselton",
+    "name": "Ampol Foodary Busselton",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-busselton",
+    "phone": "+61897523563",
+    "address": "Busselton By-pass Cnr Strelly St",
+    "locality": "Busselton",
+    "postcode": "6280",
+    "country": null,
+    "latitude": -33.667619,
+    "longitude": 115.349906,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:00",
+        "closes": "22:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-butler",
     "name": "Ampol Foodary Butler",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-butler",
@@ -16073,6 +16123,56 @@
     "country": null,
     "latitude": -32.685766,
     "longitude": 115.777994,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-forrestdale",
+    "name": "Ampol Foodary Forrestdale",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-forrestdale",
+    "phone": "+61893991506",
+    "address": "Armadale Rd Cnr Alex Wood Dr, 57",
+    "locality": "Forrestdale",
+    "postcode": "6112",
+    "country": null,
+    "latitude": -32.1463312,
+    "longitude": 115.9655789,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
