@@ -4233,8 +4233,8 @@
     "locality": "Childers",
     "postcode": "4660",
     "country": null,
-    "latitude": -25.233695,
-    "longitude": 152.2686569,
+    "latitude": -25.239806,
+    "longitude": 152.289777,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
@@ -15659,56 +15659,6 @@
     "country": null,
     "latitude": -33.8137,
     "longitude": 151.0548,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-erskine",
-    "name": "Ampol Foodary Erskine",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-erskine",
-    "phone": "+61895869531",
-    "address": "Oakleigh Dr Cnr Old Coast Road, 112",
-    "locality": "Erskine",
-    "postcode": "6210",
-    "country": null,
-    "latitude": -32.5603591,
-    "longitude": 115.6892728,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
@@ -43599,8 +43549,8 @@
     "locality": "Pampas",
     "postcode": "4352",
     "country": null,
-    "latitude": -27.7976355,
-    "longitude": 151.3901412,
+    "latitude": -27.790348,
+    "longitude": 151.411378,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
@@ -43880,7 +43830,7 @@
       {
         "dayOfWeek": "Saturday",
         "opens": "08:00",
-        "closes": "17:00"
+        "closes": "14:30"
       }
     ],
     "services": []
@@ -47597,8 +47547,8 @@
     "locality": "Tamborine",
     "postcode": "4270",
     "country": null,
-    "latitude": -27.88,
-    "longitude": 153.13,
+    "latitude": -27.881476,
+    "longitude": 153.129679,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
@@ -50746,8 +50696,8 @@
     "locality": "Yatala South",
     "postcode": "4207",
     "country": null,
-    "latitude": -27.7508081,
-    "longitude": 153.2174661,
+    "latitude": -27.759802,
+    "longitude": 153.246844,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
