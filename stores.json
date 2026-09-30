@@ -5192,7 +5192,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-copping-dca",
     "name": "Ampol Copping Dca",
     "url": "http://locations.ampol.com.au/en/ampol-copping-dca",
-    "phone": "+61362428200",
+    "phone": "0",
     "address": "Arthur Hwy, 2233",
     "locality": "Copping",
     "postcode": "7174",
@@ -28056,8 +28056,8 @@
     "locality": "Reservoir",
     "postcode": "3073",
     "country": null,
-    "latitude": -37.692854,
-    "longitude": 144.99092701,
+    "latitude": -37.693028,
+    "longitude": 144.990592,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
@@ -38506,7 +38506,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-kempton-dca",
     "name": "Ampol Kempton Dca",
     "url": "http://locations.ampol.com.au/en/ampol-kempton-dca",
-    "phone": "+61362591255",
+    "phone": "0",
     "address": "Midlands Highway, 3001",
     "locality": "Kempton",
     "postcode": "7030",
@@ -48147,8 +48147,8 @@
     "locality": "Montello",
     "postcode": "7320",
     "country": null,
-    "latitude": -41.0629227,
-    "longitude": 145.8963403,
+    "latitude": -41.062545,
+    "longitude": 145.896374,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
@@ -48786,8 +48786,8 @@
     "locality": "Ulverstone",
     "postcode": "7315",
     "country": null,
-    "latitude": -41.1575137,
-    "longitude": 146.1732116,
+    "latitude": -41.157449,
+    "longitude": 146.173508,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
@@ -53826,7 +53826,7 @@
     "ref": "http://locations.ampol.com.au/en/independent-huonville-dca",
     "name": "Independent Huonville Dca",
     "url": "http://locations.ampol.com.au/en/independent-huonville-dca",
-    "phone": "+61362428200",
+    "phone": "0",
     "address": "Main St, 201",
     "locality": "Huonville",
     "postcode": "7109",
@@ -54121,8 +54121,8 @@
     "locality": "Kurrimine Beach",
     "postcode": "4871",
     "country": null,
-    "latitude": -17.7755,
-    "longitude": 146.1047,
+    "latitude": -17.774974,
+    "longitude": 146.103166,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
@@ -57986,7 +57986,7 @@
     "ref": "http://locations.ampol.com.au/en/independent-triabunna-marina-dca",
     "name": "Independent Triabunna Marina Dca",
     "url": "http://locations.ampol.com.au/en/independent-triabunna-marina-dca",
-    "phone": "+61362428200",
+    "phone": "0",
     "address": "Charles St",
     "locality": "Triabunna",
     "postcode": "7190",
@@ -58921,8 +58921,8 @@
     "locality": "Wynyard",
     "postcode": "7325",
     "country": null,
-    "latitude": -40.988481,
-    "longitude": 145.709867,
+    "latitude": -40.989119,
+    "longitude": 145.711372,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
