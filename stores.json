@@ -52058,56 +52058,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/independent-burdekin-duck-roadhouse",
-    "name": "Independent Burdekin Duck Roadhouse",
-    "url": "http://locations.ampol.com.au/en/independent-burdekin-duck-roadhouse",
-    "phone": "0",
-    "address": "Flinders Highway, 10926",
-    "locality": "Breddan",
-    "postcode": "4820",
-    "country": null,
-    "latitude": -20.007785,
-    "longitude": 146.414387,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "05:30",
-        "closes": "20:30"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "05:30",
-        "closes": "20:30"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "05:30",
-        "closes": "20:30"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "05:30",
-        "closes": "20:30"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "05:30",
-        "closes": "20:30"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "05:30",
-        "closes": "20:30"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "05:30",
-        "closes": "20:30"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/independent-bushy-park-dca",
     "name": "Independent Bushy Park Dca",
     "url": "http://locations.ampol.com.au/en/independent-bushy-park-dca",
@@ -52343,6 +52293,56 @@
         "dayOfWeek": "Sunday",
         "opens": "06:00",
         "closes": "19:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/independent-carrathool",
+    "name": "Independent Carrathool",
+    "url": "http://locations.ampol.com.au/en/independent-carrathool",
+    "phone": "+61358819000",
+    "address": "Conargo Rd, 50",
+    "locality": "Carrathool",
+    "postcode": "2711",
+    "country": null,
+    "latitude": -34.472865,
+    "longitude": 145.418025,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "services": []
@@ -53581,7 +53581,7 @@
     "ref": "http://locations.ampol.com.au/en/independent-gunbower",
     "name": "Independent Gunbower",
     "url": "http://locations.ampol.com.au/en/independent-gunbower",
-    "phone": "0",
+    "phone": "+61354871414",
     "address": "Main St, 22-24",
     "locality": "Gunbower",
     "postcode": "3566",
@@ -54466,7 +54466,7 @@
     "ref": "http://locations.ampol.com.au/en/independent-little-bush-pantry-coen",
     "name": "Independent Little Bush Pantry Coen",
     "url": "http://locations.ampol.com.au/en/independent-little-bush-pantry-coen",
-    "phone": "0",
+    "phone": "0484 308 572",
     "address": "Regent Street, 33",
     "locality": "Coen",
     "postcode": "4871",
@@ -54516,7 +54516,7 @@
     "ref": "http://locations.ampol.com.au/en/independent-lock-deli",
     "name": "Independent Lock Deli",
     "url": "http://locations.ampol.com.au/en/independent-lock-deli",
-    "phone": "0",
+    "phone": "0886891147",
     "address": "Railway Terrace, 15-16",
     "locality": "Lock",
     "postcode": "5633",
@@ -55351,7 +55351,7 @@
     "ref": "http://locations.ampol.com.au/en/independent-morwell-opt",
     "name": "Independent Morwell Opt",
     "url": "http://locations.ampol.com.au/en/independent-morwell-opt",
-    "phone": "0",
+    "phone": "0432148336",
     "address": "Kirwin Rd, 14",
     "locality": "Morwell",
     "postcode": "3840",
@@ -56681,7 +56681,7 @@
     "ref": "http://locations.ampol.com.au/en/independent-rankins-springs",
     "name": "Independent Rankins Springs",
     "url": "http://locations.ampol.com.au/en/independent-rankins-springs",
-    "phone": "0",
+    "phone": "0269661288",
     "address": "Boomerang Street, 20",
     "locality": "Rankins Springs",
     "postcode": "2669",
@@ -56813,56 +56813,6 @@
         "dayOfWeek": "Sunday",
         "opens": "08:00",
         "closes": "18:00"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/independent-rivcott-gin",
-    "name": "Independent Carrathool",
-    "url": "http://locations.ampol.com.au/en/independent-rivcott-gin",
-    "phone": "+61358819000",
-    "address": "Conargo Rd, 50",
-    "locality": "Carrathool",
-    "postcode": "2711",
-    "country": null,
-    "latitude": -34.472865,
-    "longitude": 145.418025,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
       }
     ],
     "services": []
@@ -58086,7 +58036,7 @@
     "ref": "http://locations.ampol.com.au/en/independent-tumbarumba",
     "name": "Independent Tumbarumba",
     "url": "http://locations.ampol.com.au/en/independent-tumbarumba",
-    "phone": "0",
+    "phone": "0259549303",
     "address": "The Parade, 76",
     "locality": "Tumbarumba",
     "postcode": "2653",
