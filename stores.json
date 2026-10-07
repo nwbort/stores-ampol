@@ -34798,6 +34798,56 @@
     "services": []
   },
   {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-yarrawonga-middleton-st",
+    "name": "Ampol Foodary Yarrawonga Middleton St",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-yarrawonga-middleton-st",
+    "phone": "+61889832020",
+    "address": "Middleton St, 8",
+    "locality": "Yarrawonga",
+    "postcode": "0830",
+    "country": null,
+    "latitude": -12.4698632,
+    "longitude": 130.9875898,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:00",
+        "closes": "22:00"
+      }
+    ],
+    "services": []
+  },
+  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-yarrawonga-telford-st",
     "name": "Ampol Foodary Yarrawonga Telford St",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-yarrawonga-telford-st",
@@ -36361,7 +36411,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-gwynneville",
     "name": "Ampol Gwynneville",
     "url": "http://locations.ampol.com.au/en/ampol-gwynneville",
-    "phone": "+61242434800",
+    "phone": "0",
     "address": "Gipps Rd, 162",
     "locality": "Gwynneville",
     "postcode": "2500",
@@ -37764,7 +37814,7 @@
   },
   {
     "ref": "http://locations.ampol.com.au/en/ampol-jamestown-depot",
-    "name": "Ampol Jamestown Roadhouse",
+    "name": "Ampol Jamestown Depot & Roadhouse",
     "url": "http://locations.ampol.com.au/en/ampol-jamestown-depot",
     "phone": "+61886697669",
     "address": "Mannanarie Rd, 44",
