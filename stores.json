@@ -14599,56 +14599,6 @@
     "services": []
   },
   {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-eaton-mcmillian-rd",
-    "name": "Ampol Foodary Eaton (darwin)",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-eaton-mcmillian-rd",
-    "phone": "+61889483089",
-    "address": "Cnr Mcmillian Rd & Neale St",
-    "locality": "Eaton",
-    "postcode": "0820",
-    "country": null,
-    "latitude": -12.396961,
-    "longitude": 130.860334,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-eaton-old-coast-rd",
     "name": "Ampol Foodary Eaton Old Coast Rd",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-eaton-old-coast-rd",
@@ -15294,56 +15244,6 @@
         "dayOfWeek": "Sunday",
         "opens": "00:00",
         "closes": "23:59"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-falcon-miami-beach",
-    "name": "Ampol Foodary Falcon (miami Beach)",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-falcon-miami-beach",
-    "phone": "+61895344972",
-    "address": "Baroy St, 2",
-    "locality": "Falcon (miami Beach)",
-    "postcode": "6210",
-    "country": null,
-    "latitude": -32.581138,
-    "longitude": 115.661431,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "05:00",
-        "closes": "22:00"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "05:00",
-        "closes": "22:00"
       }
     ],
     "services": []
@@ -17798,6 +17698,56 @@
         "dayOfWeek": "Sunday",
         "opens": "00:00",
         "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-hobart-macquarie-st",
+    "name": "Ampol Foodary Hobart Macquarie St",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-hobart-macquarie-st",
+    "phone": "+61362231430",
+    "address": "Macquarie St, 272",
+    "locality": "South Hobart",
+    "postcode": "7004",
+    "country": null,
+    "latitude": -42.891142,
+    "longitude": 147.319672,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:30",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:30",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:30",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:30",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:30",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:30",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:30",
+        "closes": "22:00"
       }
     ],
     "services": []
@@ -27943,56 +27893,6 @@
         "dayOfWeek": "Sunday",
         "opens": "05:00",
         "closes": "22:00"
-      }
-    ],
-    "services": []
-  },
-  {
-    "ref": "http://locations.ampol.com.au/en/ampol-foodary-sandy-bay",
-    "name": "Ampol Foodary Sandy Bay",
-    "url": "http://locations.ampol.com.au/en/ampol-foodary-sandy-bay",
-    "phone": "+61362251204",
-    "address": "Sandy Bay Rd, 388",
-    "locality": "Sandy Bay",
-    "postcode": "7005",
-    "country": null,
-    "latitude": -42.902233,
-    "longitude": 147.334669,
-    "openingHours": [
-      {
-        "dayOfWeek": "Monday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Tuesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Wednesday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Thursday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Friday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Saturday",
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      {
-        "dayOfWeek": "Sunday",
-        "opens": "00:00",
-        "closes": "23:59"
       }
     ],
     "services": []
