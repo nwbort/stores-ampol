@@ -8812,7 +8812,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-bannockburn",
     "name": "Ampol Foodary Bannockburn",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-bannockburn",
-    "phone": "+61352811216",
+    "phone": "0",
     "address": "Cnr Midland Hwy & Shelford-bannockb",
     "locality": "Bannockburn",
     "postcode": "3331",
@@ -10869,6 +10869,56 @@
     "country": null,
     "latitude": -33.667555,
     "longitude": 115.350019,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "05:00",
+        "closes": "22:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "05:00",
+        "closes": "22:00"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-butler",
+    "name": "Ampol Foodary Butler",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-butler",
+    "phone": "+61895624905",
+    "address": "Headingly Crescent, 4000",
+    "locality": "Butler",
+    "postcode": "6036",
+    "country": null,
+    "latitude": -31.654096,
+    "longitude": 115.712725,
     "openingHours": [
       {
         "dayOfWeek": "Monday",
@@ -13102,7 +13152,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-coombabah",
     "name": "Ampol Foodary Coombabah",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-coombabah",
-    "phone": "+61755379025",
+    "phone": "0",
     "address": "Oxley Drive Cnr Lae Drive, 384",
     "locality": "Coombabah",
     "postcode": "4216",
@@ -16856,7 +16906,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-gregory-hills",
     "name": "Ampol Foodary Gregory Hills",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-gregory-hills",
-    "phone": "+61246475683",
+    "phone": "0",
     "address": "Gregory Hills Drive, 1",
     "locality": "Gregory Hills",
     "postcode": "2557",
@@ -19248,6 +19298,56 @@
         "dayOfWeek": "Sunday",
         "opens": "00:00",
         "closes": "23:59"
+      }
+    ],
+    "services": []
+  },
+  {
+    "ref": "http://locations.ampol.com.au/en/ampol-foodary-kingsley",
+    "name": "Ampol Foodary Kingsley",
+    "url": "http://locations.ampol.com.au/en/ampol-foodary-kingsley",
+    "phone": "+61894096294",
+    "address": "Kingsley Dr, 86",
+    "locality": "Kingsley",
+    "postcode": "6026",
+    "country": null,
+    "latitude": -31.807012,
+    "longitude": 115.788769,
+    "openingHours": [
+      {
+        "dayOfWeek": "Monday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Tuesday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Wednesday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Thursday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "opens": "06:00",
+        "closes": "21:00"
+      },
+      {
+        "dayOfWeek": "Sunday",
+        "opens": "06:00",
+        "closes": "21:00"
       }
     ],
     "services": []
@@ -22256,7 +22356,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-moama",
     "name": "Ampol Foodary Moama",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-moama",
-    "phone": "+61354809489",
+    "phone": "0",
     "address": "Meninya St, 73",
     "locality": "Moama",
     "postcode": "2731",
@@ -32851,7 +32951,7 @@
     "ref": "http://locations.ampol.com.au/en/ampol-foodary-yarrawonga-telford-st",
     "name": "Ampol Foodary Yarrawonga Telford St",
     "url": "http://locations.ampol.com.au/en/ampol-foodary-yarrawonga-telford-st",
-    "phone": "+61357443897",
+    "phone": "0",
     "address": "Telford St Cnr Gilmore St, 53-55",
     "locality": "Yarrawonga",
     "postcode": "3730",
